@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: a070aad2cc264fd6e3fefdc7a3ad5b092aa0fd72
+source-git-commit: 88fe17c839859a4fdc39f1ebc7494cc226beaab8
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,11 @@ Firefly är den nya familjen av generativa AI-modeller för kreatörer som komme
       </a>
    </td>
    <td>
+      <a href="custom-model-subject.md">
+         <img alt="Skapa en anpassad modell med ett ämne" src="assets/custom-model-subject.png" />
+      </a>
+   </td>
+   <td>
       <a href="custom-model-style.md">
          <img alt="Skapa en anpassad modell med format" src="assets/custom-model-styles.png" />
       </a>
@@ -69,14 +74,14 @@ Firefly är den nya familjen av generativa AI-modeller för kreatörer som komme
          <img alt="Discover Adobe Firefly" src="assets/discover.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="landing-page.md">
          <img alt="Landningssida" src="assets/landing-page.png" />
       </a>
    </td>
-</tr>
-<tr>
-   <td>
+    <td>
       <a href="text-to-image.md">
          <img alt="Text till bild" src="assets/text-to-image.png" />
       </a>
@@ -91,14 +96,14 @@ Firefly är den nya familjen av generativa AI-modeller för kreatörer som komme
          <img alt="Generativ fyllning" src="assets/generative-fill.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="gen-recolor.md">
          <img alt="Generativ omfärgning" src="assets/generative-recolor.png" />
       </a>
    </td>
-</tr>
-<tr>
-  <td>
+   <td>
       <a href="examples.md">
          <img alt="Exempel på hur du använder Firefly" src="assets/examples.png" />
       </a>
@@ -113,22 +118,17 @@ Firefly är den nya familjen av generativa AI-modeller för kreatörer som komme
          <img alt="Generativ fyllning i Photoshop" src="assets/generative-fill-ps.png" />
       </a>
    </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="web-banner-ad.md">
          <img alt="Banderollannons i Photoshop" src="assets/banner-ad-variations.png" />
       </a>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="generative-recolor.md">
             <img alt="Generativ omfärgning i Illustrator" src="assets/firefly-recolor.png" />
       </a>
-   </td>
-   <td>
-      <img alt="Avgränsare" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
    <td>
       <img alt="Avgränsare" src="../assets/Gray_thumbnail.png" />
