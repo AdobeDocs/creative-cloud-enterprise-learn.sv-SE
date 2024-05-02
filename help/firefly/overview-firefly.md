@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 6789f2b08b15dfb0133597f8ccb3f7d3f0a76499
+source-git-commit: 1fc995e8be33317f0d9200bb421fcff0f77a568c
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -60,11 +60,23 @@ Firefly är den nya familjen av generativa AI-modeller för kreatörer som komme
       </a>
    </td>
    <td>
+      <a href="discover.md">
+         <img alt="Discover Adobe Firefly" src="assets/discover.png" />
+      </a>
+   </td>
+   <td>
+      <a href="accelerate-ideas.md">
+         <img alt="Snabba upp kreativiteten" src="assets/accelerate-creative-ideation.png" />
+      </a>
+   </td>
+   <td>
       <a href="reusable-scenes.md">
          <img alt="Skapa scener för återanvändning av varor" src="assets/reusable-scenes.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="custom-model-subject.md">
          <img alt="Skapa en anpassad modell med ett ämne" src="assets/custom-model-subject.png" />
       </a>
@@ -72,13 +84,6 @@ Firefly är den nya familjen av generativa AI-modeller för kreatörer som komme
    <td>
       <a href="custom-model-style.md">
          <img alt="Skapa en anpassad modell med format" src="assets/custom-model-styles.png" />
-      </a>
-   </td>
-</tr>
-<tr>
-   <td>
-      <a href="discover.md">
-         <img alt="Discover Adobe Firefly" src="assets/discover.png" />
       </a>
    </td>
    <td>
@@ -91,14 +96,14 @@ Firefly är den nya familjen av generativa AI-modeller för kreatörer som komme
          <img alt="Text till bild" src="assets/text-to-image.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+ <td>
       <a href="text-effects.md">
          <img alt="Texteffekter" src="assets/text-effects.png" />
       </a>
    </td>
-</tr>
-<tr>
-  <td>
+   <td>
       <a href="gen-fill.md">
          <img alt="Generativ fyllning" src="assets/generative-fill.png" />
       </a>
@@ -113,14 +118,14 @@ Firefly är den nya familjen av generativa AI-modeller för kreatörer som komme
          <img alt="Exempel på hur du använder Firefly" src="assets/examples.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="enable-creative-efficiency.md">
          <img alt="Aktivera kreativ effektivitet" src="assets/enable-creative-efficiency.png" />
       </a>
    </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="generative-fill.md">
          <img alt="Generativ fyllning i Photoshop" src="assets/generative-fill-ps.png" />
       </a>
@@ -134,10 +139,5 @@ Firefly är den nya familjen av generativa AI-modeller för kreatörer som komme
       <a href="generative-recolor.md">
             <img alt="Generativ omfärgning i Illustrator" src="assets/firefly-recolor.png" />
       </a>
-   </td>
-   <td>
-      <img alt="Avgränsare" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
 </table>
