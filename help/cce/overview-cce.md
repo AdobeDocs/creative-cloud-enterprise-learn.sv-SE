@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 64f061905203642776cd23e18a4a9f379a95fb83
 workflow-type: tm+mt
-source-wordcount: '1525'
+source-wordcount: '1394'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 För att vara kreativa på ett företag måste du samarbeta med distribuerade team, upprätta skalbara processer och följa företagets system och riktlinjer. De här självstudiekurserna hjälper dig att lära dig nya funktioner i Creative Cloud - från ett företagsperspektiv.
 
-## Klicka här om du vill se en självstudiekurs (i alfabetisk ordning)
+## Välj en självstudiekurs (produkt i alfabetisk ordning) att visa
 
 ### Adobe Acrobat
 
@@ -46,63 +46,6 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
   <td>
     <img alt="Avgränsare" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Adobe Express (tidigare Adobe Spark)
-
-<table style="table-layout:fixed">
-<tr>
- <td>
-   <a href="adobe-express-content-that-stands-out.md">
-      <img alt="Adobe Express: Innehåll som sticker ut" src="assets/Adobe-Express-content-that-stands-out.png" />
-   </a>
-    <div>
-   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express: Innehåll som sticker ut</strong></a>
-    </div>
-    <em> Skapa snygg grafik, webbsidor och videoberättelser på bara några minuter med Adobe Express</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Skapa ditt varumärke i Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Skapa ditt varumärke i Adobe Spark (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark gör det enkelt att definiera ditt varumärke</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="Lägga till ett bildspel i din Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
-   </a>
-    <div>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Lägga till ett bildspel i din Spark Page (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark har fantastiska och lättanvända layoutkomponenter som gör dina webberättelser levande</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Skapa ditt varumärke i Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Skapa ditt varumärke i Adobe Spark (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark gör det enkelt att definiera ditt varumärke</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
-      <img alt="Träffa din nya produktionskonstnär: Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
-   </a>
-    <div>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Träffa din nya produktionskonstnär: Adobe Spark Post (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark lär dig av dig när du skapar layouter, definierar färger, importerar konstverk och ordnar element i dina kompositioner</em>
     <br>
   </td>
 </tr>
@@ -181,17 +124,17 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
    <div>
    <a href="sharecclibraries.md"><strong>Dela varumärkesresurser med Creative Cloud Libraries för teams</strong></a>
     </div>
-    <em>Lär dig skapa, använda och dela varumärkesmediefiler för din grupp eller ditt team med hjälp av Creative Cloud Libraries för team</em>
+    <em>Lär dig hur du skapar, använder och delar varumärkesresurser för din grupp eller ditt team med hjälp av Creative Cloud Libraries for teams</em>
     <br>
   </td>
   <td>
    <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf">
-      <img alt="Skapa, lägg till och dela dina varumärkesresurser med Creative Cloud Libraries" src="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.jpg" />
+      <img alt="Skapa, lägga till och dela varumärkesresurser med Creative Cloud Libraries" src="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.jpg" />
    </a>
     <div>
-   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>Skapa, lägg till och dela dina varumärkesresurser med Creative Cloud Libraries (PDF)</strong></a>
+   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>Skapa, lägga till och dela varumärkesresurser med Creative Cloud Libraries (PDF)</strong></a>
     </div>
-    <em>Creative Cloud Libraries tillhandahåller ett inbyggt varumärkessystem som gör att designer kan dela varumärkesresurser mellan kreativa team</em>
+    <em>Creative Cloud Libraries är ett inbyggt varumärkessystem som gör att designers kan dela varumärkesresurser mellan olika kreativa team</em>
     <br>
   </td>
   </tr>
@@ -212,12 +155,12 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <br>
   </td>
   <td>
-    <img alt="Avgränsare" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <img alt="Avstånd" src="../assets/acrobat_PDF_grayspacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Avgränsare" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <img alt="Avstånd" src="../assets/acrobat_PDF_grayspacer_96.png" />
     <div>
     <br>
   </td>
@@ -250,12 +193,17 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
   </td>
   <td>
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf">
-      <img alt="Från Lightroom på webben till InDesignen via Creative Cloud" src="assets/FromLightroomWebtoInDesignviaCreativeCloud.jpg" />
+      <img alt="Från Lightroom Web till InDesign via Creative Cloud" src="assets/FromLightroomWebtoInDesignviaCreativeCloud.jpg" />
    </a>
     <div>
-   <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Från Lightroom på webben till InDesignen via Creative Cloud (PDF)</strong></a>
+   <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Från Lightroom Web till InDesign via Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Var kreativ med allt från kameran till den färdiga designen med filer och bibliotek från Creative Cloud</em>
+    <em>Ta din kreativitet från kameran till slutversionen med Creative Cloud-filer och bibliotek</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Avstånd" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -318,7 +266,7 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <br>
   </td>
   <td>
-    <img alt="Avgränsare" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Avstånd" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
@@ -429,12 +377,12 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
   </td>
    <td>
    <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf">
-      <img alt="Samla in och införliva designfeedback enkelt med Adobe Acrobat och InDesign" src="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.jpg" />
+      <img alt="Samla enkelt in och lägg in designkommentarer med Adobe Acrobat och InDesign" src="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>Samla in och införliva designfeedback enkelt med Adobe Acrobat och InDesign (PDF)</strong></a>
+   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>Samla enkelt in och lägg in designkommentarer med Adobe Acrobat och InDesign (PDF)</strong></a>
     </div>
-    <em>Intressenter kan använda Acrobat för att lägga till detaljerade kommentarer och anteckningar, och sedan kan du snabbt hämta tillbaka dessa markeringar i Adobe InDesign för att se dem i layoutens sammanhang</em>
+    <em>Intressenter kan använda Acrobat för att lägga till detaljerade kommentarer och anteckningar, och sedan kan du snabbt föra över dessa markeringar till Adobe InDesign för att se dem i layouten</em>
     <br>
   </td>
   <td>
@@ -480,7 +428,7 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <br>
   </td>
   <td>
-    <img alt="Avgränsare" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Avstånd" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -493,12 +441,12 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
 <tr>
   <td>
     <a href="alphabetsoup.md">
-      <img alt="Avkoda alfabetsoppan av grafiska format" src="assets/Alphabetsoup.png" />
+      <img alt="Avkoda alfabetsoppa i grafikformat" src="assets/Alphabetsoup.png" />
     </a>
     <div>
-    <a href="alphabetsoup.md"><strong>Avkoda alfabetsoppan av grafiska format</strong></a>
+    <a href="alphabetsoup.md"><strong>Avkoda alfabetsoppa i grafikformat</strong></a>
     </div>
-    <em>JPG-, PNG-, SVG-, GIF- och EPS-filer används ofta inom design, vissa för webbsidor, andra för presentationer, publikationer och projekt. Men vad betyder de, och vad ska du välja?</em>
+    <em>JPG, PNG, SVG, GIF och EPS används ofta i designen, vissa för webbsidor, andra för presentationer, publikationer och kreativa projekt. Men vad menar de, och vilka ska du välja?</em>
     <br>
   </td>
   <td>
@@ -516,7 +464,7 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
       <img alt="Skapa biografer med Photoshop" src="assets/CinemagraphsPS.jpg" />
     </a>
     <div>
-    <a href="cinemagraphps.md"><strong>Skapa biografer med Photoshop</strong></a>
+    <a href="cinemagraphps.md"><strong>Skapa filmstycken med Photoshop</strong></a>
     </div>
     <em>I den här stegvisa videosjälvstudiekursen skapar du ett levande foto genom att kombinera videoklipp från Adobe [!DNL Stock] med smarta maskeringstekniker i Photoshop</em>
     <br>
