@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 1%
+source-wordcount: '363'
+ht-degree: 0%
 
 ---
 
@@ -35,9 +35,9 @@ Adobe Experience Manager är branschledande inom hantering av digitala upplevels
       <img alt="InDesign filer som finns i AEM" src="../assets/InDesign-Files-Hosten-in-AEM.jpg" />
    </a>
     <div>
-   <a href="aem.md#tutorial2"><strong>InDesign filer som finns i AEM</strong></a>
+   <a href="aem.md#tutorial2"><strong>InDesign filer i AEM</strong></a>
     </div>
-    <em>Ha dina InDesigner som värddokument i AEM så att flera användare kan skapa innehållsvariationer - samtidigt</em>
+    <em>Ha InDesignens dokument i AEM så att flera användare kan skapa innehållsvariationer - samtidigt</em>
     <br>
   </td>
   <td>
@@ -97,7 +97,7 @@ ERIC ROWSE, KONSULT FÖR SENIORA LÖSNINGAR (DIGITALA MEDIA)
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html"><strong>AEM Assets</strong></a>
     </div>
-    <em>Nästa generations hantering av digitala tillgångar</em>
+    <em>Nästa generations hantering av digitala resurser</em>
     <br>
   </td>
   <td>
@@ -107,7 +107,7 @@ ERIC ROWSE, KONSULT FÖR SENIORA LÖSNINGAR (DIGITALA MEDIA)
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets: Fördelar</strong></a>
     </div>
-    <em>Få dina digitala resurser att fungera för dig</em>
+    <em>Låt dina digitala resurser arbeta för dig</em>
     <br>
   </td>
 </tr>
@@ -117,8 +117,8 @@ ERIC ROWSE, KONSULT FÖR SENIORA LÖSNINGAR (DIGITALA MEDIA)
 
 **Asset Link och AEM-resurser**
 
-[Lär dig mer och support](https://helpx.adobe.com/support/experience-manager.html) är navet för ytterligare självstudiekurser, Nyheter och länkar till användarforum.
+[Utbildning och support](https://helpx.adobe.com/support/experience-manager.html) är navet för ytterligare självstudiekurser, nyheter och länkar till communityforum.
 
-**Versionen från oktober 2020**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

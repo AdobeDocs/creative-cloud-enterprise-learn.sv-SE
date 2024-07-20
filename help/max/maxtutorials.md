@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 24%
+source-wordcount: '322'
+ht-degree: 9%
 
 ---
 
@@ -37,7 +37,7 @@ För kreativa företag måste du samarbeta med distribuerade team, upprätta ska
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
-    <em>Skapa fotorealistiska 3D-bilder för branding, produktbilder och förpackningsdesign</em>
+    <em>Skapa fotorealistiska 3D-bilder för varumärken, produktbilder och förpackningsdesign</em>
     <br>
   </td>
   <td>
@@ -47,7 +47,7 @@ För kreativa företag måste du samarbeta med distribuerade team, upprätta ska
     <div>
     <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
-    <em>Vektorgrafik och -illustrationer</em>
+    <em>Vektorgrafik och illustrationer</em>
     <br>
   </td>
 </tr>
@@ -59,7 +59,7 @@ För kreativa företag måste du samarbeta med distribuerade team, upprätta ska
     <div>
     <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
-    <em>Skapa layouter för tryck och digital publicering</em>
+    <em>Siddesign och layout för tryck och digital publicering</em>
     <br>
   </td>
   <td>
@@ -77,7 +77,7 @@ För kreativa företag måste du samarbeta med distribuerade team, upprätta ska
       <img alt="Rush" src="../assets/Rush.jpg" />
     </a>
     <div>
-    <a href="rush.md"><strong>Rush</strong></a>
+    <a href="rush.md"><strong>RUSH</strong></a>
     </div>
     <em>Skapa och dela onlinevideor var du vill</em>
     <br>
@@ -118,7 +118,7 @@ För kreativa företag måste du samarbeta med distribuerade team, upprätta ska
     <div>
     <a href="capture.md"><strong>Capture</strong></a>
     </div>
-    <em>Omvandla en bild till ett färgtema, vektorgrafik, pensel med mera</em>
+    <em>Omvandla en bild till färgtema, vektorgrafik, pensel och annat</em>
     <br>
   </td>
   <td>
@@ -128,7 +128,7 @@ För kreativa företag måste du samarbeta med distribuerade team, upprätta ska
     <div>
     <a href="fresco.md"><strong>Fresco</strong></a>
     </div>
-    <em>Återupptäck glädjen med att teckna och måla</em>
+    <em>Återupptäck glädjen med att teckna och måla överallt</em>
     <br>
   </td>
   <td>
@@ -138,7 +138,7 @@ För kreativa företag måste du samarbeta med distribuerade team, upprätta ska
     <div>
     <a href="illustratoripad.md"><strong>Illustrator på iPad</strong></a>
     </div>
-    <em>Vektorgrafik och -illustrationer</em>
+    <em>Vektorgrafik och illustrationer</em>
     <br>
   </td>
 </tr>
@@ -148,7 +148,7 @@ För kreativa företag måste du samarbeta med distribuerade team, upprätta ska
       <img alt="Photoshop på iPad." src="../assets/PSoniPad.jpg" />
     </a>
     <div>
-    <a href="photoshopipad.md"><strong>Photoshop på iPad.</strong></a>
+    <a href="photoshopipad.md"><strong>Photoshop på iPad</strong></a>
     </div>
     <em>Redigera, gör montage och skapa vackra bilder, grafik och digital konst på datorn och iPad</em>
     <br>
@@ -177,7 +177,7 @@ För kreativa företag måste du samarbeta med distribuerade team, upprätta ska
     <div>
     <a href="aem.md"><strong>AEM Assets och Asset Link</strong></a>
     </div>
-    <em>Nästa generations hantering av digitala tillgångar</em>
+    <em>Nästa generations hantering av digitala resurser</em>
     <br>
   </td>
   <td>
@@ -187,7 +187,7 @@ För kreativa företag måste du samarbeta med distribuerade team, upprätta ska
     <div>
     <a href="creativeclouddesktopapp.md"><strong>Creative Cloud-datorprogrammet</strong></a>
     </div>
-    <em>Datorprogrammet Creative Cloud är navet där du hanterar CC-program, tjänster och samarbeten - och mycket mer!</em>
+    <em>Creative Cloud-datorprogrammet är navet där du kan hantera CC-program, tjänster och samarbeten - och mycket mer!</em>
     <br>
   </td>
   <td>
@@ -197,7 +197,7 @@ För kreativa företag måste du samarbeta med distribuerade team, upprätta ska
     <div>
     <a href="cclibraries.md"><strong>CC Libraries</strong></a>
     </div>
-    <em>Ha dina mediefiler till hands och dina projekt till hands på ett varumärke</em>
+    <em>Ha dina mediefiler till hands och dina projekt till varumärket</em>
     <br>
   </td>
 </tr>

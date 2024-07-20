@@ -1,6 +1,6 @@
 ---
-title: Skapa en fet etikett med Adobe [!DNL Stock] och smarta Photoshop-objekt
-description: Designa och visualisera dina specialdesigner med realistiska förpackningsmallar från Adobe [!DNL Stock]
+title: Skapa en fetstilt etikett med Adobe [!DNL Stock] och smarta Photoshop-objekt
+description: Designa och visualisera dina egna designer med realistiska förpackningsmallar från Adobe [!DNL Stock]
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Skapa en fet etikett med Adobe [!DNL Stock] och smarta Photoshop-objekt
+# Skapa en fetstilt etikett med mallarna Adobe [!DNL Stock] och smarta objekt i Photoshop
 
-Designa och visualisera dina specialdesigner med realistiska förpackningsmallar från Adobe [!DNL Stock]    .
+Designa och visualisera dina anpassade designer med realistiska förpackningsmallar från Adobe [!DNL Stock]    .
 
 >[!VIDEO](https://video.tv.adobe.com/v/331823?hidetitle=true)

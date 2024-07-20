@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Express] Användningsfall Tutorials
-description: Kom igång snabbt på Adobe [!DNL Express] användningsfall
+description: Kom igång snabbt med Adobe [!DNL Express] användningsfall
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Intermediate
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Express] självstudiekurser om användningsfall
+# Självstudiekurser om användningsfall för Adobe [!DNL Express]
 
 Upptäck hur olika team i organisationen kan dra nytta av Adobe Expressen.
 

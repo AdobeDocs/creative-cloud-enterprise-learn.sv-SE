@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Photoshop är världens bästa bildbehandlings- och grafikdesignprogram. Det ger
     <div>
    <a href="photoshop.md#tutorial1"><strong>Redigera bilder så att de matchar din kampanj</strong></a>
     </div>
-    <em>Använd de kraftfulla markerings- och färgredigeringsverktygen i Adobe Photoshop för att dramatiskt ändra en bild så att den passar ditt företags varumärkesbehov</em>
+    <em>Använd de kraftfulla markerings- och färgredigeringsverktygen i Adobe Photoshop för att dramatiskt ändra en bild som passar ditt företags varumärkesbehov</em>
     <br>
   </td>
   <td>
@@ -35,9 +35,9 @@ Photoshop är världens bästa bildbehandlings- och grafikdesignprogram. Det ger
         <img alt="Markera och ersätta himlen" src="../assets/PS_Sky_Replace_wood.jpg" />
     </a>
     <div>
-    <a href="photoshop.md#tutorial2"><strong>Markera och ersätta himlen</strong></a>
+    <a href="photoshop.md#tutorial2"><strong>Markera och ersätt himlen</strong></a>
     </div>
-    <em>Markera automatiskt himlen i en bild och ersätt den med en valfri himmel. Ändra automatiskt färgerna i bilden så att de matchar markeringen</em>
+    <em>Markera himlen i en bild automatiskt och ersätt den med en valfri himmel genom att justera färgerna i bilden automatiskt så att de matchar markeringen</em>
     <br>
   </td>
   <td>
@@ -81,10 +81,10 @@ A.J Wood, Senior Solutions Consultant (Digital Media)
 
 ![Photoshop-logotyp](../assets/ps_appicon_96.png)
 
-**Resurser för Photoshop**
+**Photoshop-resurser**
 
-[Lär dig mer och support](https://helpx.adobe.com/support/photoshop.html) är ditt nav för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/photoshop/using/whats-new.html)och länkar till användarforum.
+[Utbildning och support](https://helpx.adobe.com/support/photoshop.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/photoshop/using/whats-new.html) och länkar till communityforum.
 
-**Versionen från oktober 2020**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

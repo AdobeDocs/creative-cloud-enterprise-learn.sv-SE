@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 3%
+source-wordcount: '233'
+ht-degree: 2%
 
 ---
 
@@ -32,12 +32,12 @@ Ha dina mediefiler till hands och dina projekt till hands i varumärket.
   </td>
    <td>
    <a href="cclibraries.md#tutorial2">
-      <img alt="Dela CC-bibliotek" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
+      <img alt="Dela CC Libraries" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial2"><strong>Dela CC-bibliotek</strong></a>
+   <a href="cclibraries.md#tutorial2"><strong>Dela CC Libraries</strong></a>
     </div>
-    <em>Arbeta mer effektivt, se till att vara konsekvent och håll dig enkelt synkroniserad med ditt team</em>
+    <em>Arbeta effektivare, se till att allt är konsekvent och håll dig enkelt synkroniserad med ditt team</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ Ha dina mediefiler till hands och dina projekt till hands i varumärket.
 </tr>
 </table>
 
-## Skapa CC-bibliotek (4:38) {#tutorial1}
+## Skapa CC Libraries (4:38) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
@@ -62,7 +62,7 @@ I den här självstudiekursen får du lära dig mer om att:
 **Presenteras av:**
 Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
-## Dela CC-bibliotek (4:14) {#tutorial2}
+## Dela CC Libraries (4:14) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
@@ -80,8 +80,8 @@ Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 **CC Libraries-resurser**
 
-[Lär dig mer och support](https://helpx.adobe.com/creative-cloud/help/libraries.html) är navet för ytterligare självstudiekurser, Nyheter och länkar till användarforum.
+[Utbildning och support](https://helpx.adobe.com/creative-cloud/help/libraries.html) är navet för ytterligare självstudiekurser, nyheter och länkar till communityforum.
 
-**Versionen från oktober 2020**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

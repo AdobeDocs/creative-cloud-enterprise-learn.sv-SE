@@ -1,6 +1,6 @@
 ---
 title: Skapa en interaktiv produktkonfigurator med Adobe [!DNL Stock]
-description: Utnyttja fördelarna med interaktivitet, animering och redigerbara bilder från Adobe [!DNL Stock] att presentera finansiell information visuellt
+description: Använd kraften i interaktivitet, animering och redigerbara bilder från Adobe [!DNL Stock] för att presentera ekonomisk information på ett visuellt sätt
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Skapa en interaktiv produktkonfigurator med Adobe [!DNL Stock]
 
-Utnyttja fördelarna med interaktivitet, animering och redigerbara bilder från Adobe [!DNL Stock] att presentera finansiell information visuellt.
+Använd funktionerna i interaktivitet, animering och redigerbara bilder från Adobe [!DNL Stock] för att presentera ekonomisk information på ett visuellt sätt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331832?hidetitle=true)

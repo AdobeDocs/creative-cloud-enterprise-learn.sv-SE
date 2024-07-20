@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 2%
 
 ---
@@ -27,7 +27,7 @@ Photoshop är världens bästa bildbehandlings- och grafikdesignprogram. Det ger
     <div>
    <a href="photoshopipad.md#tutorial1"><strong>Introduktion till Photoshop på iPad</strong></a>
     </div>
-    <em>Ta en rundtur i gränssnittet och lär dig några funktioner i Photoshop som har gjorts om för användning på Apple iPad</em>
+    <em>Ta en rundtur i gränssnittet och lär dig några nya funktioner i Photoshop som finns på Apple iPad</em>
     <br>
   </td>
   <td>
@@ -59,12 +59,12 @@ I den här självstudiekursen får du lära dig mer om att:
 **Presenteras av:**
 Dan Armstrong, lösningskonsult (digitala medier)
 
-![Photoshop på iPad-logotypen](../assets/ps_appicon_96.png)
+![Photoshop i iPad-logotypen](../assets/ps_appicon_96.png)
 
-**Resurser för Photoshop på iPad**
+**Photoshop på iPad-resurser**
 
 [Lär dig mer och support](https://helpx.adobe.com/support/photoshop.html) är navet för ytterligare självstudiekurser och länkar till användarforum.
 
-**Versionen från oktober 2020**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

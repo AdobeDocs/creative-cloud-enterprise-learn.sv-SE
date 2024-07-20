@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
 source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 1%
+source-wordcount: '510'
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,8 @@ I den här inspelade livesessionen visas exempel på mallbaserade arbetsflöden 
 
 **Presenteras av:**
 
-Eric Rowse, Senior Solutions Consultant (Digital Media) Derek Lu, Principal Solutions Consultant (Proof of Concept)
+ERIC ROWSE, KONSULT FÖR SENIORA LÖSNINGAR (DIGITALA MEDIA)
+Derek Lu, Principal Solutions Consultant (koncepttest)
 
 ## Nya verktyg för det nya normala (29:57)
 
@@ -47,7 +48,9 @@ I den här inspelade livesessionen får du lära dig hur du:
 
 **Presenteras av:**
 
-Dave Weinberg, Senior Solutions Consultant (Digital Media) Liz Tanonis, Solutions Consultant (Digital Media) Emilie Enke, Solutions Consultant (Digital Media)
+Dave Weinberg, Senior Solutions Consultant (Digital Media)
+Liz Tanonis, lösningskonsult (digitala medier)
+Emilie Enke, lösningskonsult (digitala medier)
 
 ## Samarbete med CC Libraries (27:58)
 
@@ -63,7 +66,8 @@ I den här självstudiekursen får du lära dig mer om att:
 
 **Presenteras av:**
 
-Ashley Dvorin, Senior Solutions Consultant (Digital Media) Emily Palmer, lösningskonsult (Digital Media)
+Ashley Dvorin, Senior Solutions Consultant (Digital Media)
+Emily Palmer, lösningskonsult (digitala medier)
 
 ## Om demomediefilerna: LOCAL
 
@@ -71,4 +75,4 @@ Teamet närmade sig att skapa demoresurserna som ett företag skulle kunna. Vi t
 
 Som svar på covid-19 har LOCAL, ett företag som är värd för liveevenemang som firar roliga, galna semestrar, gått på onlinesemester och samarbetar med små, lokala livsmedelstruckar och restauranger för att marknadsföra sina verksamheter - och hjälpa dem att hålla sig öppna.
 
-![LOKALA demonstrationsresurser](../assets/demo_local_assets-WIP-v1.jpg)
+![LOKALA DEMOMEDIEFILER](../assets/demo_local_assets-WIP-v1.jpg)

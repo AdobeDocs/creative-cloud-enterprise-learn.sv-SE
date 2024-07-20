@@ -8,15 +8,15 @@ exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
 source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 15%
+ht-degree: 0%
 
 ---
 
 # Creative Cloud for enterprise - ämnen för driftsättning och hantering
 
-Creative Cloud for enterprise stöder anpassad driftsättning och flexibel licenshantering, och det kan kombineras med andra erbjudanden till företag.
+Creative Cloud for enterprise stöder anpassad driftsättning och flexibel justering av licenser, och det fungerar med andra Adobe-företagserbjudanden.
 
-* [Förstå när serienummer för Creative Cloud for enterprise och Acrobat upphör att gälla](cceserial.md)
+* [Förstå Creative Cloud for enterprise- och Acrobat-serienummer som löper ut](cceserial.md)
 Läs mer om hur Creative Cloud för företag och Acrobat upphör att gälla.
 
 * [Löper serienummer ut? Varför det är dags för namngiven användare-licensiering](nameduserlicensing.md)

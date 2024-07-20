@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Firefly] översikt
+# Översikt över Adobe [!DNL Firefly]
 
 Firefly är den nya familjen av generativa AI-modeller för kreatörer som kommer till Adobe-produkter. De fokuserar i första hand på bild- och texteffektgenerering. I Firefly finns nya sätt att tänka, skapa och kommunicera, samtidigt som det ger en avsevärd förbättring av arbetsflödet.
 

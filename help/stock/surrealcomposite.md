@@ -1,5 +1,5 @@
 ---
-title: Skapa en halvsurrealistisk sammansatt bild med Adobe [!DNL Stock]
+title: Skapa en halvsurrealistisk sammansättning med Adobe [!DNL Stock]
 description: Skapa en minnesvärd redaktionell bild genom att kombinera flera bilder med färg, rörelse och maskeringseffekter
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Skapa en halvsurrealistisk sammansatt bild med Adobe [!DNL Stock]
+# Skapa en halvsurrealistisk sammansättning med Adobe [!DNL Stock]
 
 Skapa en minnesvärd redaktionell bild genom att kombinera flera bilder med färg, rörelse och maskeringseffekter.
 

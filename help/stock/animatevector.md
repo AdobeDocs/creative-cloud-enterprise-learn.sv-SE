@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Animera en Adobe [!DNL Stock] vektorillustration i Photoshop
+# Animera en [!DNL Stock]-vektorillustration från Adobe i Photoshop
 
 Få animering i nyhetsbrevsgrafiken med redigerbara vektorer för Adobe [!DNL Stock].
 

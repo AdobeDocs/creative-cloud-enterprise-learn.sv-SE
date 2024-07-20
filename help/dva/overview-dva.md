@@ -24,9 +24,9 @@ Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik,
       <img alt="Professionella mallar för rörlig grafik" src="assets/MORGTs.png" />
    </a>
     <div>
-   <a href="motion-graphics-templates.md"><strong>Professionella mallar för rörlig grafik</strong></a>
+   <a href="motion-graphics-templates.md"><strong>Professionella mallar för rörelsegrafik</strong></a>
     </div>
-    <em>Mallar för rörelsegrafik (.mogrt) är ett effektivt sätt att samarbeta och skapa anpassningsbara paket för rörelsegrafik - titlar, logotypanimeringar, nedre tredjedelar, och dela dem med redaktionella team</em>
+    <em>Mallar för rörelsegrafik (.mogrt) är ett effektivt sätt att samarbeta och skapa anpassningsbara paket för rörelsegrafik - titlar, logotypanimeringar, nedre tredjedelar och dela dem med redaktionella team</em>
     <br>
   </td>
   <td>
@@ -36,7 +36,7 @@ Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik,
     <div>
    <a href="video-review-frame-io.md"><strong>Videogranskning med Frame.io</strong></a>
     </div>
-    <em>Lär dig hur Frame.io-tillägget för Adobe Premiere Pro låter dig centralisera och dela resurser, ta emot kommentarer i realtid, spåra ändringar och få snabbare godkännanden - allt utan att lämna tidslinjen</em>
+    <em>Lär dig hur Frame.io-tillägget för Adobe Premiere Pro gör det möjligt för dig att centralisera och dela resurser, ta emot kommentarer i realtid, spåra ändringar och få snabbare godkännanden - allt utan att du behöver lämna tidslinjen</em>
     <br>
   </td>
   <td>

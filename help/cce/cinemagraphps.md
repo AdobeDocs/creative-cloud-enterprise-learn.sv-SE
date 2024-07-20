@@ -22,4 +22,4 @@ I den här stegvisa videosjälvstudiekursen skapar du ett levande foto genom att
 
 [**Hämta PDF-handboken för snabbreferens**](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)
 
-[![Bild på första sidan i snabbguiden](assets/CreatingCinemagraphswithPhotoshopPage1.png)](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)
+[![Bild av första sidan i snabbguiden](assets/CreatingCinemagraphswithPhotoshopPage1.png)](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)

@@ -1,5 +1,5 @@
 ---
-title: Skapa ett diagram för jämförelse av produktfunktioner med Adobe [!DNL Stock]
+title: Skapa ett diagram för produktjämförelse med Adobe [!DNL Stock]
 description: Skapa en bild som jämför produktprisplaner för att ge potentiella kunder den information de behöver så snabbt som möjligt
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Skapa ett diagram för jämförelse av produktfunktioner med Adobe [!DNL Stock]
+# Skapa ett diagram för produktjämförelse med Adobe [!DNL Stock]
 
 Skapa en bild som jämför produktprisplaner för att ge potentiella kunder den information de behöver på en gång.
 

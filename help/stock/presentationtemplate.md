@@ -1,6 +1,6 @@
 ---
-title: Anpassa en Adobe [!DNL Stock] presentationsmall som ser proffsig men ändå iögonfallande ut
-description: Skapa en snygg, stiliserad presentation på bara några minuter med hjälp av bilder och mallar från Adobe [!DNL Stock] och några lättanvända specialeffekter
+title: Anpassa en Adobe [!DNL Stock] presentationsmall så att den ser professionell ut men ändå iögonfallande
+description: Skapa snygga, stiliserade presentationer på bara några minuter med hjälp av foton och mallar från Adobe [!DNL Stock] och några lättanvända specialeffekter
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Anpassa en Adobe [!DNL Stock] presentationsmall som ser proffsig men ändå iögonfallande ut
+# Anpassa en presentationsmall för Adobe [!DNL Stock] så att den ser proffsig ut men ändå iögonfallande ut
 
-Skapa en snygg, stiliserad presentation på bara några minuter med hjälp av bilder och mallar från Adobe [!DNL Stock] och några lättanvända specialeffekter.
+Skapa en snygg, stiliserad presentation på bara några minuter med foton och mallar från Adobe [!DNL Stock] och några lättanvända specialeffekter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331837?hidetitle=true)

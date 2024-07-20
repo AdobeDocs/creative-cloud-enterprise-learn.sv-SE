@@ -1,6 +1,6 @@
 ---
 title: Dela varumärkesresurser med Creative Cloud Libraries för Teams
-description: Lär dig skapa, använda och dela varumärkesmediefiler för din grupp eller ditt team med hjälp av Creative Cloud Libraries för team
+description: Lär dig skapa, använda och dela varumärkesmediefiler för din grupp eller ditt team med Creative Cloud Libraries för teams
 feature: Integrations
 role: User
 level: Beginner, Intermediate
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # Dela varumärkesresurser med Creative Cloud Libraries för teams
 
-Lär dig skapa, använda och dela varumärkesmediefiler för din grupp eller ditt team med hjälp av Creative Cloud Libraries för team. Resurser i Creative Cloud Libraries för team lagras på en central plats och är inte knutna till det enskilda användarkontot. Du kan identifiera teambibliotek på menyn ![byggbild](assets/Smock_Building_18_N.png) -ikonen.
+Lär dig skapa, använda och dela varumärkesmediefiler för din grupp eller ditt team med Creative Cloud Libraries för teams. Resurser i Creative Cloud Libraries för team lagras på en central plats och är inte knutna till det enskilda användarkontot. Du kan identifiera teambibliotek genom ikonen ![skapa bild](assets/Smock_Building_18_N.png).
 
 >[!TIP]
 >
->Använd Creative Cloud Libraries för team när din organisation måste behålla ägarskapet av sina kreativa resurser. Några exempel är: företagsstilguide, delade projekt och gränssnittsdesignelement.
+>Använd Creative Cloud Libraries för teams när din organisation måste behålla ägarskapet av sina kreativa resurser. Några exempel är: företagsstilguide, delade projekt och gränssnittsdesignelement.
 
 <br> 
 

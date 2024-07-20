@@ -1,6 +1,6 @@
 ---
 title: Skapa ett interaktivt turistfoto med Adobe [!DNL Stock] och XD
-description: Skapa snabbt ett interaktivt foto med Adobe i prototypen för din webbplats [!DNL Stock] och XD
+description: Skapa snabbt ett interaktivt foto i prototypen för din webbplats med Adobe [!DNL Stock]  och XD
 feature: Licensable Assets, UI Design
 role: User
 level: Beginner, Intermediate
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Skapa ett interaktivt turistfoto med Adobe [!DNL Stock] och XD
 
-Skapa snabbt ett interaktivt foto med Adobe i prototypen för din webbplats [!DNL Stock] och XD.
+Skapa snabbt ett interaktivt foto i prototypen för din webbplats med Adobe [!DNL Stock] och XD.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331820?hidetitle=true)

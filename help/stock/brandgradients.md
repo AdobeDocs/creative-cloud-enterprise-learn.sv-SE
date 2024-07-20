@@ -1,5 +1,5 @@
 ---
-title: Skapa sammanhängande varumärkesbilder med vackra övertoningar och Adobe [!DNL Stock] resurser
+title: Skapa sammanhängande varumärkesbilder med snygga övertoningar och Adobe [!DNL Stock] resurser
 description: Skapa varumärkesidentitet med olika bilder genom att kombinera färger och övertoningar i hela din reklamkampanj
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Skapa sammanhängande varumärkesbilder med vackra övertoningar och Adobe [!DNL Stock] resurser
+# Skapa sammanhängande varumärkesbilder med snygga övertoningar och resurser från Adobe [!DNL Stock]
 
 Få animering i nyhetsbrevsgrafiken med redigerbara vektorer för Adobe [!DNL Stock].
 

@@ -1,6 +1,6 @@
 ---
 title: Få typografi att sticka ut med masker och animeringar
-description: Gör dina texter mer levande med hjälp av element från Adobe [!DNL Stock] och animeringsstilar från After Effects
+description: Gör din text mer levande med element från Adobe [!DNL Stock] och animeringsstilar från After Effects
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Få typografi att sticka ut med masker och animeringar
 
-Gör dina texter mer levande med hjälp av element från Adobe [!DNL Stock] och animeringsstilar från After Effects.
+Gör texten mer levande med element från Adobe [!DNL Stock] och animeringsstilar från After Effects.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331807?hidetitle=true)

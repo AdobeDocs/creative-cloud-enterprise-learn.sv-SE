@@ -24,4 +24,4 @@ JPG-, PNG-, SVG-, GIF- och EPS-filer används ofta inom design, vissa för webbs
 
 [**Hämta PDF-handboken för snabbreferens**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
 
-[![Bild på första sidan i snabbguiden](assets/DecodingthealphabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
+[![Bild av första sidan i snabbguiden](assets/DecodingthealphabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)

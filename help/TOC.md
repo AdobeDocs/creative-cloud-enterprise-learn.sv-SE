@@ -23,11 +23,11 @@ ht-degree: 4%
    + [Översikt](cce/overview-cce.md)
    + Tutorials {#ccetutorials}
       + [Acrobat för innehållsskapare](cce/acrobat-content-creators.md)
-      + [Förbättra arbetsflödena för CC med CC Libraries](cce/cc-workflows-cc-libraries.md)
+      + [Förbättra arbetsflöden för CC med CC Libraries](cce/cc-workflows-cc-libraries.md)
       + [Tämja typångest](cce/taming-type-anxiety.md)
       + [Adobe Express: Innehåll som sticker ut](cce/adobe-express-content-that-stands-out.md)
       + [Samarbete: Framtiden för kreativitet](cce/collaboration-the-future-of-creativity.md)
-      + [Skapa Creative Cloud-bibliotek för team](cce/ccteamlibraries.md)
+      + [Skapa Creative Cloud Libraries för teams](cce/ccteamlibraries.md)
       + [Dela varumärkesresurser med Creative Cloud Libraries för teams](cce/sharecclibraries.md)
       + [Skapa unika sammansatta bilder med Adobe [!DNL Stock] och Photoshop för iPad](cce/compositepsipad.md)
       + [Skapa biografer med Photoshop](cce/cinemagraphps.md)
@@ -110,8 +110,8 @@ ht-degree: 4%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Översikt](firefly/overview-firefly.md)
    + Tutorials {#firefly-tutorials}
-      + [Översikt över [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
-      + [Upptäck [!DNL Adobe Firefly]](firefly/discover.md)
+      + [Översikt över  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
+      + [Upptäck  [!DNL Adobe Firefly]](firefly/discover.md)
       + [Snabba upp kreativiteten](firefly/accelerate-ideas.md)
       + [Skapa återanvändbara scener för varor](firefly/reusable-scenes.md)
       + [Skapa en anpassad modell med ett ämne](firefly/custom-model-subject.md)
@@ -121,39 +121,39 @@ ht-degree: 4%
       + [Texteffekter](firefly/text-effects.md)
       + [Generativ fyllning](firefly/gen-fill.md)
       + [Generativ omfärgning](firefly/gen-recolor.md)
-      + [Exempel på hur du använder [!DNL Firefly]](firefly/examples.md)
+      + [Exempel på hur du använder  [!DNL Firefly]](firefly/examples.md)
       + [Aktivera kreativ effektivitet](firefly/enable-creative-efficiency.md)
-      + [Banderollannons variationer i [!DNL Photoshop]](firefly/web-banner-ad.md)
-      + [Generativ ifyllning [!DNL Photoshop]](firefly/generative-fill.md)
-      + [Generativ omfärgning i [!DNL Illustrator]](firefly/generative-recolor.md)
-   + Webbinarier {#firefly-webinars}
+      + [Varianter av banderollannons i  [!DNL Photoshop]](firefly/web-banner-ad.md)
+      + [Generativ fyllning i  [!DNL Photoshop]](firefly/generative-fill.md)
+      + [Generativ omfärgning i  [!DNL Illustrator]](firefly/generative-recolor.md)
+   + Webbseminarium {#firefly-webinars}
       + [Experimentera med Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Översikt](stock/overview-stock.md)
    + Tutorials {#stocktutorials}
       + [Fantastiska digitala resurser](stock/stunning-digital-assets.md)
       + [Sök i Adobe [!DNL Stock] licenshistorik](stock/searchstock.md)
-      + [Lägg till en handritad estetik i Adobe [!DNL Stock] images](stock/handdrawn.md)
+      + [Gör Adobe [!DNL Stock] bilder mer estetiska med handritade foton](stock/handdrawn.md)
       + [Få typografi att sticka ut med masker och animeringar](stock/flairtypography.md)
       + [Animera en Adobe [!DNL Stock] vektorillustration i Photoshop](stock/animatevector.md)
-      + [Börja din årsrapport med en video skapad med Adobe [!DNL Stock] och Spark Video](stock/annualreport.md)
-      + [Gör dina kreativa verk mer levande med anpassade animeringar från Adobe [!DNL Stock]](stock/customanimations.md)
-      + [Ändra en Adobe [!DNL Stock] bildens färger som matchar din story](stock/changecolors.md)
-      + [Skapa ett 3D-kollage för en affisch med Adobe [!DNL Stock] images](stock/collage.md)
-      + [Skapa en fet etikett med Adobe [!DNL Stock] och smarta Photoshop-objekt](stock/boldlabel.md)
-      + [Skapa en informationsgrafik med riktlinjer för företaget med Adobe [!DNL Stock]](stock/infographic.md)
-      + [Skapa ett diagram för jämförelse av produktfunktioner med Adobe [!DNL Stock]](stock/featurecomparison.md)
-      + [Skapa en halvsurrealistisk sammansatt bild med Adobe [!DNL Stock]](stock/surrealcomposite.md)
+      + [Börja din årsrapport med en video som har skapats med Adobe [!DNL Stock] och Spark Video](stock/annualreport.md)
+      + [Väck kreativiteten till liv med anpassade animeringar från Adobe [!DNL Stock]](stock/customanimations.md)
+      + [Ändra färgerna i en Adobe [!DNL Stock] bild så att de överensstämmer med din berättelse](stock/changecolors.md)
+      + [Skapa ett 3D-kollage till en affisch med hjälp av Adobe [!DNL Stock] images](stock/collage.md)
+      + [Skapa en fetstilt etikett med Adobe [!DNL Stock] och smarta Photoshop-objekt](stock/boldlabel.md)
+      + [Skapa en infografik för riktlinjer för företaget med Adobe [!DNL Stock]](stock/infographic.md)
+      + [Skapa ett diagram för produktjämförelse med Adobe [!DNL Stock]](stock/featurecomparison.md)
+      + [Skapa en halvsurrealistisk sammansättning med Adobe [!DNL Stock]](stock/surrealcomposite.md)
       + [Skapa ett halvsurrealistiskt mönster med Adobe [!DNL Stock]](stock/surrealpattern.md)
       + [Skapa en interaktiv produktkonfigurator med Adobe [!DNL Stock]](stock/productconfigurator.md)
       + [Skapa ett interaktivt turistfoto med Adobe [!DNL Stock] och XD](stock/interactivetourismphoto.md)
       + [Skapa animeringar för e-post med Adobe [!DNL Stock] och Photoshop](stock/animationemail.md)
-      + [Skapa sammanhängande varumärkesbilder med vackra övertoningar och Adobe [!DNL Stock] resurser](stock/brandgradients.md)
+      + [Skapa sammanhängande varumärkesbilder med snygga övertoningar och Adobe [!DNL Stock] resurser](stock/brandgradients.md)
       + [Skapa engagerande webbgrafik genom att kombinera Adobe [!DNL Stock] bilder med CSS](stock/webgraphics.md)
       + [Skapa inspirerande moodboards på nolltid med Adobe [!DNL Stock]](stock/moodboard.md)
-      + [Skapa realistiska fotomontage med Adobe [!DNL Stock] images](stock/realisticcomposite.md)
+      + [Skapa realistiska fotosammansättningar med Adobe [!DNL Stock] foton](stock/realisticcomposite.md)
       + [Anpassa en inläsningsskärmanimering med Adobe [!DNL Stock] och XD](stock/loadingscreen.md)
-      + [Anpassa en Adobe [!DNL Stock] presentationsmall som ser professionell ut](stock/presentationtemplate.md)
+      + [Anpassa en Adobe [!DNL Stock] presentationsmall så att den ser professionell ut](stock/presentationtemplate.md)
       + [Anpassa färgerna i en Adobe [!DNL Stock] vektorillustration](stock/customizecolors.md)
 + Adobe 3D och VR {#3doverview}
    + [Översikt](3di/overview-3di.md)
@@ -161,7 +161,7 @@ ht-degree: 4%
       + [3D-design och rendering](3di/substance-3d-stager.md)
       + [Tips och tekniker för att bemästra 3D-ljus i CGI](3di/mastering3dlighting.md)
       + [Skapa fotorealistisk virtuell fotografering med 3D-rendering och komposition](3di/photorealistic.md)
-      + [Anpassa och varumärkesanpassa en 3D-modell med [!DNL Dimension] och Adobe [!DNL Stock]](3di/3ddimensionstock.md)
+      + [Anpassa och varumärkesanpassa en 3D-modell med  [!DNL Dimension] och Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobe-video {#videooverview}
    + [Översikt](dva/overview-dva.md)
    + Tutorials {#videotutorials}
@@ -172,8 +172,8 @@ ht-degree: 4%
 + Adobe XD {#xdoverview}
    + [Översikt](xd/overview-xd.md)
    + Tutorials {#xdtutorials}
-   + [Bekanta dig med [!UICONTROL Komponenter] i ADOBE XD](xd/components.md)
-+ Driftsätta och hantera {#deploy}
+   + [Bekanta dig med [!UICONTROL komponenter] i Adobe XD](xd/components.md)
++ Distribuera och hantera {#deploy}
    + [Översikt](deploy/overview-deploy.md)
    + [Serienummer löper ut](deploy/cceserial.md)
    + [Namngiven användarlicensiering](deploy/nameduserlicensing.md)
@@ -181,7 +181,7 @@ ht-degree: 4%
    + [Översikt](max/overview-max.md)
    + Tutorials {#tutorials}
       + [Översikt](max/maxtutorials.md)
-      + Produkter för stationära datorer {#desktop-products}
+      + Datorprodukter {#desktop-products}
          + [Acrobat och Sign](max/acrobat-sign.md)
          + [[!DNL Dimension]](max/dimension.md)
          + [Illustrator](max/illustrator.md)

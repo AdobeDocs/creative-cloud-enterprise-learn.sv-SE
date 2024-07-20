@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ Vore det inte coolt om du kunde anpassa en ansiktsmask med dina egna konstverk? 
       <img alt="Installera plugin-programmet Photoshop Design to Print" src="../assets/d2p_install_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="handsonproject.md#tutorial1"><strong>Installera plugin-programmet Photoshop Design to Print</strong></a>
+   <a href="handsonproject.md#tutorial1"><strong>Installera plugin-programmet Photoshop Design för utskrift</strong></a>
     </div>
-    <em>Använd de kraftfulla markerings- och färgredigeringsverktygen i Adobe Photoshop för att dramatiskt ändra en bild så att den passar ditt företags varumärkesbehov</em>
+    <em>Använd de kraftfulla markerings- och färgredigeringsverktygen i Adobe Photoshop för att dramatiskt ändra en bild som passar ditt företags varumärkesbehov</em>
     <br>
   </td>
   <td>
@@ -47,7 +47,7 @@ Vore det inte coolt om du kunde anpassa en ansiktsmask med dina egna konstverk? 
     <div>
    <a href="handsonproject.md#tutorial3"><strong>Skapa en 3D-visualisering av din ansiktsmask</strong></a>
     </div>
-    <em>Skapa en 3D-visualisering av din ansiktsmask för evenemangsgalleriet</em>
+    <em>Skapa en 3D-visualisering av ansiktsmask för evenemangsgalleriet</em>
     <br>
   </td>
 </tr>
@@ -62,7 +62,7 @@ Lär dig hur du installerar plugin-programmet Design to Print för Photoshop.
 
 I den här självstudiekursen får du lära dig mer om att:
 * Visualisera dina designer på produkter som kläder, tillbehör, brevpapper och väggkonst i realtid!
-* Publicera på Dazzle Online Marketplace
+* Publish på Dazzle-marknaden online
 
 **Presenteras av:**
 Patti Sokol, huvudsaklig lösningskonsult (digitala medier)
@@ -76,11 +76,11 @@ Anpassa din egen Zazzle-ansiktsmask
 
 I den här självstudiekursen får du lära dig mer om att:
 * Visualisera dina designer på produkter som kläder, tillbehör, brevpapper och väggkonst i realtid!
-* Publicera på Dazzle Online Marketplace
+* Publish på Dazzle-marknaden online
 
 **Klicka på Bild för att hämta Learn Design to Print PDF**
 
-[![Lär dig designa för utskrift](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
+[![Lär dig design för utskrift](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
 **Presenteras av:**
 Patti Sokol, huvudsaklig lösningskonsult (digitala medier)
@@ -97,7 +97,7 @@ I den här självstudiekursen får du lära dig mer om att:
 * Lägg till material och kontrollera ljuset för ett professionellt utseende
 * Importera resurser för att använda ditt varumärke eller andra designer
 
-**Klicka på bilden för att hämta [!DNL Dimension] Fil med 3D-modellen av vit mask**
+**Klicka på Bild om du vill hämta [!DNL Dimension]-filen med den vita maskens 3D-modell**
 
 [![Jämförelsebild](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
 

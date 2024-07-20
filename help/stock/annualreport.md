@@ -1,6 +1,6 @@
 ---
-title: Börja din årsrapport med en video skapad med Adobe [!DNL Stock] och Spark Video
-description: Gör din årsrapport till en historia med Adobe [!DNL Stock] och Spark Video
+title: Börja din årsrapport med en video som har skapats med Adobe [!DNL Stock] och Spark Video
+description: Gör din årsrapport till en berättelse med Adobe [!DNL Stock] och Spark Video
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Börja din årsrapport med en video skapad med Adobe [!DNL Stock] och Spark Video
+# Börja din årsrapport med en video som har skapats med Adobe [!DNL Stock] och Spark Video
 
-Gör din årsrapport till en historia med Adobe [!DNL Stock] och Spark Video.
+Gör din årsrapport till en berättelse med Adobe [!DNL Stock] och Spark Video.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331808?hidetitle=true)

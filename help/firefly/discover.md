@@ -15,7 +15,7 @@ ht-degree: 2%
 
 # Discover Adobe Firefly
 
-Upptäck Adobe Firefly [kreativitetens framtid](https://www.adobe.com/products/firefly/discover/how-ai-changes-creative-work.html) med generativ AI, utformad för kommersiell säkerhetsanvändning och innovation. Prova Adobe Firefly [här](https://firefly.adobe.com/).
+Upptäck Adobe Firefly [kreativitetens framtid](https://www.adobe.com/products/firefly/discover/how-ai-changes-creative-work.html) med generativ AI som utformats för att användas inom affärssäkerhet och innovation. Prova Adobe Firefly [här](https://firefly.adobe.com/).
 
 <br> 
 

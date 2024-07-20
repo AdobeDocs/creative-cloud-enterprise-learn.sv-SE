@@ -8,14 +8,14 @@ thumb: KT-11314.jpg
 exl-id: 02e1c735-1956-4cb4-a3c4-200b7ef1fc1d
 source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
 # Fantastiska digitala resurser
 
-Lär dig integrera Adobe Stock med CC Libraries för att skapa konsekventa och professionella designresultat för tryck och skärmar i den här praktiska självstudiekursen.
+Lär dig integrera Adobe Stock med CC Libraries för att skapa konsekventa och proffsiga designresultat för tryck och skärmar i den här praktiska självstudiekursen.
 
 Markera bilden nedan för att visa eller hämta självstudiekursen om PDF.
 

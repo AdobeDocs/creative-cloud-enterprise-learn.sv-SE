@@ -26,7 +26,7 @@ Adobe XD är ett verktyg för att designa och ta fram prototyper av webbplatser,
     <div>
    <a href="components.md"><strong>Bekanta dig med [!UICONTROL Components] i Adobe XD</strong></a>
     </div>
-    <em>Lär dig använda [!UICONTROL Components] för att ge dig större flexibilitet än någonsin när du snabbt och konsekvent använder designarbetsflödet</em>
+    <em>Lär dig hur du använder [!UICONTROL Components] för att skapa större flexibilitet än någonsin när du snabbt och konsekvent använder komponenterna i ditt designarbetsflöde</em>
     <br>
   </td>
   <td>
@@ -34,9 +34,9 @@ Adobe XD är ett verktyg för att designa och ta fram prototyper av webbplatser,
       <img alt="Styra flera XD-ritytor med kapslade symboler" src="assets/ControlMultipleXDArtboardswithNestedSymbols.jpg" />
    </a>
     <div>
-   <a href="assets/ControlMultipleXDArtboardswithNestedSymbols.pdf" target="_blank"><strong>Styra flera XD-ritytor med kapslade symboler (PDF)</strong></a>
+   <a href="assets/ControlMultipleXDArtboardswithNestedSymbols.pdf" target="_blank"><strong>Styr flera XD-ritytor med kapslade symboler (PDF)</strong></a>
     </div>
-    <em>Symboler är ett utmärkt sätt att skapa återanvändbara bilder och text som kan användas flera gånger på olika ritytor i ditt projekt</em>
+    <em>Symboler är ett utmärkt sätt att skapa återanvändbara bilder och text som kan användas flera gånger på ritytor i ditt projekt</em>
     <br>
   </td>
   <td>
@@ -51,12 +51,12 @@ Adobe XD är ett verktyg för att designa och ta fram prototyper av webbplatser,
   </td>
   <td>
    <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf" target="_blank">
-      <img alt="Skapa ett roterande produktgränssnitt för e-handel med Adobe XD" src="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.jpg" />
+      <img alt="Skapa ett roterande produktgränssnitt för E-Commerce med Adobe XD" src="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf" target="_blank"><strong>Skapa ett roterande produktgränssnitt för e-handel med Adobe XD (PDF)</strong></a>
+   <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf" target="_blank"><strong>Skapa ett roterande produktgränssnitt för e-Commerce med Adobe XD (PDF)</strong></a>
     </div>
-    <em>Designa ett gränssnitt som erbjuder en roterande vy av produkten. Sedan kan du göra om din design till en interaktiv prototyp som visar exakt hur upplevelsen fungerar på webben eller mobilen</em>
+    <em>Designa ett gränssnitt med en roterande vy av produkten. Sedan kan du göra om designen till en interaktiv prototyp som visar exakt hur upplevelsen fungerar på webben eller mobilen</em>
     <br>
   </td>
 </tr>
@@ -68,7 +68,7 @@ Adobe XD är ett verktyg för att designa och ta fram prototyper av webbplatser,
     <div>
    <a href="assets/DesignandPrototypeanInteractiveQuizwithXD.pdf" target="_blank"><strong>Designa och skapa prototyper för ett interaktivt quiz med XD (PDF)</strong></a>
     </div>
-    <em>Designa den feedback som en användare kommer att stöta på under ett projekt</em>
+    <em>Utforma den feedback som en användare kommer att få under ett projekt</em>
     <br>
   </td>
   <td>
@@ -86,9 +86,9 @@ Adobe XD är ett verktyg för att designa och ta fram prototyper av webbplatser,
       <img alt="Snabbstarta ditt XD-projekt från en Photoshop-fil (PSD)" src="assets/JumpstartyourXDProjectfromaPhotoshopFile.jpg" />
    </a>
     <div>
-   <a href="assets/JumpstartyourXDProjectfromaPhotoshopFile.pdf" target="_blank"><strong>Snabbstarta ditt XD-projekt från en Photoshop-fil (PSD) (PDF)</strong></a>
+   <a href="assets/JumpstartyourXDProjectfromaPhotoshopFile.pdf" target="_blank"><strong>Kom snabbt igång med XD-projekt från en Photoshop-fil (PSD) (PDF)</strong></a>
     </div>
-    <em>Adobe XD har några fantastiska verktyg för interaktiv design som fungerar tillsammans med ditt befintliga arbetsflöde, så att du kan ta din interaktiva designvision till nästa nivå</em>
+    <em>Adobe XD har ett antal fantastiska verktyg för interaktiv design som fungerar tillsammans med ditt befintliga arbetsflöde, så att du kan ta din interaktiva designvision till nästa nivå</em>
     <br>
   </td>
   <td>
@@ -110,7 +110,7 @@ Adobe XD är ett verktyg för att designa och ta fram prototyper av webbplatser,
     <div>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>Skapa prototyper för en mobil webbupplevelse med Adobe XD (PDF)</strong></a>
     </div>
-    <em>Upplevelsedesign kräver strategi, design och fungerande prototyper - och Adobe XD ger dig möjlighet att göra allt</em>
+    <em>Upplevelsedesign kräver strategi, design och funktionell prototypframställning - och Adobe XD ger dig möjlighet att göra allt</em>
     <br>
   </td>
   <td>
@@ -118,9 +118,9 @@ Adobe XD är ett verktyg för att designa och ta fram prototyper av webbplatser,
       <img alt="Maxa det upprepade stödrastret i XD med extern text och externa bilder" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>Maxa över det upprepade stödrastret i XD med extern text och externa bilder (PDF)</strong></a>
+   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>Ladda upp det upprepade stödrastret i XD med extern text och grafik (PDF)</strong></a>
     </div>
-    <em>Kombinera det upprepade stödrastret med extern text och grafik för att förbättra produktiviteten</em>
+    <em>Kombinera det upprepade rutnätet med extern text och grafik för att förbättra produktiviteten</em>
     <br>
   </td>
   <td>

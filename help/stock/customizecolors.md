@@ -1,6 +1,6 @@
 ---
 title: Anpassa färgerna i en Adobe [!DNL Stock] vektorillustration
-description: Gör alla projekt snyggare med en snygg illustration. Hitta den perfekta vektorbilden i Adobe [!DNL Stock]och matcha sedan färgerna mot projektets palett med Adobe Illustrator
+description: Gör alla projekt snyggare med en snygg illustration. Hitta den perfekta vektorbilden i Adobe [!DNL Stock] och matcha sedan färgerna med projektets palett med Adobe Illustrator
 feature: Licensable Assets, Vector Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Anpassa färgerna i en Adobe [!DNL Stock] vektorillustration
+# Anpassa färgerna i en [!DNL Stock]-vektorillustration i Adobe
 
-Gör alla projekt snyggare med en snygg illustration. Hitta den perfekta vektorbilden i Adobe [!DNL Stock]och matcha sedan färgerna med projektets palett med Adobe Illustrator.
+Gör alla projekt snyggare med en snygg illustration. Hitta den perfekta vektorbilden i Adobe [!DNL Stock] och matcha sedan färgerna med projektets palett med Adobe Illustrator.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331826?hidetitle=true)

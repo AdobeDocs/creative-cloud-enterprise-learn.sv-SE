@@ -70,15 +70,15 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <div>
    <a href="ScanShareandReviewPDFswithCreativeCloud.pdf" target="_blank"><strong>Skanna, dela och granska PDF med Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Lär dig att hämta, beskära och konvertera ett pappersformulär till en fullt fungerande PDF-fil med Adobe Scan och Document Cloud och sedan använda Acrobat för att fylla i, signera och dela dina uppgifter</em>
+    <em>Lär dig att hämta, beskära och konvertera ett pappersformulär till en fullt fungerande PDF-fil med Adobe Scan och Document Cloud - använd sedan Acrobat för att fylla i, signera och dela dina uppgifter</em>
     <br>
   </td>
  <td>
    <a href="ShootEditPublishyourPhotoswithCreativeCloud.pdf" target="_blank">
-      <img alt="Spela in, redigera och publicera dina bilder med Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Fotografera, redigera och Publish dina foton med Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ShootEditPublishyourPhotoswithCreativeCloud.pdf" target="_blank"><strong>Fotografera, redigera, publicera dina foton med Creative Cloud (PDF)</strong></a>
+   <a href="ShootEditPublishyourPhotoswithCreativeCloud.pdf" target="_blank"><strong>Fotografera, redigera och Publish dina foton med Creative Cloud (PDF)</strong></a>
     </div>
     <em>Utforska de fantastiska funktionerna i Lightroom på din mobila enhet och få ut det bästa av dina bilder</em>
     <br>
@@ -105,9 +105,9 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
       <img alt="Skapa vacker typografi med Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="UnlimitedAdobeFontsatyourFingertips.pdf" target="_blank"><strong>Obegränsade Adobe Fonts nära till hands (PDF)</strong></a>
+   <a href="UnlimitedAdobeFontsatyourFingertips.pdf" target="_blank"><strong>Obegränsad Adobe Fonts nära till hands (PDF)</strong></a>
     </div>
-    <em>[!DNL Capture] intressanta teckensnitt i verkligheten med Adobe [!DNL Capture] på din mobila enhet kan du sedan identifiera och aktivera och spara liknande teckensnitt med hjälp av Adobe Fonts- och Creative Cloud-bibliotek</em>
+    <em>[!DNL Capture] intressanta teckensnitt ute i verkligheten med Adobe [!DNL Capture] på din mobila enhet. Identifiera och aktivera och spara sedan liknande teckensnitt med Adobe Fonts- och Creative Cloud-bibliotek</em>
     <br>
   </td>
    <td>
@@ -171,7 +171,7 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <div>
    <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf" target="_blank"><strong>Skapa en sammansatt bild med hjälp av bilder och former med Illustrator för iPad (PDF)</strong></a>
     </div>
-    <em>Med Illustrator kan du formatera teckningar på ungefär samma sätt som du formaterar text</em>
+    <em>Med Illustrator kan du formatera bilder på ungefär samma sätt som du formaterar text</em>
     <br>
   </td>
    <td>
@@ -181,7 +181,7 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <div>
    <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>Responsiv och animerad SVG med XD, Illustrator och CSS (PDF)</strong></a>
     </div>
-    <em>Lägg till lite animering i dina SVG-filer med bara några CSS-rader</em>
+    <em>Lägg till lite animering i SVG-filerna med bara några CSS-rader</em>
     <br>
   </td>
   <td>
@@ -208,7 +208,7 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <div>
     <a href="Decodingthealphabetsoupofgraphicformats.pdf" target="_blank"><strong>Avkoda alfabetsoppan av grafiska format (PDF)</strong></a>
     </div>
-    <em>JPG-, PNG-, SVG-, GIF- och EPS-filer används ofta inom design, vissa för webbsidor, andra för presentationer, publikationer och projekt. Men vad betyder de, och vad ska du välja?</em>
+    <em>JPG-, PNG-, SVG-, GIF- och EPS-filer används ofta inom design, vissa för webbsidor, andra för presentationer, publikationer och projekt. Men vad betyder de och vad ska du välja?</em>
     <br>
   </td>
  <td>
@@ -216,7 +216,7 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
       <img alt="Alla kan vara kreativa med Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="AnyonecanbecreativewithCreativeCloud.pdf" target="_blank"><strong>Alla kan vara kreativa med Creative Cloud (PDF)</strong></a>
+   <a href="AnyonecanbecreativewithCreativeCloud.pdf" target="_blank"><strong>Vem som helst kan vara kreativ med Creative Cloud (PDF)</strong></a>
     </div>
     <em>Följ med i den här snabbtekniken som visar hur du får fram det bästa i ett foto med hjälp av Camera Raw filter</em>
     <br>
@@ -226,9 +226,9 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
       <img alt="Skapa biografer med Photoshop" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreatingCinemagraphswithPhotoshop.pdf" target="_blank"><strong>Skapa biografer med Photoshop (PDF)</strong></a>
+   <a href="CreatingCinemagraphswithPhotoshop.pdf" target="_blank"><strong>Skapa Cinemagraphs med Photoshop (PDF)</strong></a>
     </div>
-    <em>Skapa ett levande foto genom att kombinera video från Adobe [!DNL Stock] med smarta maskeringstekniker i Photoshop. Väck liv i dina bilder med rörelse och en strategisk punkt</em>
+    <em>Skapa ett levande foto genom att kombinera video från Adobe [!DNL Stock] med smarta maskeringstekniker i Photoshop. Väck liv i dina bilder med rörelse och en strategisk looppunkt</em>
     <br>
   </td>
   <td>
@@ -238,7 +238,7 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <div>
    <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf" target="_blank"><strong>Skapa snygg grafik med Photoshop + After Effects (PDF)</strong></a>
     </div>
-    <em>Använd en vanlig videoteknik i After Effects för att snabbt ta bort en bakgrundsfärg i ett foto för att skapa en unik bildkomposition för dina designprojekt</em>
+    <em>Använd en vanlig videoteknik i After Effects för att snabbt ta bort en bakgrundsfärg i ett foto och skapa en unik bildkomposition för dina designprojekt</em>
     <br>
   </td>
 </tr>
@@ -250,7 +250,7 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <div>
    <a href="GettoknowPhotoshopontheiPad.pdf" target="_blank"><strong>Lär känna Photoshop på iPad (PDF)</strong></a>
     </div>
-    <em>Ta med kraften i Photoshop till dina fingerspetsar med ett omgjort touch-baserat gränssnitt</em>
+    <em>Få tillgång till kraften i Photoshop via ett nytt touch-baserat gränssnitt</em>
     <br>
   </td>
   <td>
@@ -277,12 +277,12 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
 <tr>
   <td>
    <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank">
-      <img alt="Skapa unik grafik genom att kombinera Adobe [!DNL Stock] Bilder" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Skapa unik grafik genom att kombinera Adobe [!DNL Stock]-bilder" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank"><strong>Skapa unik grafik genom att kombinera Adobe [!DNL Stock] Bilder (PDF)</strong></a>
+   <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank"><strong>Skapa unik grafik genom att kombinera Adobe [!DNL Stock]-bilder (PDF)</strong></a>
     </div>
-    <em>Kombinera bilder från Adobe [!DNL Stock] för att skapa en helt ny bild till dina designprojekt</em>
+    <em>Kombinera foton från Adobe [!DNL Stock] för att skapa en helt ny bild till dina designprojekt</em>
     <br>
   </td>
   <td>
@@ -292,7 +292,7 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <div>
    <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf" target="_blank"><strong>Förbättra ditt Portfolio med unika projekt och Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Kombinera bilder från Adobe [!DNL Stock] för att skapa en helt ny bild till dina designprojekt</em>
+    <em>Kombinera foton från Adobe [!DNL Stock] för att skapa en helt ny bild till dina designprojekt</em>
     <br>
   </td>
    <td>
@@ -302,17 +302,17 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <div>
    <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf" target="_blank"><strong>Få mer uppmärksamhet med rörelse från Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>[!DNL Capture] uppmärksamma dina målgrupper, på vilken skärm som helst, genom att kombinera fotografering med video från Adobe [!DNL Stock]</em>
+    <em>[!DNL Capture] uppmärksamma dina målgrupper, på vilken skärm som helst, genom att kombinera fotografering med videoklipp från Adobe [!DNL Stock]</em>
     <br>
   </td>
   <td>
    <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf" target="_blank">
-      <img alt="Visa upp dina data för Adobe [!DNL Stock] Mallar för rörelsegrafik" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Visa upp dina data med rörelsegrafikmallar från Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf" target="_blank"><strong>Visa upp dina data för Adobe [!DNL Stock] Mallar för rörelsegrafik (PDF)</strong></a>
+   <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf" target="_blank"><strong>Visa upp dina data med Adobe [!DNL Stock] rörelsegrafikmallar (PDF)</strong></a>
     </div>
-    <em>Representera dina data på ett mer inflytelserikt sätt genom att lägga till rörelse och design med en rörelsegrafikmall från Adobe [!DNL Stock]</em>
+    <em>Framställ dina data på ett mer inflytelserikt sätt genom att lägga till rörelse och design med en rörelsegrafikmall från Adobe [!DNL Stock]</em>
     <br>
   </td>
 </tr>
@@ -324,7 +324,7 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <div>
    <a href="ShowOffYourDesignWorkintheRealWorld.pdf" target="_blank"><strong>Visa upp ditt designarbete i verkligheten (PDF)</strong></a>
     </div>
-    <em>Lär dig att modellera ditt designarbete med riktiga mallar från Adobe [!DNL Stock]</em>
+    <em>Lär dig att testa ditt designarbete med riktiga mallar från Adobe [!DNL Stock]</em>
     <br>
   </td>
 <td>
@@ -334,7 +334,7 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <div>
    <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf" target="_blank"><strong>Tips om att skapa animeringar via e-post med Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Kombinera statiska bilder och videoklipp i Photoshop för att skapa en fängslande animerad GIF-film för dina kampanjer, som passar ett brett urval av e-postprogram från kunder</em>
+    <em>Kombinera statiska bilder och videoklipp i Photoshop för att skapa en spännande animerad GIF som passar ett stort antal e-postprogram för kunder</em>
     <br>
   </td>
   <td>
@@ -369,9 +369,9 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
       <img alt="Hoppa över bilden - Ta bilden" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="SkiptheShootGettheShot.pdf" target="_blank"><strong>Hoppa över bilden - Ta bilden (PDF)</strong></a>
+   <a href="SkiptheShootGettheShot.pdf" target="_blank"><strong>Hoppa över fotograferingen - ta bilden (PDF)</strong></a>
     </div>
-    <em>Anpassa och märka en 3D-modell i [!DNL Dimension] använda material, miljöegenskaper, belysning och fotografi för att skapa fotorealistiska bilder för alla designprojekt</em>
+    <em>Anpassa och varumärkesanpassa en 3D-modell i [!DNL Dimension] med hjälp av material, miljöegenskaper, belysning och fotografi för att skapa fotorealistiska bilder för alla designprojekt</em>
     <br>
   </td>
   <td>
@@ -406,9 +406,9 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
       <img alt="Introduktion till animering med After Effects" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="IntrotoAnimationwithAfterEffects.pdf" target="_blank"><strong>Introduktion till Animering med After Effects (PDF)</strong></a>
+   <a href="IntrotoAnimationwithAfterEffects.pdf" target="_blank"><strong>Introduktion till animering med After Effects (PDF)</strong></a>
     </div>
-    <em>Skapa en animerad sammansättning genom att kombinera video med grafik och text i After Effects</em>
+    <em>Skapa en animerad sammansatt bild genom att kombinera video med grafik och text i After Effects</em>
     <br>
   </td>
   <td>
@@ -418,15 +418,15 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <div>
    <a href="PremiereProforDesigners.pdf" target="_blank"><strong>Premiere Pro för formgivare (PDF)</strong></a>
     </div>
-    <em>Berätta en övertygande historia i sociala medier genom att kombinera video och grafik i Premiere Pro</em>
+    <em>Berätta en spännande historia i sociala medier genom att kombinera video och grafik i Premiere Pro</em>
     <br>
   </td>
   <td>
    <a href="ShootEditPublishyourVideoswithCreativeCloud.pdf" target="_blank">
-      <img alt="Spela in, redigera och publicera dina bilder med Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Fotografera, redigera och Publish dina foton med Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ShootEditPublishyourVideoswithCreativeCloud.pdf" target="_blank"><strong>Fotografera, redigera, publicera dina foton med Creative Cloud (PDF)</strong></a>
+   <a href="ShootEditPublishyourVideoswithCreativeCloud.pdf" target="_blank"><strong>Fotografera, redigera och Publish dina foton med Creative Cloud (PDF)</strong></a>
     </div>
     <em>Kombinera videor och rörelsegrafik för att berätta en fängslande historia för sociala medier med lättanvända redigeringsverktyg och mallar för rörelsegrafik i Premiere [!DNL Rush]</em>
     <br>
@@ -445,7 +445,7 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <div>
    <a href="AdobeXDAdvancedVoicePrototyping.pdf" target="_blank"><strong>Adobe XD: Advanced Voice Prototyping (PDF)</strong></a>
     </div>
-    <em>Skapa en interaktiv prototyp som kan svara på klick, pekfunktioner och ljudingångar från dina användare</em>
+    <em>Skapa en interaktiv prototyp som reagerar på klickningar, beröringar och ljudingångar från dina användare</em>
     <br>
   </td>
    <td>
@@ -455,7 +455,7 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <div>
    <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf" target="_blank"><strong>Gemensam redigering: Designsamarbete i realtid med Adobe XD (PDF)</strong></a>
     </div>
-    <em>Lär dig att samarbeta över en interaktiv prototyp med dina kollegor, kunder och utvecklare med de unika delningsverktygen som är inbyggda i Adobe XD och Creative Cloud</em>
+    <em>Lär dig att samarbeta över en interaktiv prototyp med kollegor, kunder och utvecklare med unika delningsverktyg som är inbyggda i Adobe XD och Creative Cloud</em>
     <br>
   </td>
   <td>
@@ -463,7 +463,7 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
       <img alt="Designa och skapa prototyper för interaktiva projekt med Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf" target="_blank"><strong>Designa och skapa prototyper för interaktiva projekt med Creative Cloud (PDF)</strong></a>
+   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf" target="_blank"><strong>Designa och skapa prototyper till interaktiva projekt med Creative Cloud (PDF)</strong></a>
     </div>
     <em>Skapa en helt interaktiv och animerad användarupplevelse på bara några minuter genom att kombinera Adobe XD med ett stort utbud av unika och mångsidiga resurser på Adobe [!DNL Stock]</em>
     <br>
@@ -473,9 +473,9 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
       <img alt="Nu använder vi XD - se hur du designar, skapar prototyper och lämnar över till Teams" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf" target="_blank"><strong>Nu är XD - se hur du designar, skapar prototyper och lämnar över till Teams (PDF)</strong></a>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf" target="_blank"><strong>Nu är det dags för XD - se hur du designar, skapar prototyper och lämnar över till Teams (PDF)</strong></a>
     </div>
-    <em>Komponenterna ger dig en aldrig tidigare skådad flexibilitet när du snabbt och konsekvent använder komponenterna i ditt designarbetsflöde</em>
+    <em>Komponenter ger dig en oöverträffad flexibilitet när du snabbt och konsekvent använder komponenterna i ditt designarbetsflöde</em>
     <br>
   </td>
  </tr>

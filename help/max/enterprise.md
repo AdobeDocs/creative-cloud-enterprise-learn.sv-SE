@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 5%
+source-wordcount: '133'
+ht-degree: 4%
 
 ---
 
@@ -64,4 +64,4 @@ Todd Burke, Principal Solutions Consultant (Digital Media)
 
 [Användarhandbok för Adobe Fonts](https://helpx.adobe.com/fonts/user-guide.html)
 
-[Administratörshandbok för Enterprise](https://helpx.adobe.com/enterprise/admin-guide.html)
+[Handbok för företagsadministratörer](https://helpx.adobe.com/enterprise/admin-guide.html)

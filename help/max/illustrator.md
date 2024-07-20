@@ -25,9 +25,9 @@ Det moderna programmet för illustrationer och grafik. Skapa logotyper, ikoner, 
       <img alt="Använda symboler för att uppdatera flera ikoninstanser" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustrator.md#tutorial1"><strong>Använda symboler för att uppdatera flera ikoninstanser</strong></a>
+   <a href="illustrator.md#tutorial1"><strong>Använd symboler för att uppdatera flera ikoninstanser</strong></a>
     </div>
-    <em>Minska det manuella arbetet och håll symbolerna enhetliga</em>
+    <em>Minska det manuella arbetet och använd symboler på samma sätt</em>
     <br>
   </td>
   <td>
@@ -35,7 +35,7 @@ Det moderna programmet för illustrationer och grafik. Skapa logotyper, ikoner, 
         <img alt="Justera text och bilder med Fästning av tecken" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="illustrator.md#tutorial2"><strong>Justera text och bilder med Fästning av tecken</strong></a>
+    <a href="illustrator.md#tutorial2"><strong>Justera text och bilder med teckenfästning</strong></a>
     </div>
     <em>Fäst tecken snabbt mot viktiga områden i dokumentet</em>
     <br>
@@ -76,10 +76,10 @@ Patti Sokol, huvudsaklig lösningskonsult (digitala medier)
 
 ![Illustrator-logotyp](../assets/ai_appicon_96.png)
 
-**Resurser för Illustrator**
+**Illustrator-resurser**
 
 [Lär dig mer och support](https://helpx.adobe.com/support/illustrator.html) är navet för ytterligare självstudiekurser och länkar till användarforum.
 
-**Versionen från oktober 2020**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

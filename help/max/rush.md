@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Premiere [!DNL Rush] är det första heltäckande videoredigeringsprogrammet som
     <div>
    <a href="rush.md#tutorial1"><strong>Skapa en video för sociala medier</strong></a>
     </div>
-    <em>Adobe [!DNL Rush] gör att du kan arbeta på vilken enhet som helst och gör professionell utmatning lätt nog för nybörjare</em>
+    <em>Med Adobe [!DNL Rush] kan du arbeta på vilken enhet som helst, och du kan enkelt skapa proffsiga utdata för nybörjare</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ Premiere [!DNL Rush] är det första heltäckande videoredigeringsprogrammet som
 >[!VIDEO](https://video.tv.adobe.com/v/326900?hidetitle=true)
 
 **Beskrivning**
-Berätta din historia med video och ljud från Adobe [!DNL Stock]. Adobe [!DNL Rush] gör att du kan arbeta på vilken enhet som helst och gör professionell utmatning lätt nog för nybörjare.
+Berätta din historia med video och ljud från Adobe [!DNL Stock]. Med Adobe [!DNL Rush] kan du arbeta på vilken enhet som helst, och det gör det enkelt för nybörjare att skapa proffsiga utdata.
 
 I den här självstudiekursen får du lära dig mer om att:
 * Redigera video smidigt på datorer, surfplattor och mobiler
@@ -62,10 +62,10 @@ A.J. Wood, lösningskonsult (digitala medier)
 
 ![Rush-logotyp](../assets/ru_appicon_96.png)
 
-**[!DNL Rush]Resurser**
+**[!DNL Rush]resurser**
 
-[Lär dig mer och support](https://helpx.adobe.com/support/premiere-rush.html) är ditt nav för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html)och länkar till användarforum.
+[Utbildning och support](https://helpx.adobe.com/support/premiere-rush.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html) och länkar till communityforum.
 
-**Versionen från oktober 2020**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

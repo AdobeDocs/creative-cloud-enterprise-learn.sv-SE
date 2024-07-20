@@ -22,4 +22,4 @@ Få kraften i Photoshop nära till hands. Lär dig att använda ett av dina favo
 
 [**Hämta PDF-handboken för snabbreferens**](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
 
-[![Bild på första sidan i snabbguiden](assets/GettoknowPhotoshopontheiPadPage1.png)](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
+[![Bild av första sidan i snabbguiden](assets/GettoknowPhotoshopontheiPadPage1.png)](../quick-reference/GettoknowPhotoshopontheiPad.pdf)

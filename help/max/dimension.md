@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ Skapa engagerande innehåll i 3D snabbare med högkvalitativa modeller, material
       <img alt="Använda Substance-material på 3D-modeller" src="../assets/dimension_substanceAndGraphics_babbage_thumbnail.jpg" />
    </a>
     <div>
-   <a href="dimension.md#tutorial1"><strong>Använda Substance-material på 3D-modeller</strong></a>
+   <a href="dimension.md#tutorial1"><strong>Använd Substance-material på 3D-modeller</strong></a>
     </div>
-    <em>Substance-material stöder tusentals variationer av mönster och design i ett enda material</em>
+    <em>Substance-material stöder tusentals mönster- och designvarianter i ett enda material</em>
     <br>
   </td>
   <td>
@@ -56,12 +56,12 @@ I den här självstudiekursen får du lära dig mer om att:
 **Presenteras av:**
 Jim Babbage, Senior Solutions Consultant (Digital Media)
 
-![Dimension-logotyp](../assets/dn_appicon_96.png)
+![Dimensionens logotyp](../assets/dn_appicon_96.png)
 
-**Dimension**
+**Resurser för Dimension**
 
-[Lär dig mer och support](https://helpx.adobe.com/support/dimension.html) är ditt nav för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html)och länkar till användarforum.
+[Utbildning och support](https://helpx.adobe.com/support/dimension.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html) och länkar till communityforum.
 
-**Versionen från oktober 2020**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

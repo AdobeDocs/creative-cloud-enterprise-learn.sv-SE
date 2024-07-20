@@ -8,12 +8,12 @@ jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
 source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1238'
+source-wordcount: '1239'
 ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock] självstudiekurser
+# Självstudiekurser för Adobe [!DNL Stock]
 
 Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Stock ger de kreativa teamen tillgång till fler än 300 miljoner royaltyfria bilder, videor, ljudfiler, mallar, illustrationer och 3D-mediefiler - direkt i de Creative Cloud-program de använder dagligen. Få obegränsad tillgång till Adobe Stock-standardresurser med Creative Cloud Pro Edition. Utforska de senaste samlingarna på stock.adobe.com. Välj en bild för att se en självstudiekurs.
 
@@ -31,22 +31,22 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
   </td>
   <td>
       <a href="searchstock.md">
-         <img alt="Sök i Adobe [!DNL Stock] licenshistorik" src="assets/StockSearch_1280.jpg" />
+         <img alt="Sök i licensieringshistoriken för Adobe [!DNL Stock]" src="assets/StockSearch_1280.jpg" />
       </a>
       <div>
-      <a href="searchstock.md"><strong>Sök i Adobe [!DNL Stock] licenshistorik</strong></a>
+      <a href="searchstock.md"><strong>Sök i Adobe [!DNL Stock] licensieringshistorik</strong></a>
       </div>
-      <em>Läs om hur du snabbt söker i organisationens Adobe [!DNL Stock] licenshistorik i Creative Cloud för företag</em>
+      <em>Lär dig söka snabbt i organisationens Adobe [!DNL Stock]-licenshistorik i Creative Cloud för företag</em>
       <br>
   </td>
   <td>
       <a href="handdrawn.md">
-         <img alt="Lägg till en handritad estetik i Adobe [!DNL Stock] images" src="assets/handdrawn.jpg" />
+         <img alt="Lägg till en handritad estetik i Adobe [!DNL Stock]-foton" src="assets/handdrawn.jpg" />
       </a>
       <div>
-      <a href="handdrawn.md"><strong>Lägg till en handritad estetik i Adobe [!DNL Stock] images</strong></a>
+      <a href="handdrawn.md"><strong>Lägg till en handritad estetik i Adobe [!DNL Stock]-foton</strong></a>
       </div>
-      <em>Utveckla din kreativa marknadsföring med unika tekniker som ger dina bilder djup och dimension med Photoshop för iPad</em>
+      <em>Förstärk din kreativa marknadsföring med unika tekniker som ger dina bilder djup och dimension med Photoshop för iPad</em>
       <br>
   </td>
   <td>
@@ -54,31 +54,31 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
       <img alt="Få typografi att sticka ut med masker och animeringar" src="assets/flairtypography.jpg" />
    </a>
     <div>
-   <a href="flairtypography.md"><strong>Få typografi att sticka ut med masker och animeringar</strong></a>
+   <a href="flairtypography.md"><strong>Få typografi att se mer levande ut med masker och animeringar</strong></a>
     </div>
-    <em>Gör dina texter mer levande med hjälp av element från Adobe [!DNL Stock] och animeringsstilar från After Effects</em>
+    <em>Gör din text mer levande med element från Adobe [!DNL Stock] och animeringsstilar från After Effects</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
       <a href="animatevector.md">
-         <img alt="Animera en Adobe [!DNL Stock] vektorillustration i Photoshop" src="assets/animatevector.jpg" />
+         <img alt="Animera en [!DNL Stock]-vektorillustration från Adobe i Photoshop" src="assets/animatevector.jpg" />
       </a>
       <div>
-      <a href="animatevector.md"><strong>Animera en Adobe [!DNL Stock] vektorillustration i Photoshop</strong></a>
+      <a href="animatevector.md"><strong>Animera en [!DNL Stock]-vektorillustration från Adobe i Photoshop</strong></a>
       </div>
-      <em>Få animering i nyhetsbrevsgrafiken med redigerbara vektorer för Adobe [!DNL Stock]</em>
+      <em>Få animering i nyhetsbrevets grafik med redigerbara vektorer för Adobe [!DNL Stock]</em>
       <br>
   </td>
  <td>
       <a href="annualreport.md">
-         <img alt="Börja din årsrapport med en video skapad med Adobe [!DNL Stock] och Spark Video" src="assets/annualreport.jpg" />
+         <img alt="Börja din årsrapport med en video som har skapats med Adobe [!DNL Stock] och Spark Video" src="assets/annualreport.jpg" />
       </a>
       <div>
-      <a href="annualreport.md"><strong>Börja din årsrapport med en video skapad med Adobe [!DNL Stock] och Spark Video</strong></a>
+      <a href="annualreport.md"><strong>Börja din årsrapport med en video som har skapats med Adobe [!DNL Stock] och Spark Video</strong></a>
       </div>
-      <em>Gör din årsrapport till en historia med Adobe [!DNL Stock] och Spark Video</em>
+      <em>Gör din årsrapport till en story med Adobe [!DNL Stock] och Spark Video</em>
       <br>
   </td>
   <td>
@@ -86,41 +86,41 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
          <img alt="Gör dina kreativa verk mer levande med anpassade animeringar från Adobe [!DNL Stock]" src="assets/customanimations.jpg" />
       </a>
       <div>
-      <a href="customanimations.md"><strong>Gör dina kreativa verk mer levande med anpassade animeringar från Adobe [!DNL Stock]</strong></a>
+      <a href="customanimations.md"><strong>Väck kreativiteten till liv med anpassade animeringar från Adobe [!DNL Stock]</strong></a>
       </div>
-      <em>Använd Adobe [!DNL Stock] bilder, texturer och mönster till anpassade animeringar i Photoshop</em>
+      <em>Använd Adobe [!DNL Stock]-bilder, texturer och mönster i anpassade animeringar i Photoshop</em>
       <br>
   </td>
   <td>
       <a href="changecolors.md">
-         <img alt="Ändra en Adobe [!DNL Stock] bildens färger som matchar din story" src="assets/changecolors.jpg" />
+         <img alt="Ändra en Adobe [!DNL Stock]-bilds färger så att de matchar din berättelse" src="assets/changecolors.jpg" />
       </a>
       <div>
-      <a href="changecolors.md"><strong>Ändra en Adobe [!DNL Stock] bildens färger som matchar din story</strong></a>
+      <a href="changecolors.md"><strong>Ändra en Adobe [!DNL Stock]-bilds färger så att de matchar din berättelse</strong></a>
       </div>
-      <em>Hitta ett unikt foto i Adobe [!DNL Stock] och justera sedan färgerna i Adobe Photoshop efter dina behov</em>
+      <em>Hitta ett unikt foto i Adobe [!DNL Stock] och anpassa sedan färgerna i Adobe Photoshop efter dina behov</em>
       <br>
   </td>
 </tr>
 <tr>
  <td>
       <a href="collage.md">
-         <img alt="Skapa ett 3D-kollage för en affisch med Adobe [!DNL Stock] images" src="assets/collage.jpg" />
+         <img alt="Skapa ett 3D-kollage för en affisch med Adobe [!DNL Stock]" src="assets/collage.jpg" />
       </a>
       <div>
-      <a href="collage.md"><strong>Skapa ett 3D-kollage för en affisch med Adobe [!DNL Stock] images</strong></a>
+      <a href="collage.md"><strong>Skapa ett 3D-kollage för en affisch med Adobe [!DNL Stock]-foton</strong></a>
       </div>
       <em>Designa ett kollage i Adobe Illustrator med en iögonfallande 3D-effekt från foton i Adobe [!DNL Stock]</em>
       <br>
   </td>
   <td>
       <a href="boldlabel.md">
-         <img alt="Skapa en fet etikett med Adobe [!DNL Stock] och smarta Photoshop-objekt" src="assets/boldlabel.jpg" />
+         <img alt="Skapa en fetstilt etikett med mallarna Adobe [!DNL Stock] och smarta objekt i Photoshop" src="assets/boldlabel.jpg" />
       </a>
       <div>
-      <a href="boldlabel.md"><strong>Skapa en fet etikett med Adobe [!DNL Stock] och smarta Photoshop-objekt</strong></a>
+      <a href="boldlabel.md"><strong>Skapa en fet etikett med Adobe [!DNL Stock]-mallar och Photoshop smarta objekt</strong></a>
       </div>
-      <em>Designa och visualisera dina specialdesigner med realistiska förpackningsmallar från Adobe [!DNL Stock]</em>
+      <em>Designa och visualisera dina anpassade designer med realistiska förpackningsmallar från Adobe [!DNL Stock]</em>
       <br>
   </td>
   <td>
@@ -128,9 +128,9 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
          <img alt="Skapa en informationsgrafik med riktlinjer för företaget med Adobe [!DNL Stock]" src="assets/infographic.jpg" />
       </a>
       <div>
-      <a href="infographic.md"><strong>Skapa en informationsgrafik med riktlinjer för företaget med Adobe [!DNL Stock]</strong></a>
+      <a href="infographic.md"><strong>Skapa en infografik för riktlinjer för företaget med Adobe [!DNL Stock]</strong></a>
       </div>
-      <em>Kombinera olika mediefiler från Adobe [!DNL Stock] att förmedla riktlinjer i form av visuell infografik</em>
+      <em>Kombinera olika mediefiler från Adobe [!DNL Stock] för att förmedla riktlinjer i form av visuell infografik</em>
       <br>
   </td>
  <td>
@@ -138,9 +138,9 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
          <img alt="Skapa ett diagram för jämförelse av produktfunktioner med Adobe [!DNL Stock]" src="assets/featurecomparison.jpg" />
       </a>
       <div>
-      <a href="featurecomparison.md"><strong>Skapa ett diagram för jämförelse av produktfunktioner med Adobe [!DNL Stock]</strong></a>
+      <a href="featurecomparison.md"><strong>Skapa ett diagram för produktjämförelse med Adobe [!DNL Stock]</strong></a>
       </div>
-      <em>Skapa en bild som jämför produktprisplaner för att ge potentiella kunder den information de behöver så snabbt som möjligt</em>
+      <em>Skapa grafik som jämför produktprisplaner för att ge potentiella kunder den information de behöver snabbt</em>
       <br>
   </td>
 </tr>
@@ -150,7 +150,7 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
          <img alt="Skapa en halvsurrealistisk sammansatt bild med Adobe [!DNL Stock]" src="assets/surrealcomposite.jpg" />
       </a>
       <div>
-      <a href="surrealcomposite.md"><strong>Skapa en halvsurrealistisk sammansatt bild med Adobe [!DNL Stock]</strong></a>
+      <a href="surrealcomposite.md"><strong>Skapa en halvsurrealistisk sammansättning med Adobe [!DNL Stock]</strong></a>
       </div>
       <em>Skapa en minnesvärd redaktionell bild genom att kombinera flera bilder med färg, rörelse och maskeringseffekter</em>
       <br>
@@ -162,7 +162,7 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
       <div>
       <a href="surrealpattern.md"><strong>Skapa ett halvsurrealistiskt mönster med Adobe [!DNL Stock]</strong></a>
       </div>
-      <em>Skapa ett vackert sömlöst mönster baserat på surrealistiska bilder från Adobe [!DNL Stock]</em>
+      <em>Skapa ett snyggt och sömlöst mönster baserat på surrealistiska bilder från Adobe [!DNL Stock]</em>
       <br>
   </td>
    <td>
@@ -172,7 +172,7 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
       <div>
       <a href="productconfigurator.md"><strong>Skapa en interaktiv produktkonfigurator med Adobe [!DNL Stock]</strong></a>
       </div>
-      <em>Utnyttja fördelarna med interaktivitet, animering och redigerbara bilder från Adobe [!DNL Stock] att presentera finansiell information visuellt</em>
+      <em>Visa ekonomisk information på ett visuellt sätt med hjälp av interaktivitet, animering och redigerbara bilder från Adobe [!DNL Stock]</em>
       <br>
   </td>
   <td>
@@ -182,7 +182,7 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
       <div>
       <a href="interactivetourismphoto.md"><strong>Skapa ett interaktivt turistfoto med Adobe [!DNL Stock] och XD</strong></a>
       </div>
-      <em>Skapa snabbt ett interaktivt foto med Adobe i prototypen för din webbplats [!DNL Stock] och XD</em>
+      <em>Skapa snabbt ett interaktivt foto med prototypen för din webbplats med Adobe [!DNL Stock] och XD</em>
       <br>
   </td>
 </tr>
@@ -194,25 +194,25 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
       <div>
       <a href="animationemail.md"><strong>Skapa animeringar för e-post med Adobe [!DNL Stock] och Photoshop</strong></a>
       </div>
-      <em>Stärk dina e-postmeddelanden med stop-action-animering med Adobe [!DNL Stock] och Photoshop</em>
+      <em>Skapa e-post med stop-action-animering med Adobe [!DNL Stock] och Photoshop</em>
       <br>
   </td>
   <td>
       <a href="brandgradients.md">
-         <img alt="Skapa sammanhängande varumärkesbilder med vackra övertoningar och Adobe [!DNL Stock] resurser" src="assets/brandgradients.jpg" />
+         <img alt="Skapa sammanhängande varumärkesbilder med snygga övertoningar och resurser från Adobe [!DNL Stock]" src="assets/brandgradients.jpg" />
       </a>
       <div>
-      <a href="brandgradients.md"><strong>Skapa sammanhängande varumärkesbilder med vackra övertoningar och Adobe [!DNL Stock] resurser</strong></a>
+      <a href="brandgradients.md"><strong>Skapa sammanhängande varumärkesbilder med snygga övertoningar och resurser från Adobe [!DNL Stock]</strong></a>
       </div>
       <em>Skapa varumärkesidentitet med olika bilder genom att kombinera färger och övertoningar i hela din reklamkampanj</em>
       <br>
    </td>
   <td>
       <a href="webgraphics.md">
-         <img alt="Skapa engagerande webbgrafik genom att kombinera Adobe [!DNL Stock] bilder med CSS" src="assets/webgraphics.jpg" />
+         <img alt="Skapa engagerande webbgrafik genom att kombinera Adobe [!DNL Stock]-bilder med CSS" src="assets/webgraphics.jpg" />
       </a>
       <div>
-      <a href="webgraphics.md"><strong>Skapa engagerande webbgrafik genom att kombinera Adobe [!DNL Stock] bilder med CSS</strong></a>
+      <a href="webgraphics.md"><strong>Skapa engagerande webbgrafik genom att kombinera Adobe [!DNL Stock]-bilder med CSS</strong></a>
       </div>
       <em>Skapa varumärkesidentitet med olika bilder genom att kombinera färger och övertoningar i hela din reklamkampanj</em>
       <br>
@@ -231,12 +231,12 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
 <tr>
    <td>
       <a href="realisticcomposite.md">
-         <img alt="Skapa realistiska fotomontage med Adobe [!DNL Stock] images" src="assets/realisticcomposite.jpg" />
+         <img alt="Skapa realistiska fotokompositioner med Adobe [!DNL Stock]-foton" src="assets/realisticcomposite.jpg" />
       </a>
       <div>
-      <a href="realisticcomposite.md"><strong>Skapa realistiska fotomontage med Adobe [!DNL Stock] images</strong></a>
+      <a href="realisticcomposite.md"><strong>Skapa realistiska fotokompositioner med Adobe [!DNL Stock]-foton</strong></a>
       </div>
-      <em>För samman två stora Adobe [!DNL Stock] foton för att dra personer till dina sociala inlägg</em>
+      <em>Samla två fantastiska [!DNL Stock]-foton från Adobe för att locka folk till dina inlägg i sociala medier</em>
       <br>
   </td>
    <td>
@@ -246,27 +246,27 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
     <div>
    <a href="loadingscreen.md"><strong>Anpassa en inläsningsskärmanimering med Adobe [!DNL Stock] och XD</strong></a>
     </div>
-    <em>Anpassa vektorgrafik från Adobe [!DNL Stock] för att skapa en sval inläsningsskärmanimering för en mobilapp</em>
+    <em>Anpassa vektorgrafik från Adobe [!DNL Stock] för att skapa en spännande skärmanimering för en mobilapp</em>
     <br>
   </td>
   <td>
    <a href="presentationtemplate.md">
-      <img alt="Anpassa en Adobe [!DNL Stock] presentationsmall som ser proffsig men ändå iögonfallande ut" src="assets/presentationtemplate.jpg" />
+      <img alt="Anpassa en presentationsmall för Adobe [!DNL Stock] så att den ser proffsig ut men ändå iögonfallande ut" src="assets/presentationtemplate.jpg" />
    </a>
     <div>
-   <a href="presentationtemplate.md"><strong>Anpassa en Adobe [!DNL Stock] presentationsmall som ser proffsig men ändå iögonfallande ut</strong></a>
+   <a href="presentationtemplate.md"><strong>Anpassa en presentationsmall för Adobe [!DNL Stock] så att den ser professionell ut men ändå iögonfallande</strong></a>
     </div>
-    <em>Skapa en snygg, stiliserad presentation på bara några minuter med hjälp av bilder och mallar från Adobe [!DNL Stock] och några lättanvända specialeffekter</em>
+    <em>Skapa snygga, stiliserade foton och mallar från Adobe [!DNL Stock] och några lättanvända specialeffekter</em>
     <br>
   </td>
    <td>
    <a href="customizecolors.md">
-      <img alt="Anpassa färgerna i en Adobe [!DNL Stock] vektorillustration" src="assets/customizecolors.jpg" />
+      <img alt="Anpassa färgerna i en [!DNL Stock]-vektorillustration i Adobe" src="assets/customizecolors.jpg" />
    </a>
     <div>
-   <a href="customizecolors.md"><strong>Anpassa färgerna i en Adobe [!DNL Stock] vektorillustration</strong></a>
+   <a href="customizecolors.md"><strong>Anpassa färgerna i en [!DNL Stock]-vektorillustration i Adobe</strong></a>
     </div>
-    <em>Gör alla projekt snyggare med en snygg illustration. Hitta den perfekta vektorbilden i Adobe [!DNL Stock]och matcha sedan färgerna mot projektets palett med Adobe Illustrator</em>
+    <em>Få dina projekt att se snygga ut med en snygg illustration. Hitta den perfekta vektorbilden i Adobe [!DNL Stock] och matcha sedan färgerna med projektets palett med Adobe Illustrator</em>
     <br>
   </td>
 </tr>
@@ -283,30 +283,30 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
    </td>
    <td>
    <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf" target="_blank">
-      <img alt="Skapa en sammansatt bild med Photoshop på iPad och Adobe [!DNL Stock] images" src="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.jpg" />
+      <img alt="Skapa en sammansatt bild med Photoshop på iPad och Adobe [!DNL Stock]-bilder" src="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.jpg" />
    </a>
     <div>
-   <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf" target="_blank"><strong>Skapa en sammansatt bild med Photoshop på iPad och Adobe [!DNL Stock] images (PDF)</strong></a>
+   <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf" target="_blank"><strong>Skapa en sammansatt bild med Photoshop på iPad och Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
     <em>Lär dig använda ett av dina Adobe Creative Cloud-favoritprogram på ett helt nytt sätt med hjälp av Photoshop på din iPad</em>
     <br>
   </td>
    <td>
    <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf" target="_blank">
-      <img alt="Animera en Adobe [!DNL Stock] vektorillustration i Photoshop" src="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.jpg" />
+      <img alt="Animera en [!DNL Stock]-vektorillustration från Adobe i Photoshop" src="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.jpg" />
    </a>
     <div>
-   <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf" target="_blank"><strong>Animera en Adobe [!DNL Stock] vektorillustration i Photoshop (PDF)</strong></a>
+   <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf" target="_blank"><strong>Animera en [!DNL Stock]-vektorillustration från Adobe i Photoshop (PDF)</strong></a>
     </div>
-    <em>Genom att kombinera After Effects med Adobe [!DNL Stock], du kan snabbt skapa fantastiska specialeffekter som hjälper dig att berätta en historia visuellt</em>
+    <em>Genom att kombinera After Effects med Adobe [!DNL Stock] kan du snabbt skapa fantastiska specialeffekter som hjälper dig att berätta en historia visuellt</em>
     <br>
   </td>
    <td>
       <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank">
-         <img alt="Skapa unik grafik genom att kombinera Adobe [!DNL Stock] images" src="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.jpg" />
+         <img alt="Skapa unik grafik genom att kombinera Adobe [!DNL Stock]-bilder" src="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.jpg" />
       </a>
       <div>
-      <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank"><strong>Skapa unik grafik genom att kombinera Adobe [!DNL Stock] images (PDF)</strong></a>
+      <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank"><strong>Skapa unik grafik genom att kombinera Adobe [!DNL Stock]-bilder (PDF)</strong></a>
       </div>
       <em>Samla två olika bilder för att skapa en helt ny scen för dina designprojekt. Adobe [!DNL Stock] och Adobe Photoshop gör det enkelt</em>
       <br>
@@ -318,27 +318,27 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
          <img alt="Skapa ett halloweenfilmklipp med Photoshop CC och Adobe [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
       </a>
       <div>
-      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank"><strong>Skapa ett halloweenfilmklipp med Photoshop CC och Adobe [!DNL Stock] (PDF)</strong></a>
+      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank"><strong>Skapa ett Halloweenfilmklipp med Photoshop CC och Adobe [!DNL Stock] (PDF)</strong></a>
       </div>
       <em>Skapa ett biografdiagram genom att sätta samman video, illustrationer och foton med Adobe Photoshop</em>
       <br>
   </td>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
-         <img alt="Få fart på dina data med Adobe [!DNL Stock] och Premiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
+         <img alt="Få dina data att röra sig med Adobe [!DNL Stock] och Premiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
       </a>
       <div>
-      <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank"><strong>Få fart på dina data med Adobe [!DNL Stock] och Premiere Pro (PDF)</strong></a>
+      <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank"><strong>Få igång dina data med Adobe [!DNL Stock] och Premiere Pro (PDF)</strong></a>
       </div>
-      <em>Få dina data att vakna till liv och berätta en mer övertygande historia med hjälp av Adobe [!DNL Stock] och Adobe Premiere Pro</em>
+      <em>Väck liv i dina data och berätta en mer övertygande historia med hjälp av Adobe [!DNL Stock] och Adobe Premiere Pro</em>
       <br>
   </td>
    <td>
       <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank">
-         <img alt="Färga om Adobe [!DNL Stock] Vektorkonst med Adobe Illustrator för att få exakt det utseende du vill ha" src="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.jpg" />
+         <img alt="Färga om Adobe [!DNL Stock]-vektorkonstverk med Adobe Illustrator för att få exakt det utseende du vill ha" src="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.jpg" />
       </a>
       <div>
-      <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank"><strong>Färga om Adobe [!DNL Stock] vektorkonstverk med Adobe Illustrator för att få exakt det utseende du vill ha (PDF)</strong></a>
+      <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank"><strong>Ändra färg på vektorkonstverk i Adobe [!DNL Stock] med Adobe Illustrator för att få exakt det utseende du vill ha (PDF)</strong></a>
       </div>
       <em>Adobe [!DNL Stock] gör det enkelt att hitta unik vektorgrafik, och med Adobe Illustrator kan du snabbt ändra den så att den matchar din kreativa vision</em>
       <br>
@@ -350,19 +350,19 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
       <div>
       <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>Visa upp ditt designarbete i verkligheten med Adobe [!DNL Stock] och Photoshop (PDF)</strong></a>
       </div>
-      <em>Följ de här stegen för att visa upp dina verk i ett naturtroget Adobe [!DNL Stock] mall med Adobe Photoshop</em>
+      <em>Följ de här stegen för att visa upp det du har gjort i en realistisk Adobe [!DNL Stock]-mall med Adobe Photoshop</em>
       <br>
   </td>
  </tr> 
  <tr>
    <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
-         <img alt="Upptäck häpnadsväckande detaljer i Adobe [!DNL Stock] bilder med Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
+         <img alt="Upptäck fantastiska detaljer i Adobe [!DNL Stock]-foton med Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
       <div>
-      <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank"><strong>Upptäck häpnadsväckande detaljer i Adobe [!DNL Stock] foton med Lightroom for mobile (PDF)</strong></a>
+      <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank"><strong>Upptäck fantastiska detaljer i Adobe [!DNL Stock] med Lightroom for mobile (PDF)</strong></a>
       </div>
-      <em>Upptäck kraften i Lightroom på din mobila enhet för att få ut det bästa av dina bilder</em>
+      <em>Upptäck fördelarna med Lightroom på din mobila enhet för att få ut det bästa av dina bilder</em>
       <br>
   </td>
   <td>
@@ -372,7 +372,7 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
       <div>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>Visualisera affischdesign i verkligheten med Adobe [!DNL Stock] och Photoshop (PDF)</strong></a>
       </div>
-      <em>Visa upp dina designer i verkliga miljöer och få en bättre känsla för hur de ser ut i världen</em>
+      <em>Visa upp din design i verkliga miljöer och få en bättre känsla för hur den ser ut i verkligheten</em>
       <br>
   </td>
   <td>

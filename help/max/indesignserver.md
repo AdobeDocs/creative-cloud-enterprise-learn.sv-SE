@@ -1,14 +1,14 @@
 ---
 title: InDesign Server
-description: Adobe Adobe&reg; InDesign&reg; Server är en robust och skalbar motor som utnyttjar InDesignens funktioner för design, layout och typografi för att programmatiskt skapa engagerande automatiserade dokument
+description: Adobe Adobe&reg; InDesign InDesign&reg; Server har en robust och skalbar motor med funktioner för design, layout och typografi som gör att du kan skapa engagerande automatiserade dokument programmatiskt
 feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 1%
+source-wordcount: '250'
+ht-degree: 0%
 
 ---
 
@@ -25,9 +25,9 @@ Adobe InDesignInDesign ® Server har en robust och skalanpassningsbar motor med 
       <img alt="Datadrivet innehåll i InDesigner Server" src="../assets/dataDriven-InDesign-Server-Content.jpg" />
    </a>
     <div>
-   <a href="indesignserver.md#tutorial1"><strong>Datadrivet innehåll i InDesigner Server</strong></a>
+   <a href="indesignserver.md#tutorial1"><strong>Datadrivet innehåll i InDesignen Server</strong></a>
     </div>
-    <em>Datadriven utformning kan uppnås programmässigt med InDesign Server</em>
+    <em>Datadriven design kan uppnås programmatiskt med InDesign Server</em>
     <br>
   </td>
   <td>
@@ -90,12 +90,12 @@ ERIC ROWSE, KONSULT FÖR SENIORA LÖSNINGAR (DIGITALA MEDIA)
 </tr>
 </table>
 
-![InDesign Server-logotyp](../assets/id_server_appicon_96.png)
+![InDesignens Server logotyp](../assets/id_server_appicon_96.png)
 
-**InDesign Server**
+**Resurser för InDesign Server**
 
-[Lär dig mer och support](https://www.adobe.com/products/indesignserver.html) är navet för ytterligare självstudiekurser, Nyheter och länkar till användarforum.
+[Utbildning och support](https://www.adobe.com/products/indesignserver.html) är navet för ytterligare självstudiekurser, nyheter och länkar till communityforum.
 
-**Versionen från oktober 2020**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

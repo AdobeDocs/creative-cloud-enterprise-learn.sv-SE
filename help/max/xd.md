@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '708'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ Adobe XD är ett verktyg för att designa och ta fram prototyper av webbplatser,
       <img alt="Skapa komponenter med hovringslägen" src="../assets/Xd_hoverstates_components_thumbnail.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial1"><strong>Skapa komponenter med hovringslägen</strong></a>
+   <a href="xd.md#tutorial1"><strong>Skapa komponenter med hovringstillstånd</strong></a>
     </div>
-    <em>Skapa återanvändbara knappar som kan storleksändras dynamiskt för interaktiv design</em>
+    <em>Skapa återanvändbara knappar med dynamisk storleksändring för interaktiv design</em>
     <br>
   </td>
   <td>
@@ -54,12 +54,14 @@ Adobe XD är ett verktyg för att designa och ta fram prototyper av webbplatser,
 <tr>
  <td>
     <a href="xd.md#tutorial4">
-        <img alt="Skapa en prototyp - ankarlänkar och rullningsgrupper" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
+        <img alt="Skapa en prototyp - ankarlänkar och 
+Rullningsgrupper" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial4"><strong>Skapa en prototyp - ankarlänkar och rullningsgrupper</strong></a>
+    <a href="xd.md#tutorial4"><strong>Skapa en prototyp - ankarlänkar och 
+Rullningsgrupper</strong></a>
     </div>
-    <em>Lägga till navigering och bläddring i en prototyp</em>
+    <em>Lägg till navigering och bläddring i en prototyp</em>
     <br>
   </td>
   <td>
@@ -67,9 +69,9 @@ Adobe XD är ett verktyg för att designa och ta fram prototyper av webbplatser,
         <img alt="Skapa en prototyp - interaktiva komponentlägen" src="../assets/XD_interactiveprototypes_enke.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial5"><strong>Skapa en prototyp - interaktiva komponentlägen</strong></a>
+    <a href="xd.md#tutorial5"><strong>Skapa en prototyp - interaktiva komponenttillstånd</strong></a>
     </div>
-    <em>Lägg till interaktivitet och en överläggsmeny till en prototyp</em>
+    <em>Lägg till interaktivitet och en överläggsmeny i en prototyp</em>
     <br>
   </td>
   <td>
@@ -89,7 +91,7 @@ Adobe XD är ett verktyg för att designa och ta fram prototyper av webbplatser,
         <img alt="E-post - arbeta med högar" src="../assets/xd_stacks_torres.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial7"><strong>E-post - arbeta med högar</strong></a>
+    <a href="xd.md#tutorial7"><strong>E-post - arbete med högar</strong></a>
     </div>
     <em>Använd egenskapen stack för att enkelt ordna om element</em>
     <br>
@@ -107,7 +109,7 @@ Adobe XD är ett verktyg för att designa och ta fram prototyper av webbplatser,
 </tr>
 </table>
 
-## Skapa [!UICONTROL Komponenter] med hovringstillstånd (7:35) {#tutorial1}
+## Skapa [!UICONTROL komponenter] med hovringstillstånd (7:35) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326874?hidetitle=true)
 
@@ -210,10 +212,10 @@ Victoria Torres, lösningskonsult (digitala medier)
 
 ![XD-logotyp](../assets/xd_appicon_96.png)
 
-**Resurser för XD**
+**XD-resurser**
 
-[Lär dig mer och support](https://helpx.adobe.com/support/xd.html) är ditt nav för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)och länkar till användarforum.
+[Utbildning och support](https://helpx.adobe.com/support/xd.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) och länkar till communityforum.
 
-**Versionen från oktober 2020**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

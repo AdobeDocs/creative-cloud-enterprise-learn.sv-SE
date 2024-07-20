@@ -1,6 +1,6 @@
 ---
-title: Bekanta dig med [!UICONTROL Komponenter] i ADOBE XD
-description: Läs om hur du använder [!UICONTROL Komponenter] och ger dig en oöverträffad flexibilitet när du snabbt och konsekvent använder din design
+title: Bekanta dig med [!UICONTROL komponenter] i Adobe XD
+description: Lär dig använda [!UICONTROL Komponenter] för att ge dig en oöverträffad flexibilitet när du använder både hastighet och konsekvens i ditt designarbetsflöde
 feature: UI Design
 role: User
 level: Beginner, Intermediate
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# Bekanta dig med [!UICONTROL Komponenter] i ADOBE XD
+# Bekanta dig med [!UICONTROL komponenter] i Adobe XD
 
-Läs om hur du använder [!UICONTROL Komponenter] ger dig en oöverträffad flexibilitet när du snabbt och konsekvent använder ditt designarbetsflöde.
+Lär dig använda [!UICONTROL Komponenter] för att ge dig en oöverträffad flexibilitet när du använder både hastighet och konsekvens i ditt designarbetsflöde.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
 

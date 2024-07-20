@@ -23,4 +23,4 @@ Lär dig skapa egna modeller i Firefly för att skapa nya fräscha bilder för o
 
 >[!IMPORTANT]
 >
->Läs mer om [säkerhetsarkitektur och dataflöde för anpassade modeller](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).
+>Läs mer om [säkerhetsarkitekturen och dataflödet för anpassade modeller](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).

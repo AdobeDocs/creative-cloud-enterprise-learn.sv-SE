@@ -13,7 +13,7 @@ ht-degree: 10%
 
 ---
 
-# Adobe [!DNL Express] översikt
+# Översikt över Adobe [!DNL Express]
 
 Designa rullar och videor, flygblad, cv:n, banners, logotyper och annat från TikTok med den nya, allt-i-ett-appen för Adobe Express av snabbt och enkelt skapande av innehåll. Gör fantastiska verk som sticker ut med generativa AI-funktioner som drivs av Adobe Firefly.
 
@@ -21,7 +21,7 @@ Designa rullar och videor, flygblad, cv:n, banners, logotyper och annat från Ti
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
 
-## Adobe [!DNL Express] självstudiekurser
+## Självstudiekurser för Adobe [!DNL Express]
 
 <table style="table-layout:fixed">
 <tr>

@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -35,17 +35,19 @@ Det branschledande programmet för att skapa snygga dokument för tryckt och dig
       <img alt="Dela för granskning från InDesign" src="../assets/indesign_shareforreview_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="indesign.md#tutorial2"><strong>Dela för granskning från InDesign</strong></a>
+   <a href="indesign.md#tutorial2"><strong>Dela för granskning från InDesignen</strong></a>
     </div>
     <em>Smidig kreativ granskning för designers och deras teammedlemmar</em>
     <br>
   </td>
   <td>
     <a href="indesign.md#tutorial3">
-        <img alt="Importera PDF-kommentarer från en Document Cloud-granskning" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
+        <img alt="Importera PDF-kommentarer från ett dokument 
+Cloud Review" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
     </a>
     <div>
-    <a href="indesign.md#tutorial3"><strong>Importera PDF-kommentarer från en Document Cloud-granskning</strong></a>
+    <a href="indesign.md#tutorial3"><strong>Importera PDF-kommentarer från ett dokument 
+Cloud Review</strong></a>
     </div>
     <em>Importera kommentarer från en PDF direkt till InDesignen och tillämpa begärda ändringar snabbt</em>
     <br>
@@ -57,7 +59,7 @@ Det branschledande programmet för att skapa snygga dokument för tryckt och dig
       <img alt="Lägga till videofil i InDesign-dokument" src="../assets/indesign_video_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="indesign.md#tutorial4"><strong>Lägga till videofil i InDesign-dokument</strong></a>
+   <a href="indesign.md#tutorial4"><strong>Lägg till en videofil i InDesignens dokument</strong></a>
     </div>
     <em>Lägg till videoklipp i InDesignen. Skicka utdata till PDF och publicera online</em>
     <br>
@@ -103,7 +105,7 @@ I den här självstudiekursen får du lära dig mer om att:
 * Samla feedback från flera intressenter på ett och samma ställe
 * Hantera feedback i appen där ändringar kan göras omedelbart.
 
-**Adobe Review and Comment Options Comparison PDF**
+**Adobe - jämförelse av gransknings- och kommentarsalternativ i PDF**
 
 [![Jämförelsebild](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
@@ -121,7 +123,7 @@ I den här självstudiekursen får du lära dig mer om att:
 * Stöder befintliga arbetsflöden för kommentering på PDF
 * Verk för PDF kombinerat från flera källor
 
-**Adobe Review and Comment Options Comparison PDF**
+**Adobe - jämförelse av gransknings- och kommentarsalternativ i PDF**
 
 [![Jämförelsebild](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
@@ -144,10 +146,10 @@ Patti Sokol, huvudsaklig lösningskonsult (digitala medier)
 
 ![InDesignLogo](../assets/id_appicon_96.png)
 
-**InDesign**
+**Resurser för InDesign**
 
-[Lär dig mer och support](https://helpx.adobe.com/support/indesign.html) är ditt nav för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)och länkar till användarforum.
+[Utbildning och support](https://helpx.adobe.com/support/indesign.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html) och länkar till communityforum.
 
-**Versionen från oktober 2020**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

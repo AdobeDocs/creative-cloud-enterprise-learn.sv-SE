@@ -1,20 +1,20 @@
 ---
 title: "[!DNL Stock]"
-description: Adobe [!DNL Stock] for enterprise ger kreativa team tillgång till fler än 200 miljoner bilder, videor, mallar, illustrationer, ljudfiler och 3D-resurser
+description: Adobe [!DNL Stock] for enterprise ger kreatörer tillgång till fler än 200 miljoner bilder, videor, mallar, illustrationer, ljudfiler och 3D-resurser
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-Kreatörer pressas att snabbt leverera nytt, visuellt övertygande innehåll som fångar och fångar uppmärksamheten. Adobe [!DNL Stock] for enterprise ger kreatörer tillgång till fler än 200 miljoner bilder, videor, mallar, illustrationer, ljudfiler och 3D-mediefiler - allt från de kreativa program i Adobe som de använder varje dag.
+Kreatörer pressas att snabbt leverera nytt, visuellt övertygande innehåll som fångar och fångar uppmärksamheten. Adobe [!DNL Stock] for enterprise ger kreatörer tillgång till fler än 200 miljoner bilder, videor, mallar, illustrationer, ljudfiler och 3D-mediefiler - allt från de kreativa program i Adobe som de använder dagligen.
 
 ## Bläddra i Tutorials
 
@@ -27,17 +27,18 @@ Kreatörer pressas att snabbt leverera nytt, visuellt övertygande innehåll som
     <div>
    <a href="stock.md#tutorial1"><strong>Hitta de bästa resurserna snabbare med Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Hitta den perfekta royaltyfria stockbilden som piffar upp ditt kreativa projekt med bättre och snabbare sökresultat från Adobe Sensei, vår artificiella intelligens-motor</em>
+    <em>Hitta den perfekta royaltyfria stockbilden som piffar upp ditt projekt med bättre och snabbare sökresultat från Adobe Sensei, vår artificiella intelligens-motor</em>
     <br>
   </td>
   <td>
    <a href="stock.md#tutorial2">
-      <img alt="Sök och licensiera [!DNL Stock] Resurser i AEM" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
+      <img alt="Sök efter och licensiera [!DNL Stock]-mediefiler i AEM" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial2"><strong>Sök och licensiera [!DNL Stock] Mediefiler i Adobe Experience Manager</strong></a>
+   <a href="stock.md#tutorial2"><strong>Sök efter och licensiera [!DNL Stock] mediefiler i 
+Adobe Experience Manager</strong></a>
     </div>
-    <em>Förenkla uppladdningen av din licensierade Adobe [!DNL Stock] till ditt digitala resurshanteringssystem</em>
+    <em>Förenkla överföringen av dina licensierade Adobe [!DNL Stock]-mediefiler till ditt digitala resurshanteringssystem</em>
     <br>
   </td>
   <td>
@@ -62,29 +63,29 @@ I den här självstudiekursen får du lära dig mer om att:
 
 **Presenteras av:**
 
-Victoria Torres [!DNL Stock] Lösningskonsult (digitala medier)
+Victoria Torres, [!DNL Stock] lösningskonsult (digitala medier)
 
-## Sök och licensiera [!DNL Stock] Resurser i AEM (6:46) {#tutorial2}
+## Sök efter och licensiera [!DNL Stock] mediefiler i AEM (6:46) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
 **Beskrivning**
-Förenkla uppladdningen av din licensierade Adobe [!DNL Stock] till ditt digitala resurshanteringssystem.
+Förenkla överföringen av dina licensierade [!DNL Stock]-mediefiler från Adobe till ditt digitala resurshanteringssystem.
 
 I den här självstudiekursen får du lära dig mer om att:
-* Utför Adobe [!DNL Stock] resurssökning utan att lämna arbetsytan i AEM
+* Sök efter resurser i Adobe [!DNL Stock] utan att lämna arbetsytan i AEM
 * Spara licensierade mediefiler direkt i en AEM-mapp vid licensieringstillfället
-* Visa resurser som licensierats från AEM i [!DNL Stock] licenshistorik på [!DNL Stock] webbplats.
+* Visa resurser som licensierats från AEM i din [!DNL Stock]-licenshistorik på webbplatsen [!DNL Stock].
 
 **Presenteras av:**
 Emily Palmer, lösningskonsult (digitala medier)
 
-![[!DNL Stock] Logotyp](../assets/st_appicon_96.png)
+![[!DNL Stock]-logotyp](../assets/st_appicon_96.png)
 
-**Adobe [!DNL Stock] Resurser**
+**Resurser för Adobe [!DNL Stock]**
 
 [Lär dig mer och support](https://helpx.adobe.com/support/stock.html) är navet för ytterligare självstudiekurser och länkar till användarforum.
 
-**Versionen från oktober 2020**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

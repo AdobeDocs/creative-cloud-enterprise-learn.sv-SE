@@ -1,6 +1,6 @@
 ---
-title: Gör dina kreativa verk mer levande med anpassade animeringar från Adobe [!DNL Stock]
-description: Använd Adobe [!DNL Stock] bilder, texturer och mönster till anpassade animeringar i Photoshop
+title: Väck kreativiteten till liv med anpassade animeringar från Adobe [!DNL Stock]
+description: Använd Adobe [!DNL Stock] bilder, texturer och mönster i anpassade animeringar i Photoshop
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Gör dina kreativa verk mer levande med anpassade animeringar från Adobe [!DNL Stock]
+# Väck kreativiteten till liv med anpassade animeringar från Adobe [!DNL Stock]
 
-Använd Adobe [!DNL Stock] bilder, texturer och mönster till anpassade animeringar i Photoshop.
+Använd Adobe [!DNL Stock]-bilder, texturer och mönster för anpassade animeringar i Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331806?hidetitle=true)

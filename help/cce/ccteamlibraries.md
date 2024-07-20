@@ -1,5 +1,5 @@
 ---
-title: Skapa Creative Cloud-bibliotek för team
+title: Skapa Creative Cloud Libraries för teams
 description: Lär dig dela resurser i en grupp eller ett team med hjälp av Creative Cloud Libraries för team
 feature: Integrations
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Skapa Creative Cloud-bibliotek för team
+# Skapa Creative Cloud Libraries för teams
 
-Lär dig dela resurser i en grupp eller ett team med hjälp av Creative Cloud Libraries för team. Dessa typer av bibliotek är inte knutna till ett enskilt användarkonto, utan biblioteket tillhör teamet. Du kan identifiera teambibliotek på menyn ![byggbild](assets/Smock_Building_18_N.png) -ikonen.
+Lär dig dela resurser i en grupp eller ett team med hjälp av Creative Cloud Libraries för team. Dessa typer av bibliotek är inte knutna till ett enskilt användarkonto, utan biblioteket tillhör teamet. Du kan identifiera teambibliotek genom ikonen ![skapa bild](assets/Smock_Building_18_N.png).
 
 >[!TIP]
 >
->Använd Creative Cloud Libraries för team när din organisation måste behålla ägarskapet av sina kreativa resurser. Några exempel är: företagsstilguide, delade projekt och gränssnittsdesignelement.
+>Använd Creative Cloud Libraries för teams när din organisation måste behålla ägarskapet av sina kreativa resurser. Några exempel är: företagsstilguide, delade projekt och gränssnittsdesignelement.
 
 <br> 
 

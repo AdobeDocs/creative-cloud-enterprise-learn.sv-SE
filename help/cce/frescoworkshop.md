@@ -24,4 +24,4 @@ Utforska en helt ny värld av digital teckning och målning med Adobe Fresco i d
 
 [**Hämta PDF-handboken för snabbreferens**](../quick-reference/Frescoworkshop.pdf)
 
-[![Bild på första sidan i snabbguiden](assets/FrescoworkshopPage1.png)](../quick-reference/Frescoworkshop.pdf)
+[![Bild av första sidan i snabbguiden](assets/FrescoworkshopPage1.png)](../quick-reference/Frescoworkshop.pdf)

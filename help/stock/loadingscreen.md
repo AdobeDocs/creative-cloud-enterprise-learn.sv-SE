@@ -1,6 +1,6 @@
 ---
 title: Anpassa en inläsningsskärmanimering med Adobe [!DNL Stock] och XD
-description: Anpassa vektorgrafik från Adobe [!DNL Stock] för att skapa en sval inläsningsskärmanimering för en mobilapp
+description: Anpassa vektorgrafik från Adobe [!DNL Stock] för att skapa en spännande skärmanimering för en mobilapp
 feature: Licensable Assets, UI Design
 role: User
 level: Beginner, Intermediate
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Anpassa en inläsningsskärmanimering med Adobe [!DNL Stock] och XD
 
-Anpassa vektorgrafik från Adobe [!DNL Stock] för att skapa en sval inläsningsskärmanimering för en mobilapp.
+Anpassa vektorgrafik från Adobe [!DNL Stock] för att skapa en spännande skärmanimering för en mobilapp.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331814?hidetitle=true)

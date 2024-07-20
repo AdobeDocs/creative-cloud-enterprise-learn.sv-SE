@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Skapa engagerande webbgrafik genom att kombinera Adobe [!DNL Stock] bilder med CSS
+# Skapa engagerande webbgrafik genom att kombinera Adobe [!DNL Stock]-bilder med CSS
 
 Skapa varumärkesidentitet med olika bilder genom att kombinera färger och övertoningar i hela din reklamkampanj.
 

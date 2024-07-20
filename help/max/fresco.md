@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Adobe Fresco är ett plattformsoberoende program för att skapa teckningar och m
     <div>
    <a href="fresco.md#tutorial1"><strong>Introduktion till ritning med Adobe Fresco</strong></a>
     </div>
-    <em>Använd de kraftfulla markerings- och färgredigeringsverktygen i Adobe Fresco för att ändra en bild dramatiskt för att matcha ditt företags varumärkesbehov</em>
+    <em>Använd de kraftfulla markerings- och färgredigeringsverktygen i Adobe Fresco för att ändra en bild så att den matchar ditt företags varumärkesbehov</em>
     <br>
   </td>
   <td>
@@ -35,7 +35,7 @@ Adobe Fresco är ett plattformsoberoende program för att skapa teckningar och m
       <img alt="Skapa en texturerad bild - Fresco till Illustrator" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial2"><strong>Skapa en texturerad bild - Fresco till Illustrator</strong></a>
+   <a href="fresco.md#tutorial2"><strong>Skapa texturerade bilder - Fresco till Illustrator</strong></a>
     </div>
     <em>Måla och rita texturer i Adobe Fresco och lär dig använda dem i Illustrator</em>
     <br>
@@ -83,8 +83,8 @@ Liz Tanonis, lösningskonsult (digitala medier)
 
 **Resurser för Fresco**
 
-[Lär dig mer och support](https://helpx.adobe.com/support/adobe-fresco.html) är ditt nav för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/fresco/using/whats-new.html)och länkar till användarforum.
+[Utbildning och support](https://helpx.adobe.com/support/adobe-fresco.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/fresco/using/whats-new.html) och länkar till communityforum.
 
-**Versionen från oktober 2020**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

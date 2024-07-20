@@ -1,6 +1,6 @@
 ---
-title: Anpassa och varumärkesanpassa en 3D-modell med [!DNL Dimension] och Adobe [!DNL Stock]
-description: Anpassa och varumärkesanpassa en 3D-modell i [!DNL [!DNL Dimension]] använda material, miljöegenskaper, belysning och fotografi för att skapa fotorealistiska bilder för alla designprojekt
+title: Anpassa och varumärkesanpassa en 3D-modell med  [!DNL Dimension] och Adobe [!DNL Stock]
+description: Anpassa och varumärkesanpassa en 3D-modell i [!DNL [!DNL Dimension]] med hjälp av material, miljöegenskaper, belysning och fotografi för att skapa fotorealistiska bilder för alla designprojekt
 feature: 3D
 role: User
 level: Beginner, Intermediate
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Anpassa och varumärkesanpassa en 3D-modell med [!DNL Dimension] och Adobe [!DNL Stock]
 
-Anpassa och märka en 3D-modell i [!DNL Dimension] använda material, miljöegenskaper, belysning och fotografi för att skapa fotorealistiska bilder för alla designprojekt.
+Anpassa och varumärkesanpassa en 3D-modell i [!DNL Dimension] med hjälp av material, miljöegenskaper, ljus och fotografi för att skapa fotorealistiska bilder för alla designprojekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331005?hidetitle=true)
 

@@ -7,8 +7,8 @@ feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
 source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 2%
+source-wordcount: '615'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ Om ditt företag inte är NUL och fortfarande använder serialiserad distributio
 
 ## Om Namngiven användare-licensiering
 
-[Namngiven användarlicensiering](https://helpx.adobe.com/enterprise/using/licensing.html) är en programvarulicensieringsmodell som gör att programvaran kan tilldelas en person i stället för ett serienummer eller en enhet. NUL ger IT-administratörer säkerhet på företagsnivå med avancerad hantering av användaridentiteter och möjliggör enkel driftsättning och hantering av program med Adobe Admin Console.
+[Namngiven användare-licensiering](https://helpx.adobe.com/enterprise/using/licensing.html) är en modell för programvarulicensiering som gör att programvara kan tilldelas en person i stället för ett serienummer eller en enhet. NUL ger IT-administratörer säkerhet på företagsnivå med avancerad hantering av användaridentiteter och möjliggör enkel driftsättning och hantering av program med Adobe Admin Console.
 
 ## Fördelar med namngiven användare-licensiering:
 
@@ -46,4 +46,4 @@ Om ditt företag inte är NUL och fortfarande använder serialiserad distributio
 
   Genom att utnyttja NUL får dina användare tillgång till de produktivitetshöjande kraftpaket som Adobe Creative Cloud och Adobe Document Cloud erbjuder. Det finns så mycket du kan göra: skapa och signera dokument på ett säkert sätt, skapa anpassade PDF snabbt, skapa ett kreativt projekt på en surfplatta innan du tar det till en dator, dela dokument med ett team via Document Cloud och arbeta med nya teamprojekt i Adobe XD. Våra molnbaserade tjänster gör det enkelt att dela resurser och samarbeta som ett fjärrteam.
 
-Moderna arbetsflödesutmaningar kräver moderna lösningar. Låt oss hjälpa dig med övergången till namngiven användare-licensiering. Titta på [Migreringshandbok för namngiven användare-licensiering](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) för att komma igång med övergången.
+Moderna arbetsflödesutmaningar kräver moderna lösningar. Låt oss hjälpa dig med övergången till namngiven användare-licensiering. Ta en titt i migreringshandboken för [namngiven användarlicensiering](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) för att komma igång med övergången.

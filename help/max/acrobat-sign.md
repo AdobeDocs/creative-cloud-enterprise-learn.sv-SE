@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Med Adobe Document Cloud, som innehåller världsledande PDF- och signaturlösni
       <img alt="Starta en delad granskning i Acrobat" src="../assets/acrobat_sharedreview_armstrong.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial1"><strong>Starta en delad granskning i Acrobat</strong></a>
+   <a href="acrobat-sign.md#tutorial1"><strong>Initiera en delad granskning i Acrobat</strong></a>
     </div>
     <em>Bjud in granskare att lägga till sina kommentarer i ett PDF-dokument</em>
     <br>
@@ -35,9 +35,9 @@ Med Adobe Document Cloud, som innehåller världsledande PDF- och signaturlösni
         <img alt="Skapa Forms med Adobe Sign online" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial2"><strong>Skapa Forms med Adobe Sign online</strong></a>
+    <a href="acrobat-sign.md#tutorial2"><strong>Skapa Forms online med Adobe Sign</strong></a>
     </div>
-    <em>Gör snabbt om dokument till onlineformulär och publicera dem online, där alla som behöver dem kan fylla i och signera dem</em>
+    <em>Förvandla snabbt dokument till onlineformulär och publicera dem online där alla som behöver dem kan fylla i och signera dem</em>
     <br>
   </td>
   <td>
@@ -59,7 +59,7 @@ Med Adobe Document Cloud, som innehåller världsledande PDF- och signaturlösni
     <div>
    <a href="acrobat-sign.md#tutorial4"><strong>Visa menyer på mobilen med Liquid Mode</strong></a>
     </div>
-    <em>Använd Liquid Mode för att förbättra läsupplevelsen av PDF på mobila enheter</em>
+    <em>Använd Liquid Mode för att förbättra läsarupplevelsen i PDF på mobila enheter</em>
     <br>
   </td>
   <td>
@@ -92,12 +92,13 @@ I den här självstudiekursen får du lära dig mer om att:
 * Samla kommentarer på ett ställe
 * Samtidiga kommentarer uppmuntrar till samarbete
 
-**Adobe Review and Comment Options Comparison PDF**
+**Adobe - jämförelse av gransknings- och kommentarsalternativ i PDF**
 
 [![Jämförelsebild](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
 **Presenteras av:**
-Dan Armstrong, lösningskonsult (digitala medier) Rick Borstein, Senior Manager Solution Consulting (Digital Media)
+Dan Armstrong, lösningskonsult (digitala medier)
+Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
 ## Skapa Forms med Adobe Sign online (5:19) {#tutorial2}
 
@@ -112,7 +113,8 @@ I den här självstudiekursen får du lära dig mer om att:
 * Slutförda formulär arkiveras automatiskt för information
 
 **Presenteras av:**
-Taylor Kobey, lösningskonsult (digitala medier) Emily Palmer, lösningskonsult (digitala medier)
+Taylor Kobey, lösningskonsult (digitala medier)
+Emily Palmer, lösningskonsult (digitala medier)
 
 ## Begär en signatur med Adobe Sign (3:21) {#tutorial3}
 
@@ -161,8 +163,8 @@ Emilie Enke, Associate Solutions Consultant (Digital Media)
 
 **Resurser för Acrobat och Adobe Sign**
 
-[Lär dig mer och support](https://helpx.adobe.com/support/document-cloud.html) är ditt nav för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/acrobat/using/whats-new.html)och länkar till användarforum.
+[Utbildning och support](https://helpx.adobe.com/support/document-cloud.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/acrobat/using/whats-new.html) och länkar till communityforum.
 
-**Versionen från oktober 2020**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

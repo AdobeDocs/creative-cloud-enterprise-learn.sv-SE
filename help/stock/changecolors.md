@@ -1,6 +1,6 @@
 ---
-title: Ändra en Adobe [!DNL Stock] bildens färger som matchar din story
-description: Få en bra bild att arbeta ännu hårdare för att stödja ditt budskap. Hitta ett unikt foto i Adobe [!DNL Stock] och justera sedan färgerna i Adobe Photoshop efter dina behov
+title: Ändra färgerna i en Adobe [!DNL Stock] bild så att de överensstämmer med din berättelse
+description: Få en bra bild att arbeta ännu hårdare för att stödja ditt budskap. Hitta ett unikt foto i Adobe [!DNL Stock] och anpassa sedan färgerna i Adobe Photoshop efter dina behov
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Ändra en Adobe [!DNL Stock] bildens färger som matchar din story
+# Ändra en Adobe [!DNL Stock]-bilds färger så att de matchar din berättelse
 
-Få en bra bild att arbeta ännu hårdare för att stödja ditt budskap. Hitta ett unikt foto i Adobe [!DNL Stock] och justera sedan färgerna i Adobe Photoshop efter dina behov.
+Få en bra bild att arbeta ännu hårdare för att stödja ditt budskap. Hitta ett unikt foto i Adobe [!DNL Stock] och anpassa sedan färgerna i Adobe Photoshop efter dina behov.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331810?hidetitle=true)

@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '151'
 ht-degree: 8%
 
 ---
@@ -22,12 +22,14 @@ Datorprogrammet Creative Cloud är navet där du hanterar CC-program, tjänster 
 <tr>
  <td>
    <a href="creativeclouddesktopapp.md#tutorial1">
-      <img alt="Utforska CC-datorprogrammet: ditt nav för Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
+      <img alt="Utforska CC-datorprogrammet: ditt nav för 
+Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Utforska CC-datorprogrammet: ditt nav för Creative Cloud</strong></a>
+   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Utforska CC-datorprogrammet: ditt nav för 
+Creative Cloud</strong></a>
     </div>
-    <em>Datorprogrammet Creative Cloud är navet där du hanterar CC-program, tjänster och samarbeten - och mycket mer!</em>
+    <em>Creative Cloud-datorprogrammet är navet där du kan hantera CC-program, tjänster och samarbeten - och mycket mer!</em>
     <br>
   </td>
   <td>

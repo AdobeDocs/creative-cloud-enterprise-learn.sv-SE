@@ -15,7 +15,7 @@ ht-degree: 8%
 
 # Text till bild
 
-Lär dig hur du skapar en bild från textbeskrivningar. [Genererar bilder](https://www.adobe.com/products/firefly/features/text-to-image.html) efter dina specifika behov kan du skapa anpassat och inspirerande innehåll. Prova Adobe Firefly [här](https://firefly.adobe.com/).
+Lär dig hur du skapar en bild från textbeskrivningar. [Genom att generera bilder](https://www.adobe.com/products/firefly/features/text-to-image.html) efter dina specifika behov kan du skapa anpassat och inspirerande innehåll. Prova Adobe Firefly [här](https://firefly.adobe.com/).
 
 <br> 
 

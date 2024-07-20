@@ -1,6 +1,6 @@
 ---
-title: Skapa realistiska fotomontage med Adobe [!DNL Stock] images
-description: För samman två stora Adobe [!DNL Stock] foton för att dra personer till dina sociala inlägg
+title: Skapa realistiska fotosammansättningar med Adobe [!DNL Stock] foton
+description: Samla två fantastiska Adobe [!DNL Stock] bilder och dra folk till dina inlägg i sociala medier
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Skapa realistiska fotomontage med Adobe [!DNL Stock] images
+# Skapa realistiska fotokompositioner med Adobe [!DNL Stock]-foton
 
-För samman två stora Adobe [!DNL Stock] foton som lockar folk till dina sociala inlägg.
+Samla två fantastiska Adobe [!DNL Stock]-foton och dra människor till dina inlägg i sociala medier.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331836?hidetitle=true)

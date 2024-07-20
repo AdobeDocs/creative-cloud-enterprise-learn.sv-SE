@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Sök i Adobe [!DNL Stock] licenshistorik
+# Sök i licensieringshistoriken för Adobe [!DNL Stock]
 
-I den här videosjälvstudiekursen får du lära dig hur du snabbt söker i organisationens Adobe [!DNL Stock] licenshistorik i Creative Cloud för företag.
+I den här videosjälvstudiekursen får du lära dig hur du snabbt söker igenom organisationens Adobe [!DNL Stock]-licenshistorik i Creative Cloud för företag.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)

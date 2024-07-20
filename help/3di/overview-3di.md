@@ -24,7 +24,7 @@ Skapa engagerande innehåll i 3D snabbare med högkvalitativa modeller, material
       <img alt="3D-design och rendering" src="assets/Substance3DStager.png" />
    </a>
     <div>
-   <a href="substance-3d-stager.md"><strong>3D-design och rendering</strong></a>
+   <a href="substance-3d-stager.md"><strong>3D-design och -rendering</strong></a>
     </div>
     <em>Importera innehåll, arrangera ditt motiv, använd material och texturer, justera bildbaserat och fysiskt ljus, spara kameror med olika upplösningar och rendera fotorealistiska bilder</em>
     <br>
@@ -36,7 +36,7 @@ Skapa engagerande innehåll i 3D snabbare med högkvalitativa modeller, material
     <div>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>Skapa realistiska 3D-modeller med Adobe [!DNL Stock] och [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Kombinera enkelt en 2D-design med en 3D-modell med Adobe [!DNL Stock] och monterade bilder i Adobe [!DNL Dimension]</em>
+    <em>Kombinera enkelt en 2D-design med en 3D-modell med Adobe [!DNL Stock] och monterad grafik i Adobe [!DNL Dimension]</em>
     <br>
   </td>
   <td>
@@ -46,7 +46,7 @@ Skapa engagerande innehåll i 3D snabbare med högkvalitativa modeller, material
     <div>
    <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Visualisera textildesign eller mönster på 3D-objekt med Adobe [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Skapa en ultrarealistisk återgivning av din slutprodukt på några minuter</em>
+    <em>Skapa en ultrarealistisk bild av din slutprodukt på några minuter</em>
     <br>
   </td>
   <td>
@@ -54,9 +54,9 @@ Skapa engagerande innehåll i 3D snabbare med högkvalitativa modeller, material
       <img alt="Visualisera din produkt i en realistisk miljö" src="assets/VisualizeyourProductinaRealisticEnvironment.jpg" />
    </a>
     <div>
-   <a href="../cce/assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualisera din produkt i en realistisk miljö (PDF)</strong></a>
+   <a href="../cce/assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualisera produkten i en realistisk miljö (PDF)</strong></a>
     </div>
-    <em>När du vill se hur dina produkter kommer att se ut i verkligheten, Adobe [!DNL Dimension] är det självklara programmet</em>
+    <em>När du vill se hur dina produkter kommer att se ut i verkligheten är Adobe [!DNL Dimension] ditt första program</em>
     <br>
   </td>
 </tr>
@@ -76,9 +76,9 @@ Skapa engagerande innehåll i 3D snabbare med högkvalitativa modeller, material
       <img alt="Skapa fotorealistisk virtuell fotografering med 3D-rendering och komposition" src="assets/Photorealistic_TOC.png" />
    </a>
     <div>
-   <a href="photorealistic.md"><strong>Skapa fotorealistisk virtuell fotografering med 3D-rendering och komposition</strong></a>
+   <a href="photorealistic.md"><strong>Skapa fotorealistisk virtuell fotografering med 3D-rendering och -komposition</strong></a>
     </div>
-    <em>Lär dig hur du skapar häpnadsväckande, vilseledande och fotorealistisk virtuell fotografering med 3D-bildkomposition och -rendering i Adobe [!DNL Dimension]</em>
+    <em>Lär dig hur du skapar en häpnadsväckande, vilseledande och fotorealistisk virtuell fotografering med hjälp av komposition och rendering av 3D-bilder i Adobe [!DNL Dimension]</em>
     <br>
   </td>
   <td>
@@ -88,7 +88,7 @@ Skapa engagerande innehåll i 3D snabbare med högkvalitativa modeller, material
     <div>
    <a href="3ddimensionstock.md"><strong>Anpassa och varumärkesanpassa en 3D-modell med [!DNL Dimension] och Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Anpassa och märka en 3D-modell i [!DNL Dimension] använda material, miljöegenskaper, belysning och fotografi för att skapa fotorealistiska bilder för alla designprojekt</em>
+    <em>Anpassa och varumärkesanpassa en 3D-modell i [!DNL Dimension] med hjälp av material, miljöegenskaper, belysning och fotografi för att skapa fotorealistiska bilder för alla designprojekt</em>
     <br>
   </td>
   <td>

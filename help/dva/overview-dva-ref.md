@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '498'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik,
       <div>
       <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf" target="_blank"><strong>Ta snabbt bort oönskat ljudinnehåll med punktlagningspenseln i Adobe Audition (PDF)</strong></a>
       </div>
-      <em>Visste du att du kan ta bort ljud som stör dina ljudfiler i Adobe Photoshop Adobe Audition med punktlagningspenseln?</em>
+      <em>Visste du att du kan ta bort ljud som stör dina ljudfiler i Adobe Audition med punktlagningspenseln i Adobe Photoshop?</em>
       <br>
   </td>
   <td>
@@ -59,7 +59,7 @@ Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik,
     <div>
    <a href="assets/ShowcaseyourSparkVideoinyourSparkPage.pdf" target="_blank"><strong>Visa upp ditt Spark Video i Sparken Page (PDF)</strong></a>
     </div>
-    <em>Med Adobe Spark Page kan du läsa in video från en mängd olika källor, inklusive videoklipp som du skapar med Spark Video!</em>
+    <em>Med Adobe Spark Page kan du läsa in videoklipp från en mängd olika källor, inklusive videoklipp som du skapar med Spark Video!</em>
     <br>
   </td>
   <td>
@@ -91,7 +91,7 @@ Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik,
     <div>
    <a href="assets/AfterEffectsforPhotography.pdf" target="_blank"><strong>After Effects för fotografering (PDF)</strong></a>
     </div>
-    <em>Lär dig använda de fantastiska effekterna i After Effects för att förbättra dina foton</em>
+    <em>Lär dig att använda de fantastiska effekterna i After Effects för att förbättra dina foton</em>
     <br>
   </td>
   <td>
@@ -99,19 +99,19 @@ Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik,
       <img alt="Bildspel: Den fascinerande platsen mellan ett foto och en video" src="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.jpg" />
    </a>
     <div>
-   <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf" target="_blank"><strong>Bildspel: Den fascinerande platsen mellan ett foto och en videofilm (PDF)</strong></a>
+   <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf" target="_blank"><strong>Bildstycken: Den fascinerande platsen mellan ett foto och en videofilm (PDF)</strong></a>
     </div>
     <em>Läs mer om bildramar - de iögonfallande hybrider som finns någonstans mellan ett foto och en video</em>
     <br>
   </td>
   <td>
    <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank">
-      <img alt="Skapa en illustration från en Adobe [!DNL Stock] Fotografera med After Effects" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
+      <img alt="Skapa en illustration från ett Adobe [!DNL Stock]-foto med After Effects" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank"><strong>Skapa en illustration från en Adobe [!DNL Stock] Foto med After Effects (PDF)</strong></a>
+   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank"><strong>Skapa en illustration av ett [!DNL Stock]-foto från Adobe med After Effects (PDF)</strong></a>
     </div>
-    <em>Kombinera nyans/mättnad och nivåer med teckningseffekterna i After Effects för att skapa en unik stiliserad illustration av en Adobe [!DNL Stock] foto</em>
+    <em>Kombinera nyans/mättnad och nivåer med teckningseffekterna i After Effects för att skapa en unik stiliserad illustration av ett [!DNL Stock]-foto från Adobe</em>
     <br>
   </td>
    <td>
@@ -121,7 +121,7 @@ Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik,
     <div>
    <a href="assets/CreateBeautifulKaleidoscopePatternswithAfterEffects.pdf" target="_blank"><strong>Skapa vackra kalejdoskopmönster med After Effects (PDF)</strong></a>
     </div>
-    <em>Skapa oändligt många mönster och texturer från vilken bild som helst med CC Kaleida-effekten i Adobe After Effects</em>
+    <em>Skapa oändligt många mönster och texturer från alla bilder med CC Kaleida-effekten i Adobe After Effects</em>
     <br>
   </td>
 </tr>
@@ -131,9 +131,9 @@ Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik,
       <img alt="Skapa invecklad genomskinlighet i dina foton med hjälp av Keying i After Effects" src="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf" target="_blank"><strong>Skapa invecklad genomskinlighet i dina foton med transparens i After Effects (PDF)</strong></a>
+   <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf" target="_blank"><strong>Skapa invecklad genomskinlighet i dina foton med Keying i After Effects (PDF)</strong></a>
     </div>
-    <em>Keying används ganska mycket för video, det kan också vara en stor hjälp när dina fotografier behövs för designprojekt</em>
+    <em>Transparens används ofta för video och kan vara till stor hjälp när foton behövs för designprojekt</em>
     <br>
   </td>
  <td>
@@ -141,9 +141,9 @@ Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik,
       <img alt="Skapa animerade titlar med hjälp av mallar för rörelsegrafik i Adobe Premiere [!DNL Rush]" src="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf" target="_blank"><strong>Skapa animerade titlar med hjälp av mallar för rörelsegrafik i Adobe Premiere [!DNL Rush] (PDF)</strong></a>
+   <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf" target="_blank"><strong>Skapa animerade titlar med hjälp av rörelsegrafikmallar i Adobe Premiere [!DNL Rush] (PDF)</strong></a>
     </div>
-    <em>Få dina videor att se ännu mer fantastiska ut genom att lägga till professionellt utformade mallar för rörelsegrafik som passar din berättelse eller matchar ditt personliga varumärke</em>
+    <em>Få dina videor att se ännu mer fantastiska ut genom att lägga till professionellt utformade mallar för rörelsegrafik som passar din berättelse eller ditt personliga varumärke</em>
     <br>
   </td>
   <td>
@@ -151,7 +151,7 @@ Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik,
          <img alt="Fantastiska ljuseffekter för fotografering med After Effects" src="assets/DazzlingLightEffectsforPhotographywithAfterEffects.jpg" />
       </a>
       <div>
-      <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf" target="_blank"><strong>Bländande ljuseffekter för fotografering med After Effects (PDF)</strong></a>
+      <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf" target="_blank"><strong>Bländande ljuseffekter vid fotografering med After Effects (PDF)</strong></a>
       </div>
       <em>Ljuseffekter i Adobe After Effects kan dramatiskt förändra utseendet på ditt foto</em>
       <br>
@@ -163,7 +163,7 @@ Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik,
       <div>
       <a href="assets/EditingVRPhotography360photoswithAfterEffects.pdf" target="_blank"><strong>Redigera VR-fotografering (360-gradersfoton) med After Effects (PDF)</strong></a>
       </div>
-      <em>Även om mer uppslukande interaktiva spel och upplevelser inte är lika vanligt är 360-gradersfotografering redan här</em>
+      <em>Även om mer uppslukande interaktiva spel och upplevelser inte är lika vanliga finns 360-gradersfotografering redan här</em>
       <br>
   </td>
 </tr>
@@ -178,9 +178,9 @@ Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik,
          <img alt="Kombinera smidigt musik och dialog eller berättarröst med automatisk dämpning i Adobe Premiere [!DNL Rush]" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
       </a>
       <div>
-      <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf" target="_blank"><strong>Smidig kombination av musik och dialog eller berättarröst med automatisk duckning i [!DNL Adobe Premiere Rush] (PDF)</strong></a>
+      <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf" target="_blank"><strong>Kombinera musik och dialog eller berättarröst smidigt med automatisk dämpning i [!DNL Adobe Premiere Rush] (PDF)</strong></a>
       </div>
-      <em>Adobe Premiere [!DNL Rush] har avancerade videoredigeringsfunktioner i ett lättanvänt program så att alla kan skapa en video med proffskvalitet på några minuter</em>
+      <em>Adobe Premiere [!DNL Rush] har avancerade videoredigeringsfunktioner i en lättanvänd app så att vem som helst kan skapa en video i proffskvalitet på bara några minuter</em>
       <br>
   </td>
   <td>
