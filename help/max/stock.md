@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Stock]"
+title: '[!DNL Stock]'
 description: Adobe [!DNL Stock] for enterprise ger kreatörer tillgång till fler än 200 miljoner bilder, videor, mallar, illustrationer, ljudfiler och 3D-resurser
 feature: Licensable Assets
 role: User
