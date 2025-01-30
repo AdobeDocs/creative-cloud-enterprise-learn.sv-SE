@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14885
 exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Läs om varför det är viktigt att låsa olika element i mallen så att de inte
          <div>
          <a href="create-templates.md"><strong>Maximera effektiviteten: skapa återanvändbara mallar</strong></a>
          </div>
-         <em>Lär dig hur du skapar varumärkeskonsekvens, effektivitet, professionalism och kostnadsbesparingar i din organisation med hjälp av mallar</em>
+         <em>Lär dig använda mallar för att skapa konsekvent varumärke, effektivitet och kostnadsbesparingar i organisationen</em>
          <br>
    </td>
    <td>

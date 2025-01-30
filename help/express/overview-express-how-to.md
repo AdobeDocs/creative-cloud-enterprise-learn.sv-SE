@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
@@ -355,24 +355,44 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
 <table style="table-layout:fixed">
 <tr>
    <td>
-         <a href="lock-layers.md">
+        <a href="lock-layers.md">
             <img alt="Så här låser du lager och varför" src="assets/lock-layers.png" />
-         </a>
-   </td>
-   <td>
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>Så här låser du lager och varför</strong></a>
+            </div>
+            <em>Ta reda på varför det är viktigt att låsa olika element i din mall</em>
+            <br>
+    </td>
+    <td>
          <a href="create-templates.md">
-            <img alt="Skapa en mall" src="assets/create-template.png" />
+            <img alt="Maximera effektiviteten: skapa återanvändbara mallar" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>Maximera effektiviteten: skapa återanvändbara mallar</strong></a>
+         </div>
+         <em>Lär dig använda mallar för att skapa konsekvent varumärke, effektivitet och kostnadsbesparingar i organisationen</em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="Spara och dela mallar" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>Spara och dela mallar</strong></a>
+         </div>
+         <em>Lär dig spara och dela mallar i ett varumärkespaket eller bibliotek för ditt team</em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="Använda mallar" src="assets/use-templates.png" />
+            <img alt="Enkel varumärkeskonsekvens med mallar" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>Enkel varumärkeskonsekvens med mallar</strong></a>
+         </div>
+         <em>Lär dig skapa varumärkesanpassat innehåll snabbt och effektivt i hela organisationen</em>
+         <br>
    </td>
 </tr>
 </table>

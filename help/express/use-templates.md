@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14887
 exl-id: 00b8d83a-630f-48a1-a87f-c6f43ad5f992
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Lär dig skapa varumärkesanpassat innehåll snabbt och effektivt i hela organis
          <div>
          <a href="create-templates.md"><strong>Maximera effektiviteten: skapa återanvändbara mallar</strong></a>
          </div>
-         <em>Lär dig hur du skapar varumärkeskonsekvens, effektivitet, professionalism och kostnadsbesparingar i din organisation med hjälp av mallar</em>
+         <em>Lär dig använda mallar för att skapa konsekvent varumärke, effektivitet och kostnadsbesparingar i organisationen</em>
          <br>
    </td>
    <td>
