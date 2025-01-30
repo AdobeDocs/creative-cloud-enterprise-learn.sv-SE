@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14885
 exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -25,18 +25,33 @@ Läs om varför det är viktigt att låsa olika element i mallen så att de inte
 <tr>
    <td>
          <a href="create-templates.md">
-            <img alt="Skapa en mall" src="assets/create-template.png" />
+            <img alt="Maximera effektiviteten: skapa återanvändbara mallar" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>Maximera effektiviteten: skapa återanvändbara mallar</strong></a>
+         </div>
+         <em>Lär dig hur du skapar varumärkeskonsekvens, effektivitet, professionalism och kostnadsbesparingar i din organisation med hjälp av mallar</em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="Spara och dela mallar" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>Spara och dela mallar</strong></a>
+         </div>
+         <em>Lär dig spara och dela mallar i ett varumärkespaket eller bibliotek för ditt team</em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="Använda mallar" src="assets/use-templates.png" />
+            <img alt="Enkel varumärkeskonsekvens med mallar" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>Enkel varumärkeskonsekvens med mallar</strong></a>
+         </div>
+         <em>Lär dig skapa varumärkesanpassat innehåll snabbt och effektivt i hela organisationen</em>
+         <br>
    </td>
    <td>
       <img alt="Avgränsare" src="../assets/Whitespacer.png" />
