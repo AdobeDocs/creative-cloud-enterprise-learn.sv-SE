@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: a6239fe87239003e2730d402d8ae1c2cda52bd87
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '806'
 ht-degree: 4%
 
 ---
@@ -87,7 +87,7 @@ ht-degree: 4%
       + [Lägga till ljud](express/add-audio-video.md)
       + [Exportera video](express/export-video.md)
       + [Så här låser du lager och varför](express/lock-layers.md)
-      + [Skapa en mall](express/create-templates.md)
+      + [Maximera effektiviteten: Skapa en återanvändbar mall](express/create-templates.md)
       + [Spara och dela mallar](express/share-templates.md)
       + [Använda mallar](express/use-templates.md)
    + Självstudiekurser om användningsfall {#expressusecase}

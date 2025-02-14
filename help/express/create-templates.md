@@ -1,19 +1,19 @@
 ---
-title: Maximera effektiviteten - skapa återanvändbara mallar
+title: Maximera effektiviteten - Skapa en återanvändbar mall
 description: Lär dig hur du kan ge ditt företag enhetliga varumärken, effektivitet, professionalism och kostnadsbesparingar med hjälp av Adobe Expresser
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-13410
 exl-id: f044b41b-e7f8-4c0a-86fe-83b82a332334
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# Maximera effektiviteten: skapa återanvändbara mallar
+# Maximera effektiviteten: Skapa en återanvändbar mall
 
 Lär dig hur du kan ge ditt företag enhetliga varumärken, effektivitet, professionalism och kostnadsbesparingar med hjälp av organisationsmallar för Adobe Express. I den här självstudiekursen går vi igenom hur du skapar ett återanvändbart innehåll från vilket innehåll som helst - oavsett om det är en Photoshop-, Illustrator-, InDesign- eller till och med en PowerPoint-fil.
 

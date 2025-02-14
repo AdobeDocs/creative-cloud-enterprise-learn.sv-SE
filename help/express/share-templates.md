@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14886
 exl-id: 7fd2e120-a797-466a-ab5e-1f6dfd8223a1
-source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,10 @@ Lär dig spara och dela mallar i ett varumärkespaket eller bibliotek för teame
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Maximera effektiviteten: skapa återanvändbara mallar" src="assets/create-template.png" />
+            <img alt="Maximera effektiviteten: Skapa en återanvändbar mall" src="assets/create-template.png" />
          </a>
          <div>
-         <a href="create-templates.md"><strong>Maximera effektiviteten: skapa återanvändbara mallar</strong></a>
+         <a href="create-templates.md"><strong>Maximera effektiviteten: Skapa en återanvändbar mall</strong></a>
          </div>
          <em>Lär dig använda mallar för att skapa konsekvent varumärke, effektivitet och kostnadsbesparingar i organisationen</em>
          <br>
