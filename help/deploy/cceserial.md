@@ -44,7 +44,7 @@ Både Acrobat- och Creative Cloud for enterprise-programmen börjar visa meddela
 
 Följande information beskriver slutanvändarupplevelsen. Det finns en kort video nedan följt av en genomgång av slutanvändarupplevelsen.
 
->[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441279?hidetitle=true&captions=swe)
 
 **Före förfallodatum**
 

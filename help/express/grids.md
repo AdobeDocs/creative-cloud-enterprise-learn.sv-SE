@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Läs om hur du använder stödraster till att skapa fotokollage, moodboards och iögonfallande affischer. Du kan anpassa 40 olika rutnätslayouter med egna bilder eller Adobe Stock-foton.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426934?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439996?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

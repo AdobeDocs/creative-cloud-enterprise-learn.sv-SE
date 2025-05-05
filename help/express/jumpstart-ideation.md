@@ -19,4 +19,4 @@ Lär dig hur du får ett försprång med att utveckla kreativt innehåll till en
 
 I den här självstudiekursen används den nya [Adobe Expressen](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446164?quality=12&learn=on&hidetitle=true&captions=swe)

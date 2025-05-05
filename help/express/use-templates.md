@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig skapa varumärkesanpassat innehåll snabbt och effektivt i hela organisationen. Den här självstudiekursen visar hur du skapar nytt varumärkesanpassat innehåll som omedelbart kan delas och lokaliseras.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436128?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

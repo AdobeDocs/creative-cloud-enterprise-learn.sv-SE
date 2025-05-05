@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Lär dig hur du snabbt skapar ett nyhetsbrev genom att söka efter professionellt utformade mallar med nyckelord. När du har ändrat logotypen och textkopian kan du bjuda in kollegor att samarbeta och lägga till sitt eget innehåll.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427120?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439207?quality=12&learn=on&hidetitle=true&captions=swe)

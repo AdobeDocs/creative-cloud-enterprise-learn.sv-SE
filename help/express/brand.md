@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig skapa en samling varumärkesmediefiler för att skapa konsekventa och professionella designer för företag eller personliga projekt. Ett varumärkespaket är en samling varumärkesresurser som logotyper, färger, teckensnitt, grafik och mallar. De kan skapas från början eller från ett befintligt bibliotek och delas med kolleger som kan ha redigerings- eller visningsbehörighet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420218?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449369?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

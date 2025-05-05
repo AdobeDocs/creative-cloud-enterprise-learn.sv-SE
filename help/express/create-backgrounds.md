@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar engagerande bakgrunder för PowerPoint-presentationer. Med hjälp av text-till-bild-teknik från Adobe Firefly kan du skapa en anpassad bild för presentationen och sedan göra ytterligare ändringar i bilden, använda effekter och hämta den för användning i presentationen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427117?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433979?quality=12&learn=on&hidetitle=true&captions=swe)

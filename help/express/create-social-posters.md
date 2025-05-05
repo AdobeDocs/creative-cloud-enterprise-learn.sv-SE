@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Läs om hur du med hjälp av Adobe Firefly-teknik använder text till bild i Adobe Express för att skapa en marknadsföringskampanj för sociala medier. I den här självstudiekursen används den nya [Adobe Expressen](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3420533?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430567?quality=12&learn=on&hidetitle=true&captions=swe)

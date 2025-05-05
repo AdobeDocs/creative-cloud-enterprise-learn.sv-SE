@@ -19,4 +19,4 @@ Lär dig skapa unik och inspirerande text till dina projekt med enkla textförsl
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420829?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3432213?quality=12&learn=on&hidetitle=true&captions=swe)

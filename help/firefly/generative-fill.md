@@ -19,4 +19,4 @@ Lär dig använda Generativ fyllning med teknik från Adobe Firefly i Adobe Phot
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420537?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448538?quality=12&learn=on&hidetitle=true&captions=swe)

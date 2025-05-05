@@ -19,4 +19,4 @@ Lär dig visualisera idéer snabbt och utforska koncept för företagskampanjer.
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3428827?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452518?quality=12&learn=on&hidetitle=true&captions=swe)

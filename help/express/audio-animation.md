@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig skapa engagerande och minnesvärda projekt genom att lägga till ljud, inklusive royaltyfria ljudfiler som är tillgängliga med Express.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426983?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433913?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

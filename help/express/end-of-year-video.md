@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar en inspirerande årsslutsvideo som sammanfattar allt som har hänt det senaste året, delar milstolpar med kunderna och återupplever roliga teamevenemang. I den här självstudiekursen lägger du till en bakgrund, textanimering och filmmaterial i en video. Användningen av övergångar gör videon mjukare och den sista bilden ger en fin finish. Du kan också hämta den slutliga videon och använda bildtexter för bättre tillgänglighet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427121?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3434001?quality=12&learn=on&hidetitle=true&captions=swe)

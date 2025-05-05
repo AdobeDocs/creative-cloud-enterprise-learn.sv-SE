@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig komma åt versionshistorik och visa och kopiera tidigare versioner av dina projekt. Markera nyckelpunkter i utvecklingen för att enkelt gå tillbaka till specifika tider i projektets förlopp.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426937?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438701?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

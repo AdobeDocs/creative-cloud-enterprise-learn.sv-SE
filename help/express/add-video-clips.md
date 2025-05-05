@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig skapa enastående videor snabbt och enkelt genom att dra och släppa. Börja med mallar eller egen statisk design och lägg till ditt varumärke, dina designresurser, Adobe Stock-videor och din musik med mera.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427071?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436423?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

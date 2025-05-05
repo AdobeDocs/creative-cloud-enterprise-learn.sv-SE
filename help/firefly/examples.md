@@ -19,4 +19,4 @@ Lär dig använda Firefly för att skapa inspirerande PowerPoint-presentationer,
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427611?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437060?quality=12&learn=on&hidetitle=true&captions=swe)

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig hur du genererar redigerbara mallar för sociala inlägg, affischer, flygblad och kort från en textbeskrivning på några sekunder. Du kan redigera designen, ändra teckensnitt och varumärka projektet ytterligare innan du hämtar eller delar det.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427022?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438122?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

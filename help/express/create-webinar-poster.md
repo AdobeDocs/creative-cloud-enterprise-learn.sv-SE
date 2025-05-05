@@ -16,4 +16,4 @@ ht-degree: 1%
 
 Lär dig hur du använder text till bild med hjälp av teknik från Adobe Firefly i Adobe Express för att skapa en webbseminarieaffisch för ett VR-evenemang. I den här självstudiekursen används den nya [Adobe Expressen](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3420810?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446867?quality=12&learn=on&hidetitle=true&captions=swe)

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig hur du lägger till animering i ett inlägg på sociala medier för att öka engagemanget. Du kommer åt animeringspanelen genom att markera element på sidan, till exempel en bild, och använda olika typer av animeringar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426975?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436589?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

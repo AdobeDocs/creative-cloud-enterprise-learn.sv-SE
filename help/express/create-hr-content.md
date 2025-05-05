@@ -15,4 +15,4 @@ ht-degree: 1%
 
 Lär dig skapa flerkanaligt HR-innehåll som är konsekvent med din organisations varumärke snabbt. Genom att leverera innehåll i flera kanaler snabbt kan du nå ut till fler anställda med din kommunikation, vilket hjälper dem att hålla sig informerade om de senaste nyheterna. I den här självstudiekursen används den nya [Adobe Expressen](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3434597?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3434601?quality=12&learn=on&hidetitle=true&captions=swe)

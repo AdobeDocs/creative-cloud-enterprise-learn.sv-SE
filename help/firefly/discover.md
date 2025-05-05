@@ -19,4 +19,4 @@ Upptäck Adobe Firefly [kreativitetens framtid](https://www.adobe.com/products/f
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427606?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436982?quality=12&learn=on&hidetitle=true&captions=swe)

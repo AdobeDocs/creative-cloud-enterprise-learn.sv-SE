@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Gör animeringen bättre genom att lägga till element som bilder och rubriker i en animering. Lär dig hur du lägger till, duplicerar, ordnar om eller byter ut element i en scen samtidigt som animeringarna förblir intakta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426982?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433924?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

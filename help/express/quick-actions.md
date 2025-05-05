@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Snabbåtgärder sparar tid och ger grundläggande redigeringsverktyg för dagligt kreativt arbete. Exempel på snabbåtgärder är att slå samman och trimma videor, ta bort bakgrunder, ändra storlek på bilder och videor, konvertera videor till GIF-filer och redigera PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446302?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

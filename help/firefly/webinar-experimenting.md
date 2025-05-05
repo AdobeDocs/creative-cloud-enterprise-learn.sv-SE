@@ -19,4 +19,4 @@ Följ med Howard Pinsky på detta webbinarium när han dyker ner i Firefly.
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420252?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3455538?quality=12&learn=on&hidetitle=true&captions=swe)

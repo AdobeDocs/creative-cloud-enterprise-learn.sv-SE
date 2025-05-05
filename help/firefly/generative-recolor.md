@@ -19,4 +19,4 @@ Läs om hur du använder generativ omfärgning med teknik från Adobe Firefly i 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420872?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3442071?quality=12&learn=on&hidetitle=true&captions=swe)

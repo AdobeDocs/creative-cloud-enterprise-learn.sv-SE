@@ -19,4 +19,4 @@ Lär dig skapa innehåll snabbare med hjälp av generativa AI-baserade verktyg i
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3425036?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446241?quality=12&learn=on&hidetitle=true&captions=swe)

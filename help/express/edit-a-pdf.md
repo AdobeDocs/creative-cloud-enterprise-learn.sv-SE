@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Lär dig hur du ger din statiska, föråldrade PDF en makeover genom att lägga till iögonfallande text, bilder, varumärken, färger, animeringar och mer. När redigeringen är klar kan du hämta PDF, dela eller konvertera PDF till andra filformat som JPEG.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427024?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437902?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

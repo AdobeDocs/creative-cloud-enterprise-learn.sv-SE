@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig samarbeta med kollegor i kreativa projekt, däribland att bjuda in dem, ge dem behörighet, lösa kommentarer och arbeta med projektet samtidigt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420253?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439541?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

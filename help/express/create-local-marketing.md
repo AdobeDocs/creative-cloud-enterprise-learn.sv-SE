@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Lär dig hur du använder text till bild med hjälp av Adobe Firefly i Adobe Expressen för att skapa lokaliserat innehåll från en global marknadsföringskampanj på hotell. I den här självstudiekursen används den nya [Adobe Expressen](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3422426?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443588?quality=12&learn=on&hidetitle=true&captions=swe)

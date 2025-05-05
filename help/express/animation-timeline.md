@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Läs om hur du navigerar på och justerar tidslinjen för animering. Tidslinjen är en övergripande vy över hela animeringen, där du kan förhandsvisa och minska/öka animeringslängden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426978?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437605?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

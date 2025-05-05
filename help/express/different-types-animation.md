@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Läs mer om de tre olika typerna av animeringar (introduktion, slinga och sista) som du kan lägga till i dina projekt för att göra dem mer engagerande. Varje animering har ett eget format som du kan förhandsgranska och välja.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426976?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433946?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

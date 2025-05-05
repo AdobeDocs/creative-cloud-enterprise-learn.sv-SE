@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig skapa engagerande och minnesvärda projekt genom att lägga till ljud. Du kan överföra egna ljudfiler eller välja bland royaltyfria ljud. Du kan också spela in röstpålägg och justera volymen för både ljud och röstpålägg.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427092?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436847?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

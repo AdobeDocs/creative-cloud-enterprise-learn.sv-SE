@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig hur du skapar ett helt nytt projekt från början med en specifik arbetsytestorlek, till exempel ett fyrkantigt inlägg i Instagram.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441419?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

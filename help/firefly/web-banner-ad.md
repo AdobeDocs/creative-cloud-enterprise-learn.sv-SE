@@ -19,4 +19,4 @@ Läs om hur du använder generativ fyllning med teknik från Adobe Firefly i Ado
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420791?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444538?quality=12&learn=on&hidetitle=true&captions=swe)

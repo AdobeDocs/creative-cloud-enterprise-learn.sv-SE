@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Läs om hur du bjuder in personer att redigera, publicera på webben, schemalägger ett inlägg i sociala medier eller hämtar animeringen. Adobe Expressen ger rekommendationer för vilket filformat du kan exportera till baserat på din situation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426985?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433957?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig hur du ställer in din videoupplösning, hämtar och delar videon direkt till sociala kanaler.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427093?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436019?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

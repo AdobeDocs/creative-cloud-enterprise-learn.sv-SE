@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig hur du optimerar storleken på en animering med hjälp av de inbyggda förinställningarna för inlägg på sociala medier som Instagram. Oavsett hur du ändrar storlek på animeringarna bevaras inställningarna så att du inte behöver återskapa dem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437726?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

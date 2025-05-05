@@ -19,4 +19,4 @@ Lär dig vad du kan skapa med Adobe Firefly. Ta reda på hur du kan skapa inneh�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420929?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3432465?quality=12&learn=on&hidetitle=true&captions=swe)

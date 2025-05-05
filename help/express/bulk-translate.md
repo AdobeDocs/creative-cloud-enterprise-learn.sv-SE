@@ -21,7 +21,7 @@ Lär dig skapa språkvariationer av dina projekt genom att automatiskt översät
 >
 >Det är viktigt att kontrollera att översättningarna är korrekta innan du delar eller hämtar dem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438272?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

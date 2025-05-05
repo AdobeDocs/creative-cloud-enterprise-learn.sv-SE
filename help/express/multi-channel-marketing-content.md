@@ -19,4 +19,4 @@ Lär dig hur team för evenemangsmarknadsföring kan skapa unikt innehåll som l
 
 I den här självstudiekursen används den nya [Adobe Expressen](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424446?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444983?quality=12&learn=on&hidetitle=true&captions=swe)

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Lär dig skapa en engagerande bild för en onlinekurs. Börja med att remixa en av de tusentals professionellt utformade mallarna. Lägg sedan till ett foto och använd redigeringstekniker för att blanda det i kompositionen innan du ändrar storlek på och levererar den slutliga bilden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427122?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433935?quality=12&learn=on&hidetitle=true&captions=swe)

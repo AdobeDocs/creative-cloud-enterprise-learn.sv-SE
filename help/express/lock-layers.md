@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Läs om varför det är viktigt att låsa olika element i mallen så att de inte kan ändras. Vissa element, t.ex. logotyper, bör inte ändras, så de kan låsas innan du delar en mall.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427095?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437070?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

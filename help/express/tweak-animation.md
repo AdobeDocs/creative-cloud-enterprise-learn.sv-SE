@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig hur du justerar inställningarna för animeringar för att förbättra effektiviteten. Du kan redigera animeringens varaktighet, personlighet, hastighet och intensitet för att skapa en specifik effekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426977?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438525?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

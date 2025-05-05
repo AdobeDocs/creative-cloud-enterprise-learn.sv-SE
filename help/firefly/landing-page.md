@@ -19,4 +19,4 @@ Läs om hur du börjar använda Adobe Firefly på [firefly.adobe.com](https://fi
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427607?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437814?quality=12&learn=on&hidetitle=true&captions=swe)

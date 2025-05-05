@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig använda Adobe Firefly för att lägga till och ta bort element från en bild.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427020?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437836?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

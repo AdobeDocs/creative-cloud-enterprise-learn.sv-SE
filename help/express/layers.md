@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig arbeta med ritytor och lager i ett designprojekt. Lägg till, ta bort, duplicera, ordna om och ändra storlek på ritytor för olika sociala kanaler. Du kan också ändra ordningen på elementen i lagerstapeln.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420214?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447069?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

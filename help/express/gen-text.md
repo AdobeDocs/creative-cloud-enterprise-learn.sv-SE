@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig skapa effektfull design med texteffekter från Adobe Firefly. Med en textprompt kan du generera extraordinära texteffekter som du kan förfina och förbättra.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427021?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438816?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

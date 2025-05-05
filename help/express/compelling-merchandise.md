@@ -19,4 +19,4 @@ Lär dig hur ett handelsteam enkelt kan skapa övertygande bilder för en ny upp
 
 I den här självstudiekursen används den nya [Adobe Expressen](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424458?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447135?quality=12&learn=on&hidetitle=true&captions=swe)

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig hur du kan ge ditt företag enhetliga varumärken, effektivitet, professionalism och kostnadsbesparingar med hjälp av organisationsmallar för Adobe Express. I den här självstudiekursen går vi igenom hur du skapar ett återanvändbart innehåll från vilket innehåll som helst - oavsett om det är en Photoshop-, Illustrator-, InDesign- eller till och med en PowerPoint-fil.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420208?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433968?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Fler videor i den här serien
 

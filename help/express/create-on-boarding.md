@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Lär dig hur du använder text till bild med hjälp av teknik från Adobe Firefly i Adobe Express för att skapa unik grafik för medarbetarrekrytering och introduktionsinnehåll. I det här exemplet används mallar så att alla i företaget skapar innehåll som är helt i enlighet med varumärket. I den här självstudiekursen används den nya [Adobe Expressen](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3422411?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444264?quality=12&learn=on&hidetitle=true&captions=swe)
