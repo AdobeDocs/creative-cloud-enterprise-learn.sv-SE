@@ -62,6 +62,6 @@ Todd Burke, Principal Solutions Consultant (Digital Media)
 
 **Resurser för företagsadministration:**
 
-[Användarhandbok för Adobe Fonts](https://helpx.adobe.com/fonts/user-guide.html)
+[Användarhandbok för Adobe Fonts](https://helpx.adobe.com/se/fonts/user-guide.html)
 
-[Handbok för företagsadministratörer](https://helpx.adobe.com/enterprise/admin-guide.html)
+[Handbok för företagsadministratörer](https://helpx.adobe.com/se/enterprise/admin-guide.html)

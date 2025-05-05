@@ -34,7 +34,7 @@ Serienummerlicenserna som är kopplade till ditt ETLA-avtal är tillgängliga vi
 
 ### Kontrollera förfallodatum
 
-[AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) är ett kommandotolksverktyg som IT-administratörer kan använda för att kontrollera om Adobe-produkter på en dator har serienummer som har löpt ut eller snart löper ut. Verktyget visar information som produktlicensidentifierare (LEID), det krypterade serienumret och utgångsdatumet. Den här [sidan](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) innehåller instruktioner om hur du hämtar och använder verktyget på Mac- eller Windows-datorer.
+[AdobeExpiryCheck](https://helpx.adobe.com/se/enterprise/kb/volume-license-expiration-check.html) är ett kommandotolksverktyg som IT-administratörer kan använda för att kontrollera om Adobe-produkter på en dator har serienummer som har löpt ut eller snart löper ut. Verktyget visar information som produktlicensidentifierare (LEID), det krypterade serienumret och utgångsdatumet. Den här [sidan](https://helpx.adobe.com/se/enterprise/kb/volume-license-expiration-check.html) innehåller instruktioner om hur du hämtar och använder verktyget på Mac- eller Windows-datorer.
 
 ## Att förstå slutanvändarens upplevelse före och efter att serienumret har upphört att gälla
 
@@ -91,7 +91,7 @@ Vid alla efterföljande försök att starta Acrobat uppmanas slutanvändaren att
 
 ## Kontakta oss om du behöver hjälp
 
-Om du har frågor om hur du använder verktyget [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) eller behöver hjälp med att migrera från serienummerdistribution till namngiven användare, har du några alternativ:
+Om du har frågor om hur du använder verktyget [AdobeExpiryCheck](https://helpx.adobe.com/se/enterprise/kb/volume-license-expiration-check.html) eller behöver hjälp med att migrera från serienummerdistribution till namngiven användare, har du några alternativ:
 * Skicka ett e-postmeddelande till Adobe Enterprise-introduktionsteamet - **entonb@adobe.com**
 * Öppna ett supportärende i [Admin Console](https://adminconsole.adobe.com/support)
 * Kontakta ditt Adobe-kontoteam

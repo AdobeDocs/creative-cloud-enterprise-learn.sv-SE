@@ -62,7 +62,7 @@ Emily Palmer, lösningskonsult (digitala medier)
 
 **[!DNL Capture]resurser**
 
-[Lär dig mer och support](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) är navet för ytterligare självstudiekurser och länkar till användarforum.
+[Lär dig mer och support](https://helpx.adobe.com/se/mobile-apps/help/capture-faq.html) är navet för ytterligare självstudiekurser och länkar till användarforum.
 
 **Oktober 2020-utgåvan**
 

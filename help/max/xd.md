@@ -214,7 +214,7 @@ Victoria Torres, lösningskonsult (digitala medier)
 
 **XD-resurser**
 
-[Utbildning och support](https://helpx.adobe.com/support/xd.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) och länkar till communityforum.
+[Utbildning och support](https://helpx.adobe.com/se/support/xd.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) och länkar till communityforum.
 
 **Oktober 2020-utgåvan**
 

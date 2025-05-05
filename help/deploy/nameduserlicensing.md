@@ -22,7 +22,7 @@ Om ditt företag inte är NUL och fortfarande använder serialiserad distributio
 
 ## Om Namngiven användare-licensiering
 
-[Namngiven användare-licensiering](https://helpx.adobe.com/enterprise/using/licensing.html) är en modell för programvarulicensiering som gör att programvara kan tilldelas en person i stället för ett serienummer eller en enhet. NUL ger IT-administratörer säkerhet på företagsnivå med avancerad hantering av användaridentiteter och möjliggör enkel driftsättning och hantering av program med Adobe Admin Console.
+[Namngiven användare-licensiering](https://helpx.adobe.com/se/enterprise/using/licensing.html) är en modell för programvarulicensiering som gör att programvara kan tilldelas en person i stället för ett serienummer eller en enhet. NUL ger IT-administratörer säkerhet på företagsnivå med avancerad hantering av användaridentiteter och möjliggör enkel driftsättning och hantering av program med Adobe Admin Console.
 
 ## Fördelar med namngiven användare-licensiering:
 

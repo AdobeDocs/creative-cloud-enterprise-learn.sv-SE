@@ -80,7 +80,7 @@ Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 **CC Libraries-resurser**
 
-[Utbildning och support](https://helpx.adobe.com/creative-cloud/help/libraries.html) är navet för ytterligare självstudiekurser, nyheter och länkar till communityforum.
+[Utbildning och support](https://helpx.adobe.com/se/creative-cloud/help/libraries.html) är navet för ytterligare självstudiekurser, nyheter och länkar till communityforum.
 
 **Oktober 2020-utgåvan**
 

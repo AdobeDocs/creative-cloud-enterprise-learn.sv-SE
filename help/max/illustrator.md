@@ -78,7 +78,7 @@ Patti Sokol, huvudsaklig lösningskonsult (digitala medier)
 
 **Illustrator-resurser**
 
-[Lär dig mer och support](https://helpx.adobe.com/support/illustrator.html) är navet för ytterligare självstudiekurser och länkar till användarforum.
+[Lär dig mer och support](https://helpx.adobe.com/se/support/illustrator.html) är navet för ytterligare självstudiekurser och länkar till användarforum.
 
 **Oktober 2020-utgåvan**
 

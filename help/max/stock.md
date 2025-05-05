@@ -84,7 +84,7 @@ Emily Palmer, lösningskonsult (digitala medier)
 
 **Resurser för Adobe [!DNL Stock]**
 
-[Lär dig mer och support](https://helpx.adobe.com/support/stock.html) är navet för ytterligare självstudiekurser och länkar till användarforum.
+[Lär dig mer och support](https://helpx.adobe.com/se/support/stock.html) är navet för ytterligare självstudiekurser och länkar till användarforum.
 
 **Oktober 2020-utgåvan**
 

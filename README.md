@@ -15,13 +15,13 @@ Detta projekt har antagit [Adobe Open Source Code of Analytics](code-of-conduct.
 
 ## Om dina bidrag till Adobe-innehåll
 
-Se [Bidragsgivarguiden för Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Se [Bidragsgivarguiden för Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=sv-SE).
 
 Hur du bidrar beror på vem du är och vilka typer av ändringar du vill bidra med:
 
 ### Mindre ändringar
 
-Om du bidrar med mindre uppdateringar för att du vill kan du gå till artikeln och klicka på **Redigera** i artikeln som går till artikelns GitHub-källa. Använd sedan GitHub-gränssnittet för att göra dina uppdateringar. Se den allmänna [Bidragsgivarguide för Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) för mer information.
+Om du bidrar med mindre uppdateringar för att du vill kan du gå till artikeln och klicka på **Redigera** i artikeln som går till artikelns GitHub-källa. Använd sedan GitHub-gränssnittet för att göra dina uppdateringar. Se den allmänna [Bidragsgivarguide för Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=sv-SE) för mer information.
 
 Mindre korrigeringar eller förtydliganden som du skickar in för dokumentation och kodexempel i den här rapporten omfattas av användningsvillkoren för Adobe.
 
@@ -43,7 +43,7 @@ Om du är teknikskribent, programchef eller utvecklare för en Adobe Experience 
 
 Deltagare i communityn kan använda GitHub-gränssnittet för grundläggande redigering eller förgrena rapporten för att göra större bidrag.
 
-Se [Bidragsgivarguiden för Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) för mer information.
+Se [Bidragsgivarguiden för Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=sv-SE) för mer information.
 
 ## Så här använder du markdown för att formatera ditt ämne
 

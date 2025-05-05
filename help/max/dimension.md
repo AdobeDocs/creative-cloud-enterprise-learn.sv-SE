@@ -60,7 +60,7 @@ Jim Babbage, Senior Solutions Consultant (Digital Media)
 
 **Resurser för Dimension**
 
-[Utbildning och support](https://helpx.adobe.com/support/dimension.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html) och länkar till communityforum.
+[Utbildning och support](https://helpx.adobe.com/se/support/dimension.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/se/dimension/user-guide.html/dimension/using/whats-new.ug.html) och länkar till communityforum.
 
 **Oktober 2020-utgåvan**
 

@@ -63,7 +63,7 @@ Dan Armstrong, lösningskonsult (digitala medier)
 
 **Photoshop på iPad-resurser**
 
-[Lär dig mer och support](https://helpx.adobe.com/support/photoshop.html) är navet för ytterligare självstudiekurser och länkar till användarforum.
+[Lär dig mer och support](https://helpx.adobe.com/se/support/photoshop.html) är navet för ytterligare självstudiekurser och länkar till användarforum.
 
 **Oktober 2020-utgåvan**
 

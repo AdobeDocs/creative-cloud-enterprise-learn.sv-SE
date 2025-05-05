@@ -117,7 +117,7 @@ ERIC ROWSE, KONSULT FÖR SENIORA LÖSNINGAR (DIGITALA MEDIA)
 
 **Asset Link och AEM-resurser**
 
-[Utbildning och support](https://helpx.adobe.com/support/experience-manager.html) är navet för ytterligare självstudiekurser, nyheter och länkar till communityforum.
+[Utbildning och support](https://helpx.adobe.com/se/support/experience-manager.html) är navet för ytterligare självstudiekurser, nyheter och länkar till communityforum.
 
 **Oktober 2020-utgåvan**
 

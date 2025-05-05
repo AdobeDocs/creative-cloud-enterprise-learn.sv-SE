@@ -148,7 +148,7 @@ Patti Sokol, huvudsaklig lösningskonsult (digitala medier)
 
 **Resurser för InDesign**
 
-[Utbildning och support](https://helpx.adobe.com/support/indesign.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html) och länkar till communityforum.
+[Utbildning och support](https://helpx.adobe.com/se/support/indesign.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/se/indesign/user-guide.html/indesign/using/whats-new.ug.html) och länkar till communityforum.
 
 **Oktober 2020-utgåvan**
 

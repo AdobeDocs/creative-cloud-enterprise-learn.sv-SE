@@ -163,7 +163,7 @@ Emilie Enke, Associate Solutions Consultant (Digital Media)
 
 **Resurser för Acrobat och Adobe Sign**
 
-[Utbildning och support](https://helpx.adobe.com/support/document-cloud.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/acrobat/using/whats-new.html) och länkar till communityforum.
+[Utbildning och support](https://helpx.adobe.com/se/support/document-cloud.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/se/acrobat/using/whats-new.html) och länkar till communityforum.
 
 **Oktober 2020-utgåvan**
 

@@ -63,7 +63,7 @@ Dave Weinberg, Senior Solutions Consultant (Digital Media)
 
 **Illustrator på iPad-resurser**
 
-[Utbildning och support](https://helpx.adobe.com/support/illustrator.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html) och länkar till communityforum.
+[Utbildning och support](https://helpx.adobe.com/se/support/illustrator.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/se/illustrator/using/whats-new/mobile-2021.html) och länkar till communityforum.
 
 **Oktober 2020-utgåvan**
 

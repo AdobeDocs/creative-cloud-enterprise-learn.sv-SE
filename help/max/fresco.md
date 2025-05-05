@@ -83,7 +83,7 @@ Liz Tanonis, lösningskonsult (digitala medier)
 
 **Resurser för Fresco**
 
-[Utbildning och support](https://helpx.adobe.com/support/adobe-fresco.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/fresco/using/whats-new.html) och länkar till communityforum.
+[Utbildning och support](https://helpx.adobe.com/se/support/adobe-fresco.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/se/fresco/using/whats-new.html) och länkar till communityforum.
 
 **Oktober 2020-utgåvan**
 

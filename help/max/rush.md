@@ -64,7 +64,7 @@ A.J. Wood, lösningskonsult (digitala medier)
 
 **[!DNL Rush]resurser**
 
-[Utbildning och support](https://helpx.adobe.com/support/premiere-rush.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html) och länkar till communityforum.
+[Utbildning och support](https://helpx.adobe.com/se/support/premiere-rush.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/se/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html) och länkar till communityforum.
 
 **Oktober 2020-utgåvan**
 
