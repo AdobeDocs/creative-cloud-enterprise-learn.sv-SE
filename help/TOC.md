@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
+source-git-commit: 8ecd2f40db3e601c0a57df1812293ca869e815ea
 workflow-type: tm+mt
-source-wordcount: '806'
-ht-degree: 4%
+source-wordcount: '813'
+ht-degree: 5%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 4%
 # Creative Cloud för företag Tutorials {#cce-learning-hub}
 
 + [Översikt](overview.md)
-+ Creative Cloud för företag {#cceoverview}
++ Creative Cloud for enterprise {#cceoverview}
    + [Översikt](cce/overview-cce.md)
-   + Tutorials {#ccetutorials}
+   + Självstudiekurser {#ccetutorials}
       + [Acrobat för innehållsskapare](cce/acrobat-content-creators.md)
       + [Förbättra arbetsflöden för CC med CC Libraries](cce/cc-workflows-cc-libraries.md)
       + [Tämja typångest](cce/taming-type-anxiety.md)
@@ -110,9 +110,10 @@ ht-degree: 4%
       + [Skapa affischer till webbseminarier med Firefly](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Översikt](firefly/overview-firefly.md)
-   + Tutorials {#firefly-tutorials}
+   + Självstudiekurser {#firefly-tutorials}
       + [Översikt över  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
       + [Upptäck  [!DNL Adobe Firefly]](firefly/discover.md)
+      + [Ta bort och ersätt bakgrunden med kreativ produktion](firefly/creative-production/background.md)
       + [Snabba upp kreativiteten](firefly/accelerate-ideas.md)
       + [Skapa återanvändbara scener för varor](firefly/reusable-scenes.md)
       + [Skapa en anpassad modell med ett ämne](firefly/custom-model-subject.md)
@@ -127,11 +128,11 @@ ht-degree: 4%
       + [Varianter av banderollannons i  [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [Generativ fyllning i  [!DNL Photoshop]](firefly/generative-fill.md)
       + [Generativ omfärgning i  [!DNL Illustrator]](firefly/generative-recolor.md)
-   + Webbseminarium {#firefly-webinars}
+   + Webbseminarier {#firefly-webinars}
       + [Experimentera med Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Översikt](stock/overview-stock.md)
-   + Tutorials {#stocktutorials}
+   + Självstudiekurser {#stocktutorials}
       + [Fantastiska digitala resurser](stock/stunning-digital-assets.md)
       + [Sök i Adobe [!DNL Stock] licenshistorik](stock/searchstock.md)
       + [Gör Adobe [!DNL Stock] bilder mer estetiska med handritade foton](stock/handdrawn.md)
@@ -158,31 +159,31 @@ ht-degree: 4%
       + [Anpassa färgerna i en Adobe [!DNL Stock] vektorillustration](stock/customizecolors.md)
 + Adobe 3D och VR {#3doverview}
    + [Översikt](3di/overview-3di.md)
-   + Tutorials {#3dtutorials}
+   + Självstudiekurser {#3dtutorials}
       + [3D-design och rendering](3di/substance-3d-stager.md)
       + [Tips och tekniker för att bemästra 3D-ljus i CGI](3di/mastering3dlighting.md)
       + [Skapa fotorealistisk virtuell fotografering med 3D-rendering och komposition](3di/photorealistic.md)
       + [Anpassa och varumärkesanpassa en 3D-modell med  [!DNL Dimension] och Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobe-video {#videooverview}
    + [Översikt](dva/overview-dva.md)
-   + Tutorials {#videotutorials}
+   + Självstudiekurser {#videotutorials}
       + [Professionella mallar för rörlig grafik](dva/motion-graphics-templates.md)
       + [Videogranskning med Frame.io](dva/video-review-frame-io.md)
    + Snabbreferensstödlinjer {#videorefguides}
       + [Videostödlinjer](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [Översikt](xd/overview-xd.md)
-   + Tutorials {#xdtutorials}
+   + Självstudiekurser {#xdtutorials}
    + [Bekanta dig med [!UICONTROL komponenter] i Adobe XD](xd/components.md)
-+ Distribuera och hantera {#deploy}
++ Driftsätta och hantera {#deploy}
    + [Översikt](deploy/overview-deploy.md)
    + [Serienummer löper ut](deploy/cceserial.md)
    + [Namngiven användarlicensiering](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
    + [Översikt](max/overview-max.md)
-   + Tutorials {#tutorials}
+   + Självstudiekurser {#tutorials}
       + [Översikt](max/maxtutorials.md)
-      + Datorprodukter {#desktop-products}
+      + Produkter för stationära datorer {#desktop-products}
          + [Acrobat och Sign](max/acrobat-sign.md)
          + [[!DNL Dimension]](max/dimension.md)
          + [Illustrator](max/illustrator.md)
