@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8ecd2f40db3e601c0a57df1812293ca869e815ea
+source-git-commit: aebe14690cd3c13019ed593c7ca3ffe284b1354b
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '817'
 ht-degree: 5%
 
 ---
@@ -113,7 +113,6 @@ ht-degree: 5%
    + Självstudiekurser {#firefly-tutorials}
       + [Översikt över  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
       + [Upptäck  [!DNL Adobe Firefly]](firefly/discover.md)
-      + [Ta bort och ersätt bakgrunden med kreativ produktion](firefly/creative-production/background.md)
       + [Snabba upp kreativiteten](firefly/accelerate-ideas.md)
       + [Skapa återanvändbara scener för varor](firefly/reusable-scenes.md)
       + [Skapa en anpassad modell med ett ämne](firefly/custom-model-subject.md)
@@ -128,6 +127,9 @@ ht-degree: 5%
       + [Varianter av banderollannons i  [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [Generativ fyllning i  [!DNL Photoshop]](firefly/generative-fill.md)
       + [Generativ omfärgning i  [!DNL Illustrator]](firefly/generative-recolor.md)
+   + Självstudiekurser om kreativ produktion {#firefly-creative-production}
+      + [Översikt över  [!DNL Adobe Firefly] Kreativ produktion](firefly/creative-production/overview-firefly-creative-production.md)
+      + [Ta bort och ersätta bakgrunden](firefly/creative-production/background.md)
    + Webbseminarier {#firefly-webinars}
       + [Experimentera med Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
