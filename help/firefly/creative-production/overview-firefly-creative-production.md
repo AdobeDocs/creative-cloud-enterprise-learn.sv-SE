@@ -22,7 +22,7 @@ Adobe Firefly Creative Production No-code interface gör vanliga redigeringar ti
 <!-- CARDS
 
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production
-  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium}
+  {image = https://experienceleague.adobe.com/sv/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
 
 -->
@@ -37,7 +37,7 @@ Adobe Firefly Creative Production No-code interface gör vanliga redigeringar ti
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" title="Adobe Firefly - översikt över kreativ produktion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium" alt="Adobe Firefly - översikt över kreativ produktion"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium" alt="Adobe Firefly - översikt över kreativ produktion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
