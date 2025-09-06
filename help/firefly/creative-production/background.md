@@ -18,4 +18,4 @@ Lär dig använda [!DNL Firefly] Creative Production för att ta bort och/eller 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3472916?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3472923?quality=12&learn=on&hidetitle=true&captions=swe)
