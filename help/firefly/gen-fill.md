@@ -19,4 +19,4 @@ Lär dig använda Generativ fyllning för att lägga till, utöka eller ta bort 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427609?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3473993?quality=12&learn=on&hidetitle=true&captions=swe)
