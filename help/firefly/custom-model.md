@@ -1,6 +1,6 @@
 ---
 title: Skapa en anpassad modell
-description: Lär dig att träna Firefly-specialmodeller. Du kan läsa mer [här](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
+description: Lär dig att träna Firefly-specialmodeller. Du kan läsa mer [här](https://helpx.adobe.com/se/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Skapa en anpassad modell
 
-Lär dig hur du utbildar specialmodeller i Firefly för att skapa nya fräscha bilder till ditt företags varumärke. Med anpassade modeller kan du skapa relevant, anpassat varumärkesinnehåll i stor skala. Läs mer om utbildning av anpassade modeller [här](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
+Lär dig hur du utbildar specialmodeller i Firefly för att skapa nya fräscha bilder till ditt företags varumärke. Med anpassade modeller kan du skapa relevant, anpassat varumärkesinnehåll i stor skala. Läs mer om utbildning av anpassade modeller [här](https://helpx.adobe.com/se/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 
 <br> 
 
