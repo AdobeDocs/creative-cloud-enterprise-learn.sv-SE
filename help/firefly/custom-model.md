@@ -1,24 +1,24 @@
 ---
 title: Skapa en anpassad modell
-description: Lär dig att träna Firefly-specialmodeller. Du kan läsa mer [här](https://helpx.adobe.com/se/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
+description: Lär dig att träna Firefly-specialmodeller. Du kan läsa mer [här](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-19197
-source-git-commit: 6a6d7585b4face212ca5c26b60972d4e3a02cf1b
+source-git-commit: 8d11464360f33abad7e801be57c089eaacbbf8d7
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # Skapa en anpassad modell
 
-Lär dig hur du utbildar specialmodeller i Firefly för att skapa nya fräscha bilder till ditt företags varumärke. Med anpassade modeller kan du skapa relevant, anpassat innehåll i stor skala. Läs mer om utbildning av anpassade modeller [här](https://helpx.adobe.com/se/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)
+Lär dig hur du utbildar specialmodeller i Firefly för att skapa nya fräscha bilder till ditt företags varumärke. Med anpassade modeller kan du skapa relevant, anpassat varumärkesinnehåll i stor skala. Läs mer om utbildning av anpassade modeller [här](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474935?quality=12&learn=on&hidetitle=true&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
 
 ## Vad är anpassade Firefly-modeller
 
