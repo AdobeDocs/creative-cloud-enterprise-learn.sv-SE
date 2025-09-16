@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-19197
 index: false
 hidefromtoc: true
-source-git-commit: 021afe1407edaac712da957b590a3096658e87c5
+source-git-commit: 7ebbbac26c65a3e99bdc18eb0c4d5db7e162d5ae
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 1%
+source-wordcount: '175'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,21 @@ Lär dig skapa egna modeller i Firefly för att skapa nya fräscha bilder till d
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474935?quality=12&learn=on&hidetitle=true&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
+
+## Vad är anpassade Firefly-modeller
+
+Med anpassade modeller kan organisationer generera bildinnehåll som är anpassat till deras varumärkesidentitet med hjälp av Firefly text till bild-funktion.
+
+Du kan träna dessa modeller med dina egna bilder och skapa innehåll som återspeglar din stil, ditt motiv eller andra varumärkeselement.
+
+## Grundläggande fördelar/användningsfall
+
+**Skapa varumärkeskonsekvent design** skapa snabbt bilder som ligger nära varumärkets estetik.
+
+**Teckenteman** Håll ihop figurbaserade bilder över scener, belysning, poseringar osv. Minskar den tid som läggs på utveckling.
+
+**Snabbare konceptiterationer** Förkorta anpassningen mellan intressenter genom att visa upp idéer och koncept som passar varumärket tidigare.
 
 >[!IMPORTANT]
 >
