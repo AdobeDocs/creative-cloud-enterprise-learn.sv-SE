@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 52677453aa7f1d1efd92259f29036433430ca557
+source-git-commit: f60b915c0a289217dec46ca72659c015ae71aaef
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '808'
 ht-degree: 5%
 
 ---
@@ -116,8 +116,6 @@ ht-degree: 5%
       + [Snabba upp kreativiteten](firefly/accelerate-ideas.md)
       + [Skapa återanvändbara scener för varor](firefly/reusable-scenes.md)
       + [Skapa en anpassad modell](firefly/custom-model.md)
-      + [Skapa en anpassad modell med ett ämne](firefly/custom-model-subject.md)
-      + [Skapa en anpassad modell med format](firefly/custom-model-style.md)
       + [Landningssida](firefly/landing-page.md)
       + [Text till bild](firefly/text-to-image.md)
       + [Texteffekter](firefly/text-effects.md)
