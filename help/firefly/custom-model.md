@@ -20,7 +20,7 @@ Lär dig skapa egna modeller i Firefly för att skapa nya fräscha bilder till d
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3474935?quality=12&learn=on&hidetitle=true&captions=swe)
 
 >[!IMPORTANT]
 >
