@@ -312,7 +312,7 @@ Firefly är den nya familjen av generativa AI-modeller för kreatörer som komme
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" title="Texteffekter" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420829?quality=12&hidetitle=true&format=jpeg&nocache=1758042897047" alt="Texteffekter"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432213?quality=12&hidetitle=true&format=jpeg&nocache=1758042897047&captions=swe" alt="Texteffekter"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
