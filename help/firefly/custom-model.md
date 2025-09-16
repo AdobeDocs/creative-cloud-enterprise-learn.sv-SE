@@ -7,20 +7,20 @@ level: Beginner
 jira: KT-19197
 index: false
 hidefromtoc: true
-source-git-commit: 7ebbbac26c65a3e99bdc18eb0c4d5db7e162d5ae
+source-git-commit: f68247cca10a0a3b9d9b4343bdcd2742fb8cd451
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-# Skapa en anpassad modell med format
+# Skapa en anpassad modell
 
 Lär dig skapa egna modeller i Firefly för att skapa nya fräscha bilder till ditt företags varumärke med hjälp av specifika stiltyper, till exempel bakgrunder, färger och nyanser. Med anpassade modeller kan du skapa relevant, anpassat innehåll i stor skala. Prova Adobe Firefly [här](https://firefly.adobe.com/).
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474935?quality=12&learn=on&hidetitle=true&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
 
 ## Vad är anpassade Firefly-modeller
 
