@@ -83,7 +83,7 @@ A.J Wood, Senior Solutions Consultant (Digital Media)
 
 **Photoshop-resurser**
 
-[Utbildning och support](https://helpx.adobe.com/support/photoshop.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/photoshop/using/whats-new.html) och länkar till communityforum.
+[Utbildning och support](https://helpx.adobe.com/se/support/photoshop.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/se/photoshop/using/whats-new.html) och länkar till communityforum.
 
 **Oktober 2020-utgåvan**
 
