@@ -5,9 +5,9 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -48,18 +48,18 @@ Photoshop är världens bästa bildbehandlings- och grafikdesignprogram. Det ger
 </tr>
 </table>
 
-## Redigera bilder så att de matchar din kampanj (5:45) {#tutorial1}
+## Redigera bilder för att matcha din kampanj (5:45) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326950?hidetitle=true)
 
 **Beskrivning**
 Använd de kraftfulla markerings- och färgredigeringsverktygen i Adobe Photoshop för att dramatiskt ändra en bild så att den passar ditt företags varumärkesbehov.
 
-I den här självstudiekursen får du lära dig mer om att:
+I den här självstudiekursen får du lära dig hur:
 * Med objektmarkeringsverktyget kan du markera objekt både snabbare och enklare
 * Innehållsanpassad fyllning ger mer kontroll över provområdena i en källbild, vilket ger bättre kloning och lagning av målområden
 * Penslar kan ha olika former för bättre resultat
-* Adobe Sensei hjälper till att utnyttja artificiell intelligens för vardagliga uppgifter
+* Adobe AI utnyttjar artificiell intelligens för vardagliga uppgifter
 
 **Presenteras av:**
 A.J Wood, Senior Solutions Consultant (Digital Media)
@@ -83,7 +83,7 @@ A.J Wood, Senior Solutions Consultant (Digital Media)
 
 **Photoshop-resurser**
 
-[Utbildning och support](https://helpx.adobe.com/se/support/photoshop.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/se/photoshop/using/whats-new.html) och länkar till communityforum.
+[Utbildning och support](https://helpx.adobe.com/support/photoshop.html) är navet för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/photoshop/using/whats-new.html) och länkar till communityforum.
 
 **Oktober 2020-utgåvan**
 

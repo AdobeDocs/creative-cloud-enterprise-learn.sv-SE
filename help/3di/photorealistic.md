@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 keywords: virtuell fotografering, 100 globala MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '2387'
+source-wordcount: '2376'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Den här tekniken för att skapa lager eller &quot;sätta samman&quot; 3D-modell
 
 ![Redigera planet för en metallsfärmodell i en Adobe [!DNL Dimension]-sammansatt bild](assets/Photorealistic_3.png)
 
-Adobe [!DNL Dimension] har gjort det möjligt för användare att sömlöst kombinera 2D- och 3D-element direkt i programmet genom att använda den Adobe Sensei-drivna matchningsbildfunktionen. Den största fördelen med att sätta samman element på det här sättet är att det i turbo går att skapa en bild med realistiskt utseende genom att ersätta en fullt realiserad 3D-scen med en bakgrundsbild, som kan fångas upp från verkligheten.
+Adobe [!DNL Dimension] har gjort det möjligt för användare att sömlöst kombinera 2D- och 3D-element direkt i appen genom att använda Adobe AI. Den största fördelen med att sätta samman element på det här sättet är att det i turbo går att skapa en bild med realistiskt utseende genom att ersätta en fullt realiserad 3D-scen med en bakgrundsbild, som kan fångas upp från verkligheten.
 
 ![Funktionen Matcha bild i Adobe [!DNL Dimension] analyserar bakgrundsbilden och uppskattar brännvidd och position för den kamera som användes för att ta bilden](assets/Photorealistic_4.gif)
 
@@ -38,7 +38,7 @@ Men hur är det med allt som inte tagits med i kamerans ram?  Hela miljön som e
 
 ![En fotorealistisk 3D-sammansatt bild av en moped i vardagsrummet](assets/Photorealistic_5.png)
 
-Med Matcha bild görs ett försök att &quot;hallucinera&quot; den belysningsmiljö där en bakgrundsbild togs. Den gör ett imponerande arbete som kommer att ge utmärkta resultat i kort ordning, men att fånga miljön tillsammans med bakgrundsbilden kommer att ge ännu mer realistiska resultat. Det här är till och med den metod som används för att träna Adobe Sensei-funktionen så att den fungerar på egen hand.
+Med Matcha bild görs ett försök att &quot;hallucinera&quot; den belysningsmiljö där en bakgrundsbild togs. Den gör ett imponerande arbete som kommer att ge utmärkta resultat i kort ordning, men att fånga miljön tillsammans med bakgrundsbilden kommer att ge ännu mer realistiska resultat. Detta är även den metod som används för att träna Adobe AI.
 
 ![360 graders HDR-panorama för kontorsutrymme](assets/Photorealistic_6.png)
 

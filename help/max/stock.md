@@ -5,9 +5,9 @@ feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Kreatörer pressas att snabbt leverera nytt, visuellt övertygande innehåll som
     <div>
    <a href="stock.md#tutorial1"><strong>Hitta de bästa resurserna snabbare med Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Hitta den perfekta royaltyfria stockbilden som piffar upp ditt projekt med bättre och snabbare sökresultat från Adobe Sensei, vår artificiella intelligens-motor</em>
+    <em>Hitta den perfekta royaltyfria stockbilden som piffar upp ditt projekt med bättre och snabbare sökresultat från Adobe AI</em>
     <br>
   </td>
   <td>
@@ -54,9 +54,10 @@ Adobe Experience Manager</strong></a>
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **Beskrivning**
-Hitta den perfekta royaltyfria stockbilden som piffar upp ditt kreativa projekt och använd bättre och snabbare sökresultat från Adobe Sensei, vår artificiella intelligens-motor.
+Hitta den perfekta royaltyfria stockbilden som piffar upp ditt kreativa projekt och få bättre och snabbare sökresultat med Adobe AI.
 
 I den här självstudiekursen får du lära dig mer om att:
+
 * Minska tidsåtgången och stressen när du letar efter bilder och videor av hög kvalitet
 * Hantera och spåra resurslicenser och användning i hela företaget på ett enkelt sätt
 * Sök efter, förhandsgranska och licensiera direkt i dina Adobe Creative Cloud-program
@@ -65,7 +66,7 @@ I den här självstudiekursen får du lära dig mer om att:
 
 Victoria Torres, [!DNL Stock] lösningskonsult (digitala medier)
 
-## Sök efter och licensiera [!DNL Stock] mediefiler i AEM (6:46) {#tutorial2}
+## Sök efter och licensiera [!DNL Stock]-mediefiler i AEM (6:46) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
@@ -84,7 +85,7 @@ Emily Palmer, lösningskonsult (digitala medier)
 
 **Resurser för Adobe [!DNL Stock]**
 
-[Lär dig mer och support](https://helpx.adobe.com/se/support/stock.html) är navet för ytterligare självstudiekurser och länkar till användarforum.
+[Lär dig mer och support](https://helpx.adobe.com/support/stock.html) är navet för ytterligare självstudiekurser och länkar till användarforum.
 
 **Oktober 2020-utgåvan**
 
